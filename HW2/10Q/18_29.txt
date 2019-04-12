@@ -1,0 +1,3492 @@
+item 2. management’s discussion and analysis of financial condition and results of operations
+
+our management’s discussion and analysis of financial condition and results of operations (md&a) is
+provided in addition to the accompanying consolidated condensed financial statements and notes to
+assist readers in understanding our results of operations, financial condition, and cash flows.
+md&a is organized as follows:
+
+
+
+ 
+•
+ 
+overview. discussion of our business and overall analysis of financial and other
+highlights affecting the company in order to provide context for the remainder of md&a.
+
+
+ 
+•
+ 
+strategy. overall strategy and the strategy for our operating segments.
+
+
+ 
+•
+ 
+critical accounting estimates. accounting estimates that we believe are most important
+to understanding the assumptions and judgments incorporated in our reported financial
+results and forecasts.
+
+
+ 
+•
+ 
+results of operations. an analysis of our financial results comparing the first quarter
+of 2009 to the first quarter of 2008.
+
+
+ 
+•
+ 
+business outlook. our expectations for selected financial items for the second quarter
+of 2009 and the 2009 full year.
+
+
+ 
+•
+ 
+liquidity and capital resources. an analysis of changes in our balance sheets and cash
+flows, and discussion of our financial condition including the credit quality of our
+investment portfolio and potential sources of liquidity.
+
+
+ 
+•
+ 
+fair value of financial instruments. discussion of the methodologies used in the valuation of our financial
+instruments.
+
+
+the various sections of this md&a contain a number of forward-looking statements. words such as
+“expects,” “goals,” “plans,” “believes,” “continues,” “may,” and variations of such words and
+similar expressions are intended to identify such forward-looking statements. in addition, any
+statements that refer to projections of our future financial performance, our anticipated growth
+and trends in our businesses, and other characterizations of future events or circumstances are
+forward-looking statements. such statements are based on our current expectations and could be
+affected by the uncertainties and risk factors described throughout this filing and particularly in
+the “business outlook” section (see also “risk factors” in part ii, item 1a of this form 10-q). our
+actual results may differ materially, and these forward-looking statements do not reflect the
+potential impact of any divestitures, mergers, acquisitions, or other business combinations that
+had not been completed as of april 27, 2009.
+
+overview
+
+our goal is to be the preeminent provider of semiconductor chips and platforms for the worldwide
+digital economy. our primary component-level products include microprocessors, chipsets, and flash
+memory.
+
+net revenue, gross margin, operating income, and net income for the first quarter of 2009, the
+fourth quarter of 2008, and the first quarter of 2008 were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2009
+ 
+ 
+q4 2008
+ 
+ 
+q1 2008
+ 
+
+
+
+
+net revenue
+ 
+$
+7,145
+ 
+ 
+$
+8,226
+ 
+ 
+$
+9,673
+ 
+
+
+gross margin
+ 
+$
+3,238
+ 
+ 
+$
+4,369
+ 
+ 
+$
+5,207
+ 
+
+
+operating income
+ 
+$
+647
+ 
+ 
+$
+1,539
+ 
+ 
+$
+2,062
+ 
+
+
+net income
+ 
+$
+629
+ 
+ 
+$
+234
+ 
+ 
+$
+1,443
+ 
+
+
+
+our first quarter results were impacted by the weak worldwide economy, reduced pc demand, and a
+supply chain inventory correction. revenue for the first quarter of 2009 was down 13% from the
+fourth quarter of 2008 and 26% from the first quarter of 2008. the sequential decline was larger
+than normal seasonal patterns and we experienced declines in all geographic regions. although
+revenue declined sequentially for both the mobility group (mg) and digital enterprise group (deg),
+the decline in deg was less than the decline in mg due to a shorter overall supply chain for deg
+products. as the market adapted to a supply chain inventory correction and demand level
+adjustments, the shorter supply chain contributed to more normal order patterns earlier in the
+quarter for deg compared to mg. we have executed well in adjusting to these new lower demand levels
+and our quarterly results were stronger than anticipated. we have reduced our employees by 1,400 as
+we close older generation manufacturing facilities and consolidate assembly and test facilities. we
+believe that we have turned the corner from the significant revenue declines of the past two
+quarters and established a new baseline, and we expect the industry to return to seasonal patterns
+during the second half of 2009. however, there is still significant macroeconomic uncertainty that
+could impact demand.
+
+our gross margin for the first quarter was negatively impacted by factory underutilization charges
+due to maintaining reduced factory loadings, and start-up costs on our new 32nm process technology.
+this reduced level of factory loadings directly contributed to a $699 million reduction in
+inventory in the first quarter. we began to increase factory loadings at the end of the first
+quarter and as a result we expect factory underutilization charges to be reduced in the second
+quarter and positively impact our gross margin. we expect this positive impact to gross margin in
+the second quarter to be largely offset by the expected mix of products sales; higher unit costs on
+sales of products built in the fourth and first quarter when factories were loaded at lower levels;
+and higher start-up costs associated with our new 32nm process technology. the start-up costs
+associated with the 32nm process technology should decline in the second half of 2009 as we expect
+to begin shipping the first products based on the 32nm process technology later in 2009.
+
+29
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+our tax rate decreased from prior periods due to the first quarter settlement of various federal
+and state tax matters related to prior years and as a result of a higher percentage of our profits
+coming from lower tax jurisdictions. we expect the concentration of profits in lower tax
+jurisdictions to continue in 2009 and expect our tax rate to be approximately 24% for the second,
+third, and fourth quarters of 2009.
+
+our product lineup is extremely well positioned across the spectrum of computing. in the first
+quarter we extended our competitive advantage in the enterprise market segment with the release of
+the intel® xeontm processor 5500 series (part of our nehalam family of
+processors). this family of products represents the largest increase in server performance from one
+generation to the next. although the server business remains a challenge in the near term, we
+believe this family of products provides a strong value proposition for enterprise customers as it
+can lower the cost of computing while increasing performance.
+
+from a financial condition perspective, we ended the first quarter of 2009 with an investment
+portfolio valued at $12.8 billion, consisting of cash and cash equivalents, debt instruments
+included in trading assets, and short- and long-term investments. the credit quality of our
+investment portfolio remains high during this difficult credit environment, with
+other-than-temporary impairments on our available-for-sale debt instruments limited to $7 million
+in the first quarter of 2009 and $51 million cumulatively since the beginning of 2008. in addition,
+we continue to be able to invest in high-quality investments. however, we have seen a reduction in
+the volume of available commercial paper from certain market segments. as a result, our investments
+in short-term government funds have increased, which will reduce our average investment return.
+despite the continued tightness of the credit markets, we continue to be able to access funds
+through the credit markets, including through the issuance of commercial paper. with the exception
+of a limited amount of investments for which we have recognized other-than-temporary impairments,
+we have not seen significant liquidation delays, and for those that have matured we have received
+the full par value of our original debt investments. for additional details on our investment
+portfolio, see “liquidity and capital resources.”
+
+during the first quarter of 2009, we paid $779 million to stockholders as dividends, and in march,
+our board of directors declared a dividend of $0.14 per common share to be paid in june.
+
+strategy
+
+our goal is to be the preeminent provider of semiconductor chips and platforms for the worldwide
+digital economy. as part of our overall strategy to compete in each relevant market segment, we use
+our core competencies in the design and manufacture of integrated circuits, as well as our
+financial resources, global presence, and brand recognition. we believe that we have the scale,
+capacity, and global reach to establish new technologies and respond to customers’ needs quickly.
+
+some of our key focus areas are listed below:
+
+
+
+ 
+•
+ 
+customer orientation. our strategy focuses on developing our next generation of products
+based on the needs and expectations of our customers. in turn, our products help enable the
+design and development of new form factors and usage models for businesses and consumers.
+we offer platforms that incorporate various components designed and configured to work
+together to provide an optimized user computing solution, compared to components that are
+used separately.
+
+
+ 
+•
+ 
+architecture and platforms. we are developing integrated platform solutions by moving
+the memory controller and graphics functionality from the chipset to the microprocessor.
+this platform repartitioning is designed to provide improved performance due to higher
+integration, lower power consumption, and reduced platform size. in addition, we are
+focusing on improved energy-efficient performance for computing and communications systems
+and devices. improved energy-efficient performance involves balancing improved performance
+with lower power consumption. we continue to develop multi-core microprocessors with an
+increasing number of cores, which enable improved multitasking and energy efficiency. we
+are also focusing on the development of a new highly scalable, many-core architecture aimed
+at parallel processing. this architecture will initially be used in developing discrete
+graphics processors designed for gaming and media creation. over time, this architecture
+may be utilized in the development of products for scientific and professional workstations
+as well as high-performance computing applications.
+
+
+ 
+•
+ 
+silicon and manufacturing technology leadership. our strategy for developing
+microprocessors with improved performance is to synchronize the introduction of a new
+microarchitecture with improvements in silicon process technology. we plan to introduce a
+new microarchitecture approximately every two years and ramp the next generation of silicon
+process technology in the intervening years. this coordinated schedule allows us to develop
+and introduce new products based on a common microarchitecture quickly, without waiting for
+the next generation of silicon process technology. we refer to this as our “tick-tock”
+technology development cadence.
+
+
+30
+
+
+
+ 
+
+
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+
+
+ 
+•
+ 
+strategic investments. we make equity investments in companies around the world that we
+believe will generate returns, further our strategic objectives, and support our key business
+initiatives. our investments, including those made through our intel capital program,
+generally focus on investing in companies and initiatives to stimulate growth in the digital
+economy, create new business opportunities for intel, and expand global markets for our
+products. our current investments focus on the following areas: advancing flash memory
+products, enabling mobile wireless devices, advancing the digital home, enhancing the digital
+enterprise, advancing high-performance communications infrastructures, and developing the
+next generation of silicon process technologies. our focus areas and investment activities
+tend to develop and change over time due to rapid advancements in technology and changes in
+the economic climate.
+
+
+ 
+•
+ 
+business environment and software. we believe that we are well positioned in the
+technology industry to help drive innovation, foster collaboration, and promote industry
+standards that will yield innovation and improved technologies for users. we plan to
+continue to cultivate new businesses and work to encourage the industry to offer products
+that take advantage of the latest market trends and usage models. we frequently participate
+in industry initiatives designed to discuss and agree upon technical specifications and
+other aspects of technologies that could be adopted as standards by standards-setting
+organizations. in addition, we work collaboratively with other companies to protect digital
+content and the consumer. lastly, through our software and services group (ssg), we help
+enable and advance the computing ecosystem by providing development tools and support to
+help software developers create software applications and operating systems that take
+advantage of our platforms.
+
+
+we believe that the proliferation of the internet, including user demand for premium content and
+rich media, drives the need for greater performance in pcs and servers. a growing number of older
+pcs are increasingly incapable of handling the tasks that users demand, such as streaming video,
+uploading photos, and online gaming. as these tasks become even more demanding and require more
+computing power, we believe that users will need and want to buy new pcs to perform everyday tasks
+on the internet. we also believe that increased internet traffic creates a need for greater server
+infrastructure, including server products optimized for energy-efficient performance.
+
+while in the first quarter of 2009 sales declined more significantly for mg versus deg, we believe
+that the trend of mobile microprocessor unit growth outpacing the growth in desktop microprocessor
+units will eventually resume. we believe that the demand for mobile microprocessors will result in
+the increased development of products with form factors and uses that require low-power
+microprocessors.
+
+our silicon and manufacturing technology leadership allows us to develop low-power microprocessors
+for new uses and form factors. we believe that these low-power microprocessors give us the ability
+to extend intel architecture and drive growth in new market segments, including a growing number of
+products that require processors specifically designed for embedded solutions, mobile internet
+devices (mids), consumer electronics devices, nettops, and netbooks. we believe that the common
+elements for products in these new market segments are low power consumption and the ability to
+access the internet.
+
+to meet the demands of new and evolving mobile markets segments, we also offer, and are continuing
+to develop, system on chip (soc) products that integrate core processing functionality with
+specific components, such as graphics, audio, and video, onto a single chip to form a purpose-built
+solution. this integration reduces cost, power consumption, and size. in the first quarter of 2009,
+we announced plans to collaborate with taiwan semiconductor manufacturing company, ltd. (tsmc), a
+large semiconductor foundry, in an effort to broaden the market opportunities for intel®
+atomtm processors in soc products by integrating our intel atom processor cores
+with tsmc’s process technology platform.
+
+strategy by operating segment
+
+the strategy for our digital enterprise group (deg) is to offer computing and communications
+products for businesses, service providers, and consumers. deg products are incorporated into
+desktop and nettop computers, enterprise computer servers and workstations, and products that make
+up the infrastructure for the internet. we also offer products for embedded designs, such as
+industrial equipment, point-of-sale systems, telecommunications, panel pcs, in-vehicle
+information/entertainment systems, and medical equipment. our strategy for the desktop computing
+market segment is to offer products that provide increased manageability, security, and
+energy-efficient performance while at the same time lowering total cost of ownership for
+businesses. for consumers in the desktop computing market segment, we also focus on the design of
+components for high-end enthusiast pcs and mainstream pcs with rich audio and video capabilities.
+our strategy for the nettop computing market segment is to offer products that enable affordable,
+internet-focused devices with small form factors. our strategy for the enterprise computing market
+segment is to offer products that provide energy-efficient performance and virtualization
+technology for server, workstation, and storage platforms. we are also increasing our focus on
+products designed for high-performance computing, data centers, and blade server systems. our
+strategy for the embedded computing market segment is to drive intel architecture as an embedded
+solution by delivering long life cycle support, architectural scalability, and platform
+integration.
+
+31
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+the strategy for our mobility group is to offer notebook pc products designed to improve
+performance, battery life, and wireless connectivity, as well as to allow for the design of
+smaller, lighter, and thinner form factors. we are also increasing our focus on products designed
+for the business and consumer environments by offering technologies that provide increased
+manageability and security, and we continue to invest in the build-out of wimax. we also offer, and
+are continuing to develop, products that enable mobile devices to deliver digital content and the
+internet to users in new ways, including products for mids and netbooks.
+
+the strategy for our nand solutions group is to offer advanced nand flash memory products, focusing
+on system-level solutions for intel architecture platforms such as solid-state drives.
+additionally, we offer nand products used in memory cards. in support of our strategy to provide
+advanced flash memory products, we continue to focus on the development of innovative products
+designed to address the needs of customers for reliable, non-volatile, low-cost, high-density
+memory.
+
+the strategy for our digital home group is to offer products and solutions, including soc designs,
+for use in consumer electronics devices designed to access and share internet, broadcast, optical
+media, and personal content through a variety of linked digital devices within the home. we are
+focusing on the design of components for consumer electronics devices, such as digital tvs,
+high-definition media players, and set-top boxes, which receive, decode, and convert incoming data
+signals.
+
+the strategy for our digital health group is to design and deliver technology-enabled products and
+explore global business opportunities in healthcare information technology and healthcare research,
+as well as personal healthcare. in support of this strategy, we are focusing on the design of
+technology solutions and platforms for the digital hospital and consumer/home health products.
+
+the strategy for our software and services group is to promote intel architecture as the platform
+of choice for software and services. ssg works with the worldwide software and services ecosystem
+by providing software products, engaging with developers, and driving strategic software
+investments.
+
+critical accounting estimates
+
+the methods, estimates, and judgments that we use in applying our accounting policies have a
+significant impact on the results that we report in our financial statements. some of our
+accounting policies require us to make difficult and subjective judgments, often as a result of the
+need to make estimates regarding matters that are inherently uncertain. our most critical
+accounting estimates include:
+
+
+
+ 
+•
+ 
+the valuation of non-marketable equity investments and the determination of
+other-than-temporary impairments, which impact gains (losses) on equity method investments,
+net, or gains (losses) on other equity investments, net when we record impairments;
+
+
+ 
+•
+ 
+the valuation of investments in debt instruments and the determination of
+other-than-temporary impairments, which impact our investment portfolio balance when we
+assess fair value, and interest and other, net when we record impairments of
+available-for-sale debt instruments;
+
+
+ 
+•
+ 
+the assessment of recoverability of long-lived assets, which primarily impacts gross
+margin or operating expenses when we record asset impairments or accelerate their
+depreciation;
+
+
+ 
+•
+ 
+the recognition and measurement of current and deferred income taxes (including the
+measurement of uncertain tax positions), which impact our provision for taxes; and
+
+
+ 
+•
+ 
+the valuation of inventory, which impacts gross margin.
+
+
+below, we discuss these policies further, as well as the estimates and judgments involved. we also
+have other policies that we consider key accounting policies, such as those for revenue
+recognition, including the deferral of revenue on sales to distributors; however, these policies
+typically do not require us to make estimates or judgments that are difficult or subjective.
+
+non-marketable equity investments
+
+the carrying value of our non-marketable equity investment portfolio, excluding equity derivatives,
+totaled $3.8 billion as of march 28, 2009 ($4.1 billion as of december 27, 2008). the majority of
+this balance as of march 28, 2009 was concentrated in companies in the flash memory market segment.
+our flash memory market segment investments include our investment in im flash technologies, llc
+(imft) of $1.6 billion ($1.7 billion as of december 27, 2008), our investment in im flash
+singapore, llp (imfs) of $316 million ($329 million as of december 27, 2008), and our investment in
+numonyx b.v. of $461 million ($484 million as of december 27, 2008). in addition, we regularly
+invest in non-marketable equity instruments of private companies, which range from early-stage
+companies that are often still defining their strategic direction to more mature companies with
+established revenue streams and business models. for additional information, see “note 8: equity
+method investments” in the notes to consolidated condensed financial statements of this form 10-q.
+
+32
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+our non-marketable equity investments are recorded using adjusted cost basis or the equity method
+of accounting, depending on the facts and circumstances of each investment. our non-marketable
+equity investments are classified in other long-term assets on the consolidated condensed balance
+sheets.
+
+non-marketable equity investments are inherently risky, and a number of the companies in which we
+invest are likely to fail. their success is dependent on product development, market acceptance,
+operational efficiency, and other key business factors. depending on their future prospects, the
+companies may not be able to raise additional funds when the funds are needed or they may receive
+lower valuations, with less favorable investment terms than in previous financings, and our
+investments would likely become impaired. additionally, the current financial markets are extremely
+volatile and there has been a tightening of the credit markets, which could negatively affect the
+prospects of the companies we invest in, their ability to raise additional capital, and the
+likelihood of our being able to realize value in our investments through liquidity events such as
+initial public offerings, mergers, and private sales. for further information about our investment
+portfolio risks, including those specific to our investments in the flash memory market segment, see “risk factors” in part ii, item 1a of this form 10-q.
+
+we review our investments quarterly for indicators of impairment. for non-marketable equity
+investments, the impairment analysis requires significant judgment to identify events or
+circumstances that would significantly harm the fair value of the investment. the indicators that
+we use to identify those events or circumstances primarily include:
+
+
+
+ 
+•
+ 
+the investee’s revenue and earnings trends relative to predefined milestones and overall
+business prospects;
+
+
+ 
+•
+ 
+the technological feasibility of the investee’s products and technologies;
+
+
+ 
+•
+ 
+the general market conditions in the investee’s industry or geographic area, including
+adverse regulatory or economic changes;
+
+
+ 
+•
+ 
+factors related to the investee’s ability to remain in business, such as the investee’s
+liquidity, debt ratios, and the rate at which the investee is using its cash; and
+
+
+ 
+•
+ 
+the investee’s receipt of additional funding at a lower valuation.
+
+
+investments that we identify as having an indicator of impairment are subject to further analysis
+to determine if the fair value of the investment is below our carrying value. if the fair value of
+the investment is below our carrying value, we determine if the investment is other than
+temporarily impaired based on the severity and duration of the impairment. if the investment is
+considered to be other than temporarily impaired, we write down the investment to its fair value.
+the assessment of fair value for non-marketable investments is based on the provisions of statement
+of financial accounting standards (sfas) no. 157, “fair value measurements” (sfas no. 157), as
+amended. with the exception of clearwire communications, llc (clearwire llc), the fair value of our
+non-marketable investments are classified as level 3 when impaired, as we use unobservable inputs
+to the valuation methodology that are significant to the fair value measurement, and the valuation
+requires management judgment due to the absence of quoted market prices and inherent lack of
+liquidity. if impaired, the fair value of our investment in clearwire llc would be classified as
+level 2, as the unobservable inputs to the valuation methodology are not significant to the fair
+value measurement.
+
+impairments of non-marketable equity investments were $79 million in the first quarter of 2009.
+over the past 12 quarters, including the first quarter of 2009, impairments of non-marketable
+equity investments have ranged from $10 million to $896 million per quarter. this range includes
+impairments of $896 million during the fourth quarter of 2008, which were primarily related to a
+$762 million impairment charge on our investment in clearwire llc.
+
+the following is a discussion of the methods, estimates, and judgments that management uses in our
+analysis to determine if our non-marketable equity investments are other than temporarily impaired.
+
+imft/imfs
+
+imft and imfs are variable interest entities that are designed to manufacture and sell nand
+products to intel and micron technology, inc. at manufacturing cost. our nand solutions group
+operating segment purchases 49% of these nand products from imft and sells them to our customers.
+as a result, we generate cash flows from our investments in imft, imfs, and our intangible assets
+related to the nand product designs through our nand solutions group business. therefore, we
+determine the fair value of our investments in imft and imfs using the income approach, based on a
+weighted average of multiple discounted cash flow scenarios of our nand solutions group business.
+
+33
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+the discounted cash flow scenarios require the use of unobservable inputs, including assumptions of
+projected revenues (including product volume, product mix, and average selling prices), expenses,
+capital spending, and other costs, as well as a discount rate. estimates of projected revenues,
+expenses, capital spending, and other costs are developed by imft, imfs, and intel using historical
+data and available market data. management also determines how multiple discounted cash flow
+scenarios are weighted in the fair value determination. additionally, the development of several
+inputs used in our income model (such as discount rate) requires the selection of comparable
+companies within the nand flash memory market segment. the selection of comparable companies
+requires management judgment and is based on a number of factors, including nand products and
+services lines within the flash memory market segment, comparable companies’ sizes, growth rates,
+and other relevant factors.
+
+changes in management estimates to the unobservable inputs would change the fair value of the
+investment. the estimates for the projected revenue and discount rate are the assumptions that most
+significantly affect the fair value determination. we did not have an other-than-temporary
+impairment on our investments in imft and imfs in the first quarters of 2009 and 2008. it is
+reasonably possible that the estimates used in the fair value determination could change in the
+near term and result in an impairment of our investment.
+
+numonyx
+
+we determine the fair value of our investment in numonyx using a combination of the income approach
+and the market approach. the income approach includes the use of a weighted average of multiple
+discounted cash flow scenarios of numonyx, which requires the use of unobservable inputs, including
+assumptions of projected revenues, expenses, capital spending, and other costs, as well as a
+discount rate calculated based on the risk profile of the flash memory market segment. estimates of
+projected revenues, expenses, capital spending, and other costs are developed by numonyx and intel.
+the market approach includes using financial metrics and ratios of comparable public companies,
+such as projected revenues, expenses, and other costs. the selection of comparable companies used
+in the market approach requires management judgment and is based on a number of factors, including
+nor products and services lines within the flash memory market segment, comparable companies’
+sizes, growth rates, and other relevant factors.
+
+changes in management estimates to the unobservable inputs in our valuation models would change the
+fair value of the investment. the estimated projected revenue is the assumption that most
+significantly affects the fair value determination. management judgment is also involved in
+determining how the income approach and the market approach are weighted in the fair value
+determination. we did not have an other-than-temporary impairment on our investments in numonyx in
+the first quarter of 2009. it is reasonably possible that the estimates used in the fair value
+determination could change in the near term and result in an impairment of our investment.
+
+other non-marketable equity investments
+
+we determine the fair value of these non-marketable equity investments using the market approach
+and/or the income approach. the market approach includes the use of financial metrics and ratios of
+comparable public companies. the selection of comparable companies requires management judgment and
+is based on a number of factors, including comparable companies’ sizes, growth rates, products and
+services lines, development stage, and other relevant factors. the income approach includes the use
+of a discounted cash flow model, which requires the following significant estimates for the
+investee: revenue, based on assumed market segment size and assumed market segment share; estimated
+costs; and appropriate discount rates based on the risk profile of comparable companies. estimates
+of market segment size, market segment share, and costs are developed by the investee and/or intel
+using historical data and available market data. the valuation of our other non-marketable
+investments also takes into account movements of the equity and venture capital markets, recent
+financing activities by the investees, changes in the interest rate environment, the investee’s
+capital structure, liquidation preferences for the investee’s capital, and other economic
+variables.
+
+investments in debt instruments
+
+fair value
+
+in the current market environment, the assessment of the fair value of debt instruments can be
+difficult and subjective. the volume of trading activity of certain debt instruments has declined,
+and the rapid changes occurring in today’s financial markets can lead to changes in the fair value
+of financial instruments in relatively short periods of time. sfas no. 157 establishes three levels
+of inputs that may be used to measure fair value (see “note 4: fair value” in the notes to
+consolidated condensed financial statements of this form 10-q). each level of input has different
+levels of subjectivity and difficulty involved in determining fair value.
+
+34
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+level 1 instruments represent quoted prices in active markets. therefore, determining fair value
+for level 1 instruments does not require significant management judgment, and the estimation is not
+difficult.
+
+level 2 instruments include observable inputs other than level 1 prices, such as quoted prices for
+identical instruments in markets with insufficient volume or infrequent transactions (less active
+markets), issuer credit ratings, non-binding market consensus prices that can be corroborated with
+observable market data, model-derived valuations in which all significant inputs are observable or
+can be derived principally from or corroborated with observable market data for substantially the
+full term of the assets or liabilities, or quoted prices for similar assets or liabilities. these
+level 2 instruments require more management judgment and subjectivity compared to level 1
+instruments, including:
+
+
+
+ 
+•
+ 
+determining which instruments are most similar to the instrument being priced requires
+management to identify a sample of similar securities based on the coupon rates, maturity,
+issuer, credit rating, and instrument type, and subjectively select an individual security
+or multiple securities that are deemed most similar to the security being priced.
+
+
+ 
+•
+ 
+determining whether a market is considered active requires management judgment. our
+assessment of an active market for our marketable debt instruments generally takes into
+consideration activity during each week of the one-month period prior to the valuation date
+of each individual instrument, including the number of days each individual instrument
+trades and the average weekly trading volume in relation to the total outstanding amount of
+the issued instrument.
+
+
+ 
+•
+ 
+determining which model-derived valuations to use in determining fair value requires
+management judgment. when observable market prices for identical securities or similar
+securities are not available, we price our marketable debt instruments using non-binding
+market consensus prices that are corroborated with observable market data or pricing
+models, such as discounted cash flow models, with all significant inputs derived from or
+corroborated with observable market data.
+
+
+level 3 instruments include unobservable inputs to the valuation methodology that are significant
+to the measurement of fair value of assets or liabilities. the determination of fair value for
+level 3 instruments requires the most management judgment and subjectivity. most of our marketable
+debt instruments classified as level 3 are valued using a non-binding market consensus price or a
+non-binding broker quote, both of which we corroborate with unobservable data. non-binding market
+consensus prices are based on the proprietary valuation models of pricing providers or brokers.
+these valuation models incorporate a number of inputs, including non-binding and binding broker
+quotes; observable market prices for identical and/or similar securities; and the internal
+assumptions of pricing providers or brokers that use observable market inputs, and to a lesser
+degree non-observable market inputs. adjustments to the fair value of instruments priced using
+non-binding market consensus prices and non-binding broker quotes, and classified as level 3, were
+not significant in the first quarter of 2009.
+
+other-than-temporary impairment
+
+after determining the fair value of our available-for-sale debt instruments, gains or losses on
+these investments are recorded to other comprehensive income, until either the investment is sold
+or we determine that the decline in value is other-than-temporary. determining whether the decline
+in fair value is other-than-temporary requires management judgment based on the specific facts and
+circumstances of each investment. for investments in debt instruments, these judgments primarily
+consider the financial condition and liquidity of the issuer, the issuer’s credit rating, and any
+specific events that may cause us to believe that the debt instrument will not mature and be paid
+in full; and our ability and intent to hold the investment to maturity. given the current market
+conditions, these judgments could prove to be wrong, and companies with relatively high credit
+ratings and solid financial conditions may not be able to fulfill their obligations.
+
+as of march 28, 2009, our investments included $10.1 billion of available-for-sale debt
+instruments. during the first quarter of 2009, we recognized $7 million in other-than-temporary
+impairments on our available-for-sale debt instruments ($51 million cumulatively since the
+beginning of 2008). as of march 28, 2009, our cumulative unrealized losses related to debt
+instruments classified as available-for-sale were approximately $230 million (approximately $215
+million as of december 27, 2008). as of march 28, 2009, this amount included approximately $180
+million of unrecognized losses that could be recognized in the future if our other-than-temporary
+assessment changes.
+
+35
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+long-lived assets
+
+we assess the impairment of long-lived assets when events or changes in circumstances indicate that
+the carrying value of the assets or the asset grouping may not be recoverable. factors that we
+consider in deciding when to perform an impairment review include significant under-performance of
+a business or product line in relation to expectations, significant negative industry or economic
+trends, and significant changes or planned changes in our use of the assets. we measure the
+recoverability of assets that will continue to be used in our operations by comparing the carrying
+value of the asset grouping to our estimate of the related total future undiscounted net cash
+flows. if an asset grouping’s carrying value is not recoverable through the related undiscounted
+cash flows, the asset grouping is considered to be impaired. the impairment is measured by
+comparing the difference between the asset grouping’s carrying value and its fair value, based on
+the best information available, including use of the market approach or the income approach,
+including the use of discounted cash flow models. long-lived assets such as goodwill; intangible
+assets; and property, plant and equipment are considered non-financial assets, and are carried at
+fair value only when an impairment charge is recorded.
+
+impairments of long-lived assets are determined for groups of assets related to the lowest level of
+identifiable independent cash flows. due to our asset usage model and the interchangeable nature of
+our semiconductor manufacturing capacity, we must make subjective judgments in determining the
+independent cash flows that can be related to specific asset groupings. in addition, as we make
+manufacturing process conversions and other factory planning decisions, we must make subjective
+judgments regarding the remaining useful lives of assets, primarily process-specific semiconductor
+manufacturing tools and building improvements. when we determine that the useful lives of assets
+are shorter than we had originally estimated, we accelerate the rate of depreciation over the
+assets’ new, shorter useful lives. over the past 12 quarters, including the first quarter of 2009,
+impairments and accelerated depreciation of long-lived assets ranged from $15 million to $320
+million per quarter. for further discussion on asset impairment charges, see “note 13:
+restructuring and asset impairment charges” in the notes to consolidated condensed financial
+statements of this form 10-q.
+
+income taxes
+
+we must make certain estimates and judgments in determining income tax expense for financial
+statement purposes. these estimates and judgments occur in the calculation of tax credits,
+benefits, and deductions, and in the calculation of certain tax assets and liabilities, which arise
+from differences in the timing of recognition of revenue and expense for tax and financial
+statement purposes, as well as the interest and penalties related to uncertain tax positions.
+significant changes to these estimates may result in an increase or decrease to our tax provision
+in a subsequent period.
+
+we must assess the likelihood that we will be able to recover our deferred tax assets. if recovery
+is not likely, we must increase our provision for taxes by recording a valuation allowance against
+the deferred tax assets that we estimate will not ultimately be recoverable. we believe that we
+will ultimately recover a majority of the deferred tax assets recorded on our consolidated
+condensed balance sheets. however, should there be a change in our ability to recover our deferred
+tax assets, our tax provision would increase in the period in which we determined that the recovery
+was not likely. changes in management’s plans with respect to holding or disposing of investments
+could affect our future provision for taxes.
+
+the calculation of our tax liabilities involves dealing with uncertainties in the application of
+complex tax regulations. we recognize liabilities for uncertain tax positions based on a two-step
+process. the first step is to evaluate the tax position for recognition by determining if the
+weight of available evidence indicates that it is more likely than not that the position will be
+sustained on audit, including resolution of related appeals or litigation processes, if any. if we
+determine that a tax position will more likely than not be sustained on audit, the second step
+requires us to estimate and measure the tax benefit as the largest amount that is more than 50%
+likely to be realized upon ultimate settlement. it is inherently difficult and subjective to
+estimate such amounts, as we have to determine the probability of various possible outcomes. we
+reevaluate these uncertain tax positions on a quarterly basis. this evaluation is based on factors
+including, but not limited to, changes in facts or circumstances, changes in tax law, effectively
+settled issues under audit, and new audit activity. such a change in recognition or measurement
+would result in the recognition of a tax benefit or an additional charge to the tax provision.
+
+36
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+inventory
+
+the valuation of inventory requires us to estimate obsolete or excess inventory as well as
+inventory that is not of saleable quality. the determination of obsolete or excess inventory
+requires us to estimate the future demand for our products. the estimate of future demand is
+compared to work in process and finished goods inventory levels to determine the amount, if any, of
+obsolete or excess inventory. as of march 28, 2009, we had total work-in-process inventory of
+$1,448 million and total finished goods inventory of $1,217 million. the demand forecast is
+included in the development of our short-term manufacturing plans to enable consistency between
+inventory valuation and build decisions. product-specific facts and circumstances reviewed in the
+inventory valuation process include a review of the customer base, the stage of the product life
+cycle of our products, consumer confidence, and customer acceptance of our products, as well as an
+assessment of the selling price in relation to the product cost. if our demand forecast for
+specific products is greater than actual demand and we fail to reduce manufacturing output
+accordingly, or if we fail to forecast the demand accurately, we could be required to write off
+inventory, which would negatively impact our gross margin.
+
+accounting
+changes and recent accounting pronouncements
+
+for a description of accounting changes and recent accounting pronouncements, including the
+expected dates of adoption and estimated effects, if any, on our consolidated condensed financial
+statements, see “note 2: accounting changes” and “note 3: recent accounting pronouncements” in the notes to consolidated condensed
+financial statements of this form 10-q.
+
+results
+of operations - first quarter of 2009 compared to first quarter of 2008
+
+the following table sets forth certain consolidated condensed statements of income data as a
+percentage of net revenue for the periods indicated:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+% of net
+ 
+ 
+ 
+ 
+ 
+ 
+% of net
+ 
+
+
+(dollars in millions, except per share amounts)
+ 
+dollars
+ 
+ 
+revenue
+ 
+ 
+dollars
+ 
+ 
+revenue
+ 
+
+
+
+
+net revenue
+ 
+$
+7,145
+ 
+ 
+ 
+100.0
+%
+ 
+$
+9,673
+ 
+ 
+ 
+100.0
+%
+
+
+cost of sales
+ 
+ 
+3,907
+ 
+ 
+ 
+54.7
+%
+ 
+ 
+4,466
+ 
+ 
+ 
+46.2
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+gross margin
+ 
+ 
+3,238
+ 
+ 
+ 
+45.3
+%
+ 
+ 
+5,207
+ 
+ 
+ 
+53.8
+%
+
+
+research and development
+ 
+ 
+1,317
+ 
+ 
+ 
+18.4
+%
+ 
+ 
+1,467
+ 
+ 
+ 
+15.2
+%
+
+
+marketing, general and administrative
+ 
+ 
+1,200
+ 
+ 
+ 
+16.8
+%
+ 
+ 
+1,349
+ 
+ 
+ 
+13.9
+%
+
+
+restructuring and asset impairment charges
+ 
+ 
+74
+ 
+ 
+ 
+1.0
+%
+ 
+ 
+329
+ 
+ 
+ 
+3.4
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+operating income
+ 
+ 
+647
+ 
+ 
+ 
+9.1
+%
+ 
+ 
+2,062
+ 
+ 
+ 
+21.3
+%
+
+
+gains (losses) on equity method investments, net
+ 
+ 
+(72
+)
+ 
+ 
+(1.0
+)%
+ 
+ 
+(52
+)
+ 
+ 
+(0.5
+)%
+
+
+gains (losses) on other equity investments, net
+ 
+ 
+(41
+)
+ 
+ 
+(0.6
+)%
+ 
+ 
+(7
+)
+ 
+ 
+(0.1
+)%
+
+
+interest and other, net
+ 
+ 
+95
+ 
+ 
+ 
+1.3
+%
+ 
+ 
+168
+ 
+ 
+ 
+1.7
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+income before taxes
+ 
+ 
+629
+ 
+ 
+ 
+8.8
+%
+ 
+ 
+2,171
+ 
+ 
+ 
+22.4
+%
+
+
+provision for taxes
+ 
+ 
+—
+ 
+ 
+ 
+—
+%
+ 
+ 
+728
+ 
+ 
+ 
+7.5
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net income
+ 
+$
+629
+ 
+ 
+ 
+8.8
+%
+ 
+$
+1,443
+ 
+ 
+ 
+14.9
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+diluted earnings per share
+ 
+$
+0.11
+ 
+ 
+ 
+ 
+ 
+ 
+$
+0.25
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+the following table sets forth information of geographic regions for the periods indicated:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+(dollars in millions)
+ 
+revenue
+ 
+ 
+% of total
+ 
+ 
+revenue
+ 
+ 
+% of total
+ 
+
+
+
+
+asia-pacific
+ 
+$
+3,647
+ 
+ 
+ 
+51
+%
+ 
+$
+4,788
+ 
+ 
+ 
+50
+%
+
+
+americas
+ 
+ 
+1,510
+ 
+ 
+ 
+21
+%
+ 
+ 
+2,016
+ 
+ 
+ 
+21
+%
+
+
+europe1
+ 
+ 
+1,273
+ 
+ 
+ 
+18
+%
+ 
+ 
+1,863
+ 
+ 
+ 
+19
+%
+
+
+japan
+ 
+ 
+715
+ 
+ 
+ 
+10
+%
+ 
+ 
+1,006
+ 
+ 
+ 
+10
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total
+ 
+$
+7,145
+ 
+ 
+ 
+100
+%
+ 
+$
+9,673
+ 
+ 
+ 
+100
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+1
+
+ 
+
+region includes europe, the middle east, and africa.
+
+
+
+37
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+our net revenue for q1 2009 was $7.1 billion, a decrease of 26% compared to q1 2008. the decrease
+was primarily due to lower unit sales of microprocessors and chipsets. revenue from the sale of nor
+flash memory products and communications products declined approximately $400 million, primarily as
+a result of the divestiture of these businesses. revenue in all four geographic regions declined
+significantly.
+
+our overall gross margin dollars for q1 2009 were $3.2 billion, a decrease of $2.0 billion, or 38%,
+compared to q1 2008. our overall gross margin percentage decreased to 45.3% in q1 2009, from 53.8%
+in q1 2008. the decrease in gross margin percentage was primarily attributable to the gross margin
+percentage decrease in the digital enterprise group and mobility group operating segments. this was
+partially offset by the positive impact on gross margin due to the divestiture of our nor flash
+memory business. we derived substantially all of our overall gross margin dollars and operating
+profit in q1 2009 and q1 2008 from the sales of microprocessors in the digital enterprise group and
+mobility group operating segments. see “business outlook” for a discussion of gross margin
+expectations.
+
+digital enterprise group
+
+the revenue and operating income for the digital enterprise group (deg) operating segment for q1
+2009 and q1 2008 were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+
+
+microprocessor revenue
+ 
+$
+3,258
+ 
+ 
+$
+4,236
+ 
+
+
+chipset, motherboard, and other revenue
+ 
+ 
+751
+ 
+ 
+ 
+1,205
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net revenue
+ 
+$
+4,009
+ 
+ 
+$
+5,441
+ 
+
+
+operating income
+ 
+$
+703
+ 
+ 
+$
+1,763
+ 
+
+
+
+net revenue for the deg operating segment decreased by $1.4 billion, or 26%, in q1 2009 compared to
+q1 2008. microprocessors within deg include microprocessors designed for the desktop and enterprise
+computing market segments as well as embedded microprocessors. the decrease in microprocessor
+revenue was primarily due to lower enterprise and desktop unit sales. higher enterprise average
+selling prices were partially offset by lower desktop average selling prices. the decrease in
+chipset, motherboard, and other revenue was primarily due to lower chipset and motherboard unit
+sales and lower revenue from the sale of communications products.
+
+operating income decreased by $1.1 billion, or 60%, in q1 2009 compared to q1 2008. the decrease in
+operating income was primarily due to the lower revenue. in addition, during the first quarter of
+2009 we recorded approximately $250 million of factory underutilization charges, primarily relating
+to chipsets and microprocessors. this was partially offset by lower microprocessor unit costs.
+
+mobility group
+
+the revenue and operating income for the mobility group (mg) operating segment for q1 2009 and q1
+2008 were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+
+
+microprocessor revenue
+ 
+$
+2,188
+ 
+ 
+$
+2,726
+ 
+
+
+chipset and other revenue
+ 
+ 
+726
+ 
+ 
+ 
+943
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net revenue
+ 
+$
+2,914
+ 
+ 
+$
+3,669
+ 
+
+
+operating income
+ 
+$
+244
+ 
+ 
+$
+1,166
+ 
+
+
+
+net revenue for the mg operating segment decreased by $755 million, or 21%, in q1 2009 compared to
+q1 2008. the decrease in microprocessor revenue was due to lower microprocessor average selling
+prices and lower microprocessor unit sales. the lower average selling prices were due to the
+increase in unit sales of intel atom processors. the decrease in chipset and other revenue was
+primarily due to lower revenue from the sale of wireless connectivity products and lower chipset
+unit sales.
+
+operating income decreased by $922 million, or 79%, in q1 2009 compared to q1 2008. the decrease
+was primarily due to lower microprocessor revenue. in addition, during the first quarter of 2009 we
+recorded approximately $420 million of factory underutilization charges, primarily related to
+microprocessors and chipsets. this was partially offset by lower microprocessor unit costs.
+
+38
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+operating expenses
+
+operating expenses for q1 2009 and q1 2008 were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+
+
+research and development
+ 
+$
+1,317
+ 
+ 
+$
+1,467
+ 
+
+
+marketing, general and administrative
+ 
+$
+1,200
+ 
+ 
+$
+1,349
+ 
+
+
+restructuring and asset impairment charges
+ 
+$
+74
+ 
+ 
+$
+329
+ 
+
+
+
+research and development. r&d spending decreased $150 million, or 10%, in q1 2009 compared to q1
+2008. this decrease was primarily due to lower process development costs as we transition from
+research and development to manufacturing using our 32nm manufacturing process technology, and to a
+lesser extent, lower profit-dependent compensation.
+
+marketing, general and administrative. marketing, general and administrative expenses decreased
+$149 million, or 11%, in q1 2009 compared to q1 2008. this decrease was primarily due to lower
+advertising expenses, including lower cooperative advertising expenses, and to a lesser extent,
+lower profit-dependent compensation.
+
+r&d, combined with marketing, general and administrative expenses, were 35% of net revenue in q1
+2009 (29% of net revenue in q1 2008).
+
+restructuring and asset impairment charges. the following table summarizes restructuring and asset
+impairment charges by plan for q1 2009 and q1 2008:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+
+
+2009 restructuring program
+ 
+$
+61
+ 
+ 
+$
+—
+ 
+
+
+2006 efficiency program
+ 
+ 
+13
+ 
+ 
+ 
+329
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total restructuring and asset impairment charges
+ 
+$
+74
+ 
+ 
+$
+329
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+we may incur additional restructuring charges in the future for employee severance and benefit
+arrangements, and facility-related or other exit activities. our outlook for the second quarter of
+2009 is for additional restructuring and asset impairment charges of $115 million.
+
+2009 restructuring program
+
+in the first quarter of 2009, management approved plans to restructure some of our manufacturing
+and assembly and test operations, and align our manufacturing and assembly and test capacity to
+current market conditions. these actions have included closing two assembly and test facilities in
+malaysia, one facility in the philippines, and one facility in china; stopping production at a
+200mm wafer fabrication facility in oregon; and ending production at our 200mm wafer fabrication
+facility in california. restructuring and asset impairment charges were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+
+
+employee severance and benefit arrangements
+ 
+$
+54
+ 
+ 
+$
+—
+ 
+
+
+asset impairments
+ 
+ 
+7
+ 
+ 
+ 
+—
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total restructuring and asset impairment charges
+ 
+$
+61
+ 
+ 
+$
+—
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+the following table summarizes the restructuring and asset impairment activity
+for the 2009 restructuring program during the first three months of 2009:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+employee
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+severance and
+ 
+ 
+asset
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+benefits
+ 
+ 
+impairments
+ 
+ 
+total
+ 
+
+
+
+
+accrued restructuring balance as of december 27, 2008
+ 
+$
+—
+ 
+ 
+$
+—
+ 
+ 
+$
+—
+ 
+
+
+additional accruals
+ 
+ 
+54
+ 
+ 
+ 
+7
+ 
+ 
+ 
+61
+ 
+
+
+adjustments
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+
+
+cash payments
+ 
+ 
+(6
+)
+ 
+ 
+—
+ 
+ 
+ 
+(6
+)
+
+
+non-cash settlements
+ 
+ 
+—
+ 
+ 
+ 
+(7
+)
+ 
+ 
+(7
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+accrued restructuring balance as of march 28, 2009
+ 
+$
+48
+ 
+ 
+$
+—
+ 
+ 
+$
+48
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+39
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+we recorded the additional accruals, net of adjustments, as restructuring and asset impairment
+charges. these charges include $54 million that relate to employee severance and benefit
+arrangements for approximately 5,400 employees, of which 100 employees have
+left the company as of march 28, 2009. most of these employee actions occurred within
+manufacturing. the remaining accrual as of march 28, 2009 was
+related to severance benefits that are recorded within accrued compensation and benefits.
+
+we estimate that these employee severance and benefit charges will result in gross annual savings
+of approximately $240 million. the substantial majority of these savings will be realized within
+cost of sales.
+
+2006 efficiency program
+
+in the third quarter of 2006, management approved several actions as part of a restructuring plan
+designed to improve operational efficiency and financial results. restructuring and asset
+impairment charges were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ 
+ 
+ 
+ 
+q1
+2009
+ 
+ 
+q1
+2008
+ 
+
+
+
+
+employee severance and benefit arrangements
+ 
+ 
+ 
+ 
+ 
+$
+5
+ 
+ 
+$
+54
+ 
+
+
+asset impairments
+ 
+ 
+ 
+ 
+ 
+ 
+8
+ 
+ 
+ 
+275
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total restructuring and asset impairment charges
+ 
+ 
+ 
+ 
+ 
+$
+13
+ 
+ 
+$
+329
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+during q1 2008, we incurred $275 million in additional asset impairment charges related to assets
+that we sold in q2 2008 in conjunction with the divestiture of our nor flash memory business. we
+determined the impairment charges using the revised fair value of the equity and note receivable
+that we received upon completion of the divestiture, less selling costs. the lower fair value was
+primarily a result of a decline in the outlook for the flash memory market segment. we had
+previously incurred $85 million in asset impairment charges in 2007 related to assets that we sold
+in conjunction with the divestiture of our nor flash memory business. we determined the impairment
+charges based on the fair value, less selling costs, that we expected to receive upon completion of
+the divestiture.
+
+the following table summarizes the restructuring and asset impairment activity for the 2006
+efficiency program during the first three months of 2009:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+employee
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+severance and
+ 
+ 
+asset
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+benefits
+ 
+ 
+impairments
+ 
+ 
+total
+ 
+
+
+
+
+accrued restructuring balance as of december 27, 2008
+ 
+$
+57
+ 
+ 
+$
+—
+ 
+ 
+$
+57
+ 
+
+
+additional accruals
+ 
+ 
+11
+ 
+ 
+ 
+8
+ 
+ 
+ 
+19
+ 
+
+
+adjustments
+ 
+ 
+(6
+)
+ 
+ 
+—
+ 
+ 
+ 
+(6
+)
+
+
+cash payments
+ 
+ 
+(27
+)
+ 
+ 
+—
+ 
+ 
+ 
+(27
+)
+
+
+non-cash settlements
+ 
+ 
+—
+ 
+ 
+ 
+(8
+)
+ 
+ 
+(8
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+accrued restructuring balance as of march 28, 2009
+ 
+$
+35
+ 
+ 
+$
+—
+ 
+ 
+$
+35
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+we recorded the additional accruals, net of adjustments, as restructuring and asset impairment
+charges. the remaining accrual as of march 28, 2009 was related to severance benefits that are
+recorded within accrued compensation and benefits.
+
+from q3 2006 through q1 2009, we incurred a total of $1.6 billion in restructuring and asset
+impairment charges related to this plan. these charges included a total of $683 million related to
+employee severance and benefit arrangements for approximately 11,300 employees, of which 10,900
+employees had left the company as of march 28, 2009. a substantial majority of these employee
+actions affected employees within manufacturing, information technology, and marketing. we paid
+$648 million of the employee severance and benefit charges incurred as of march 28, 2009. the
+restructuring and asset impairment charges also included $896 million in asset impairment charges.
+
+gains (losses) on equity method investments, net
+
+gains (losses) on equity method investments, net were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ 
+ 
+ 
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+
+
+equity method losses, net
+ 
+ 
+ 
+ 
+ 
+$
+(62
+)
+ 
+$
+(50
+)
+
+
+impairment charges
+ 
+ 
+ 
+ 
+ 
+ 
+(10
+)
+ 
+ 
+(2
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total gains (losses) on equity investments, net
+ 
+ 
+ 
+ 
+ 
+$
+(72
+)
+ 
+$
+(52
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+40
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+net losses on equity method investments were $72 million in q1 2009 compared to $52 million in q1
+2008. we recognized higher equity method losses and higher impairment charges in q1 2009 compared
+to q1 2008. our equity method losses include losses related to numonyx ($23 million in q1 2009) and
+clearwire llc ($7 million in q1 2009). in addition, our q1 2008 equity method losses included $39
+million from clearwire corporation.
+
+gains (losses) on other equity investments, net
+
+gains (losses) on other equity investments, net were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+
+
+impairment charges
+ 
+$
+(69
+)
+ 
+$
+(33
+)
+
+
+gains on sales
+ 
+ 
+1
+ 
+ 
+ 
+19
+ 
+
+
+other, net
+ 
+ 
+27
+ 
+ 
+ 
+7
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total gains (losses) on equity investments, net
+ 
+$
+(41
+)
+ 
+$
+(7
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+net losses on other equity investments were $41 million in q1 2009 compared to $7 million in q1
+2008. we recognized higher impairment charges on our non-marketable equity investments and lower
+gains on sales in q1 2009 compared to q1 2008, partially offset by higher income on other equity
+transactions.
+
+interest and other, net
+
+the components of interest and other, net were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2009
+ 
+ 
+q1 2008
+ 
+
+
+
+
+interest income
+ 
+$
+72
+ 
+ 
+$
+198
+ 
+
+
+interest expense
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+
+
+other, net
+ 
+ 
+23
+ 
+ 
+ 
+(30
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total interest and other, net
+ 
+$
+95
+ 
+ 
+$
+168
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+interest and other, net decreased to $95 million in q1 2009 compared to $168 million in q1 2008. we
+recognized lower interest income and lower gains on divestitures (none in q1 2009 and $39 million
+in q1 2008) in q1 2009 compared to q1 2008. these decreases were partially offset by approximately
+$25 million of fair value gains in q1 2009 on our trading assets, compared to approximately $60
+million of fair value losses in q1 2008. interest income was lower in q1 2009 compared to q1 2008
+as a result of lower interest rates and, to a lesser extent, lower average investment balances.
+
+provision for taxes
+
+our effective income tax rate for q1 2009 was zero compared to 33.5% in q1 2008. our estimated
+annual effective tax rate in q1 2009 was 9.8% lower than the estimated annual effective tax rate in
+q1 2008, primarily as a result of a higher percentage of profits in lower tax jurisdictions. the
+impact of discrete items in q1 2009 reduced our effective tax rate by 23.7% compared to the impact
+of discrete items of q1 2008, primarily due to the q1 2009 settlement of various federal and state
+matters related to prior years.
+
+business outlook
+
+our future results of operations and the topics of other forward-looking statements contained in
+this form 10-q, including this md&a, involve a number of risks and uncertainties—in particular:
+
+
+
+
+ 
+•
+ 
+current economic uncertainty, including the tightening of credit markets,
+as well as future economic conditions;
+
+
+ 
+•
+ 
+our goals and strategies;
+
+
+ 
+•
+ 
+new product introductions;
+
+
+ 
+•
+ 
+plans to cultivate new businesses;
+
+
+ 
+•
+ 
+divestitures or investments;
+
+
+ 
+•
+ 
+revenue and pricing;
+
+
+ 
+•
+ 
+gross margin and costs;
+
+
+ 
+•
+ 
+r&d expenses;
+
+
+
+
+
+
+ 
+•
+ 
+marketing, general and administrative expenses;
+
+
+ 
+•
+ 
+net gains (losses) from equity investments;
+
+
+ 
+•
+ 
+interest and other, net;
+
+
+ 
+•
+ 
+capital spending;
+
+
+ 
+•
+ 
+depreciation;
+
+
+ 
+•
+ 
+potential impairment of investments;
+
+
+ 
+•
+ 
+our effective tax rate; and
+
+
+ 
+•
+ 
+pending legal proceedings.
+
+
+
+
+41
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+the current uncertainty in global economic conditions makes it particularly difficult to predict
+product demand and other related matters and makes it more likely that our actual results could
+differ materially from our expectations. in addition to the various important factors discussed
+above, a number of other important factors could cause actual results to differ materially from our
+expectations. see the risks described in “risk factors” in part ii, item 1a of this form 10-q. in
+our april 14, 2009 earnings release we stated that we were not providing a revenue forecast as part
+of our business outlook, but we indicated at that time that for our internal purposes, we were
+planning for revenue to be approximately flat to the first quarter. our revenue plan is a statement
+made as of april 14, 2009, is not a part of business outlook, and is not subject to updating by the
+company in the period prior to the “quiet period.”
+
+our expectations for the remainder of 2009 are as follows:
+
+
+
+ 
+q2 2009
+
+
+ 
+•
+ 
+gross margin percentage: expected to be in the mid-40s.
+
+
+ 
+•
+ 
+depreciation: approximately $1.2 billion.
+
+
+ 
+•
+ 
+total spending (research and development plus marketing, general and administrative
+expenses): approximately flat compared to the first quarter of 2009 of $2.5 billion.
+
+
+ 
+•
+ 
+restructuring and asset impairment charges: approximately $115 million.
+
+
+ 
+•
+ 
+net gains (losses) from equity investments and interest and other: net loss of
+approximately $150 million.
+
+
+
+
+ 
+full year 2009
+
+
+ 
+•
+ 
+capital spending: slightly down from 2008 of $5.2 billion.
+
+
+ 
+•
+ 
+depreciation: approximately $4.8 billion, plus or minus $100 million.
+
+
+ 
+•
+ 
+total spending (research and development plus marketing, general and administrative
+expenses): between $10.4 billion and 10.6 billion.
+
+
+ 
+•
+ 
+tax rate: approximately 24% for the second, third, and fourth quarters. the estimated
+effective tax rate is based on tax law in effect as of march 28, 2009 and current expected
+income.
+
+
+status of business outlook
+
+we expect that our corporate representatives will, from time to time, meet privately with
+investors, investment analysts, the media, and others, and may reiterate the forward-looking
+statements contained in the “business outlook” section and elsewhere in this form 10-q, including
+any such statements that are incorporated by reference in this form 10-q. at the same time, we will
+keep this form 10-q and our most current business outlook publicly available on our investor
+relations web site at www.intc.com. the public can continue to rely on the business outlook
+published on the web site as representing our current expectations on matters covered, unless we
+publish a notice stating otherwise. the statements in the “business outlook” and other
+forward-looking statements in this form 10-q are subject to revision during the course of the year
+in our quarterly earnings releases and sec filings and at other times.
+
+from the close of business on may 29, 2009 until our quarterly earnings release is published,
+presently scheduled for july 14, 2009, we will observe a “quiet period.” during the quiet period,
+the “business outlook” and other forward-looking statements first published in our form 8-k filed
+on april 14, 2009, as reiterated or updated as applicable, in this form 10-q, should be considered
+historical, speaking as of prior to the quiet period only and not subject to update. during the
+quiet period, our representatives will not comment on our business outlook or our financial results
+or expectations. the exact timing and duration of the routine quiet period, and any others that we
+utilize from time to time, may vary at our discretion.
+
+liquidity and capital resources
+
+cash, short-term investments, debt instruments included in trading assets, and debt at the end of
+each period were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+march 28,
+ 
+ 
+dec. 27,
+ 
+
+
+(dollars
+in millions)
+ 
+2009
+ 
+ 
+2008
+ 
+
+
+
+
+cash, short-term investments, and debt
+instruments included in trading assets
+ 
+$
+10,313
+ 
+ 
+$
+11,544
+ 
+
+
+short-term and long-term debt
+ 
+$
+1,201
+ 
+ 
+$
+1,287
+ 
+
+
+debt as % of stockholders’ equity
+ 
+ 
+3.1
+%
+ 
+ 
+3.3
+%
+
+
+
+42
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+in summary, our cash flows were as follows:
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+three months ended
+ 
+
+
+ 
+ 
+march 28,
+ 
+ 
+march 29,
+ 
+
+
+(in millions)
+ 
+2009
+ 
+ 
+2008
+ 
+
+
+
+
+net cash provided by operating activities
+ 
+$
+378
+ 
+ 
+$
+2,215
+ 
+
+
+net cash provided by (used for) investing activities
+ 
+ 
+409
+ 
+ 
+ 
+(921
+)
+
+
+net cash used for financing activities
+ 
+ 
+(601
+)
+ 
+ 
+(2,718
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net increase (decrease) in cash and cash equivalents
+ 
+$
+186
+ 
+ 
+$
+(1,424
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+operating activities
+
+cash provided by operating activities is net income adjusted for certain non-cash items and changes
+in assets and liabilities.
+
+cash from operations for the first quarter of 2009 was $378
+million, a decrease of $1.8 billion compared to the first quarter of 2008, primarily due to lower
+net income and changes in our working capital such as lower accounts payable and lower income
+taxes payable, partially offset by lower inventories.
+
+inventories as of march 28, 2009 decreased compared to december 27, 2008, due to lower
+microprocessor, chipset, and raw material inventories. accounts payable as of march 28, 2009
+decreased compared to december 27, 2008 on lower production spending. accrued compensation and
+benefits liabilities decreased compared to december 27, 2008 primarily due to the payout of 2008
+year-end profit dependent compensation during the first quarter of 2009.
+
+as of march, 28, 2009, our other accrued liabilities included $264 million in customer credit
+balances ($447 million as of december 27, 2008). accounts receivable as of march 28, 2009 increased
+compared to december 27, 2008, despite decreased revenue, due to a higher proportion of sales
+occurring at the end of the first quarter of 2009. for the first quarter of 2009, our two largest
+customers accounted for 40% of net revenue (38% for the first quarter of 2008) with one of those
+customers accounting for 21% of our net revenue, and another customer accounting for 19% of our net
+revenue. these two largest customers accounted for 40% of net accounts receivable at march 28, 2009
+(46% at december 27, 2008).
+
+investing activities
+
+investing cash flows consist primarily of capital expenditures, net investment purchases,
+maturities, and disposals.
+
+in the first quarter of 2009, our investing activities resulted in a net cash inflow of $409
+million compared to a net cash outflow of $921 million in the first quarter of 2008. this was
+driven primarily by a decrease in purchases of available-for-sale debt investments which was
+partially offset by an increase in capital spending.
+
+financing activities
+
+financing cash flows consist primarily of repurchases and retirement of common stock, payment of
+dividends to stockholders, and proceeds from sales of shares through employee equity incentive
+plans.
+
+the decrease in cash used for financing activities in the first quarter of 2009, compared to the
+first quarter of 2008, was primarily due to the absence of repurchases and retirement of common
+stock during the first quarter of 2009. in the first quarter of 2008, we repurchased 121.9 million
+shares of common stock at a cost of $2.5 billion. as of march 28, 2009, $7.4 billion remained
+available for repurchase under the existing repurchase authorization of $25 billion. we base our
+level of stock repurchases on internal cash management decisions, and this level may fluctuate. our
+dividend payment was $779 million in the first quarter of 2009, slightly higher than the $739
+million paid in the first quarter of 2008. proceeds from the sale of shares pursuant to employee
+equity incentive plans totaled $247 million for the first quarter of 2009 compared to $468 million
+for the first quarter of 2008, as a result of a lower volume of employee exercises of stock
+options.
+
+43
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+liquidity
+
+cash generated by operations is used as our primary source of liquidity. as of march 28, 2009, we
+also had an investment portfolio valued at $12.8 billion, consisting of cash and cash equivalents,
+debt instruments included in trading assets, and short- and long-term investments.
+
+our investment policy requires all investments with original maturities at the time of investment
+of up to 6 months to be rated at least a-1/p-1 by standard & poor’s/moody’s, and specifies a higher
+minimum rating for investments with longer maturities. for instance, investments with maturities of
+greater than three years require a minimum rating of aa-/aa3 at the time of investment. government
+regulations imposed on investment alternatives of our non-u.s. subsidiaries, or the absence of a
+rated counterparties in certain countries, result in some minor exceptions. substantially all of
+our investments in debt instruments are with a/a2 or better rated issuers, and the majority of the
+issuers are rated aa-/aa2 or better. additionally, we limit the amount of credit exposure to any
+one counterparty based on our analysis of that counterparty’s relative credit standing. as of march
+28, 2009, the total credit exposure to any single counterparty did not exceed $500 million.
+
+credit rating criteria for derivative instruments are similar to those for other investments. the
+amounts subject to credit risk related to derivative instruments are generally limited to the
+amounts, if any, by which a counterparty’s obligations exceed our obligations with that
+counterparty, because we enter into master netting arrangements with counterparties when possible
+to mitigate credit risk in derivative transactions subject to international swaps and derivatives
+association, inc. (isda) agreements.
+
+the credit quality of our investment portfolio remains high during this difficult credit
+environment, with other-than-temporary impairments on our available-for-sale debt instruments
+limited to $7 million in the first quarter of 2009 and $51 million cumulatively since the beginning
+of 2008. in addition, we continue to be able to invest in high-quality investments. however, we
+have seen a reduction in the volume of available commercial paper from certain market segments. as
+a result, our investments in short-term government funds have increased, which has reduced our
+average investment return. with the exception of a limited amount of investments for which we have
+recognized other-than-temporary impairments, we have not seen significant liquidation delays, and
+for those that have matured we have received the full par value of our original debt investments.
+we have the intent and ability to hold our debt investments that have unrealized losses in
+accumulated other comprehensive income for a sufficient period of time to allow for recovery of the
+principal amounts invested, which may occur at or near the maturity of those investments.
+
+as of march 28, 2009, $8.8 billion of our portfolio had a remaining maturity of less than one year.
+as of march 28, 2009, our cumulative unrealized losses, net of corresponding hedging activities,
+related to debt instruments classified as trading assets were approximately $120 million
+(approximately $145 million as of december 27, 2008). as of march 28, 2009, our cumulative
+unrealized losses related to debt instruments classified as available-for-sale were approximately
+$230 million (approximately $215 million as of december 27, 2008). substantially all of our
+unrealized losses can be attributed to fair value fluctuations in an unstable credit environment
+that resulted in a decrease in the market liquidity for debt instruments.
+
+we continually monitor the credit risk in our portfolio and mitigate our credit and interest rate
+exposures in accordance with the policies approved by our board of directors. we intend to continue
+to closely monitor future developments in the credit markets and make appropriate changes to our
+investment policy as deemed necessary. based on our ability to liquidate our investment portfolio
+and our expected operating cash flows, we do not anticipate any liquidity constraints as a result
+of either the current credit environment or potential investment fair value fluctuations.
+
+our commercial paper program provides another potential source of liquidity. we have an ongoing
+authorization from our board of directors to borrow up to $3.0 billion, including through the
+issuance of commercial paper. maximum borrowings under our commercial paper program during the
+first quarter of 2009 were approximately $610 million, although no commercial paper remained
+outstanding as of march 28, 2009. our commercial paper was rated a-1+ by standard & poor’s and p-1
+by moody’s as of march 28, 2009. despite the tightening of the credit markets, we continue to be
+able to access funds through the credit markets, including through the issuance of commercial
+paper. we also have an automatic shelf registration statement on file with the sec pursuant to
+which we may offer an unspecified amount of debt, equity, and other securities.
+
+we believe that we have the financial resources needed to meet business requirements for the next
+12 months, including capital expenditures for manufacturing
+and assembly and test, working capital requirements, and potential dividends, common stock
+repurchases, and acquisitions or strategic investments.
+
+44
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+fair value of financial instruments
+
+the assessment of fair value for our financial instruments is based on the provisions of sfas no.
+157. sfas no. 157 establishes a fair value hierarchy that requires an entity to maximize the use of
+observable inputs and minimize the use of unobservable inputs when measuring fair value. observable
+inputs are obtained from independent sources and can be validated by a third party, whereas
+unobservable inputs reflect assumptions regarding what a third party would use in pricing an asset
+or liability. a financial instrument’s categorization within the fair value hierarchy is based on
+the lowest level of input that is significant to the fair value measurement.
+
+credit risk is factored into the valuation of financial instruments that we measure and record at
+fair value on a recurring basis. when fair value is determined using observable market prices, the
+credit risk is incorporated into the market price of the financial instrument. when fair value is
+determined using pricing models, such as a discounted cash flow model, the issuer’s credit risk
+and/or intel’s credit risk is factored into the calculation of the fair value, as appropriate.
+during the first quarter of 2009, the valuation of our liabilities measured and recorded at fair
+value as well as our derivative instruments in a current or potential net liability position were
+not impacted by changes in our credit risk. the credit ratings of certain counterparties have
+deteriorated. however, the deterioration of these credit ratings did not have a significant impact
+on the valuation of either our marketable debt instruments or derivative instruments in a current
+or potential net asset position.
+
+when values are determined using inputs that are both unobservable and significant to the values of
+the instruments being measured, we classify those instruments as level 3 under the sfas no. 157
+hierarchy. as of march 28, 2009, our financial instruments measured and recorded at fair value on a
+recurring basis included $13.4 billion of assets, of which $1.2 billion (9%) were classified as
+level 3. in addition, our financial instruments measured and recorded at fair value on a recurring
+basis included $382 million of liabilities, of which $165 million (43%) were classified as level 3.
+during the first quarter of 2009, we transferred approximately $260 million of assets from level 3
+to level 2. these assets primarily consisted of floating-rate notes that were transferred from
+level 3 to level 2 due to a greater availability of observable market data and/or non-binding
+market consensus prices to value or corroborate the value of our instruments. during the first
+quarter of 2009, we recognized an insignificant amount of losses on the assets that were
+transferred from level 3 to level 2.
+
+during the first quarter of 2009, the level 3 assets and liabilities that are measured and recorded
+at fair value on a recurring basis experienced net unrealized fair value gains totaling $15
+million. of this amount, gains of $36 million were recognized in our consolidated condensed
+statements of income and losses of $21 million were included in other comprehensive income. we
+believe the losses included in other comprehensive income represent a temporary decline in the fair
+value of available-for-sale investments. during the first quarter of 2009, we did not experience
+any significant realized gains (losses) related to the level 3 assets or liabilities in our
+portfolio.
+
+marketable debt instruments
+
+as of march 28, 2009, our assets measured and recorded at fair value on a recurring basis included
+$12.6 billion of marketable debt instruments. of these instruments, approximately $1.0 billion was
+classified as level 1, approximately $10.4 billion as level 2, and approximately $1.2 billion as
+level 3.
+
+when available, we use observable market prices for identical securities to value our marketable
+debt instruments. if observable market prices are not available, we use non-binding market
+consensus prices that we seek to corroborate with observable market data, if available, or
+non-observable market data. when prices from multiple sources are available for a given instrument,
+we use observable market quotes to price our instruments, in lieu of prices from other sources.
+
+our balance of marketable debt instruments that are measured and recorded at fair value on a
+recurring basis and classified as level 1 was classified as such due to the usage of observable
+market prices for identical securities that are traded in active markets. marketable debt
+instruments in this category generally include certain of our floating-rate notes, corporate bonds,
+and money market fund deposits. management judgment was required to determine our policy that
+defines the levels at which sufficient volume and frequency of transactions are met for a market to
+be considered active. our assessment of an active market for our marketable debt instruments
+generally takes into consideration activity during each week of the one-month period prior to the
+valuation date of each individual instrument, including the number of days each individual
+instrument trades and the average weekly trading volume in relation to the total outstanding amount
+of the issued instrument.
+
+45
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+approximately 10% of our balance of marketable debt instruments that are measured and recorded at
+fair value on a recurring basis and classified as level 2 was classified as such due to the usage
+of observable market prices for identical securities that are traded in less active markets. when
+observable market prices for identical securities are not available, we price our marketable debt
+instruments using: non-binding market consensus prices that are corroborated with observable market
+data; quoted market prices for similar instruments; or pricing models, such as a discounted cash
+flow model, with all significant inputs derived from or corroborated with observable market data.
+non-binding market consensus prices are based on the proprietary valuation models of pricing
+providers or brokers. these valuation models incorporate a number of inputs, including non-binding
+and binding broker quotes; observable market prices for identical and/or similar securities; and
+the internal assumptions of pricing providers or brokers that use observable market inputs and to a
+lesser degree non-observable market inputs. we corroborate the non-binding market consensus prices
+with observable market data using statistical models when observable market data exist. the
+discounted cash flow model uses observable market inputs, such as libor-based yield curves,
+currency spot and forward rates, and credit ratings. approximately 50% of our balance of marketable
+debt instruments that are measured and recorded at fair value on a recurring basis and classified
+as level 2 was classified as such due to the usage of non-binding market consensus prices that are
+corroborated with observable market data and approximately 40% due to the usage of a discounted
+cash flow model. marketable debt instruments classified as level 2 generally include commercial
+paper, bank time deposits, municipal bonds, certain of our money market fund deposits and
+corporate bonds, and a
+majority of floating-rate notes.
+
+
+
+our marketable debt instruments that are measured and recorded at fair value on a recurring basis
+and classified as level 3 were classified as such due to the lack of observable market data to
+corroborate either the non-binding market consensus prices or the non-binding broker quotes. when
+observable market data is not available, we corroborate the non-binding market consensus prices and
+non-binding broker quotes using unobservable data, if available. marketable debt instruments in
+this category generally include asset-backed securities and certain of our floating-rate notes and
+corporate bonds. all of our investments in asset-backed securities were classified as level 3, and
+substantially all of them were valued using non-binding market consensus prices that we were not
+able to corroborate with observable market data due to the lack of transparency in the market for
+asset-backed securities.
+
+equity securities
+
+as of march 28, 2009, our portfolio of assets measured and recorded at fair value on a recurring
+basis included $412 million of marketable equity securities. of these securities, $392 million was
+classified as level 1 because the valuations were based on quoted prices for identical securities
+in active markets. our assessment of an active market for our marketable equity securities
+generally takes into consideration activity during each week of the one-month period prior to the
+valuation date for each individual security, including the number of days each individual equity
+security trades and the average weekly trading volume in relation to the total outstanding shares
+of that security. the fair values of our investments in clearwire corporation ($183 million) and
+vmware, inc. ($130 million) constituted the substantial majority of the fair values of the
+marketable equity securities that we classified as level 1. the remaining marketable equity
+securities ($20 million) were classified as level 2 because their valuations were either based on
+quoted prices for identical securities in less active markets or adjusted for security-specific
+restrictions.
+
+as of march 28, 2009, our portfolio of assets measured and recorded at fair value on a recurring
+basis included $286 million of equity securities offsetting deferred compensation. all of these
+securities were classified as level 1, because their valuations were based on quoted prices for
+identical securities in active markets.
+
+46
+
+
+
+ 
+
+

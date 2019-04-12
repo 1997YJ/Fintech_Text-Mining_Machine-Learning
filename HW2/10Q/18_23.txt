@@ -1,0 +1,3037 @@
+item 2. management’s discussion and analysis of financial condition and results of operations
+
+our management’s discussion and analysis of financial condition and results of operations (md&a) is
+provided in addition to the accompanying consolidated condensed financial statements and notes to
+assist readers in understanding our results of operations, financial condition, and cash flows.
+md&a is organized as follows:
+
+
+
+
+ 
+•
+ 
+overview. discussion of our business and overall analysis of financial and
+other highlights affecting the company in order to provide context for the remainder of
+md&a.
+
+
+
+
+
+
+ 
+•
+ 
+strategy. our overall strategy.
+
+
+
+
+
+
+ 
+•
+ 
+critical accounting estimates. accounting estimates that we believe are most
+important to understanding the assumptions and judgments incorporated in our reported
+financial results and forecasts.
+
+
+
+
+
+
+ 
+•
+ 
+results of operations. an analysis of our financial results comparing the three
+months ended april 2, 2011 to the three months ended march 27, 2010. in the first quarter
+of 2011, we formed the netbook and tablet group (ntg), which includes microprocessors and
+related chipsets designed for the netbook and tablet market segments. ntg results were
+previously included in the results of the pc client group and are now included in the other intel architecture operating segments category. the analysis of our operating segment
+results of operations reflects this reorganization and prior-period amounts have been
+adjusted retrospectively.
+
+
+
+
+
+
+ 
+•
+ 
+business outlook. our expectations for selected financial items for the second
+quarter of 2011 and the 2011 full year.
+
+
+
+
+
+
+ 
+•
+ 
+liquidity and capital resources. an analysis of changes in our balance sheets
+and cash flows, and discussion of our financial condition and potential sources of
+liquidity.
+
+
+
+
+
+
+ 
+•
+ 
+fair value of financial instruments. discussion of the methodologies used in
+the valuation of our financial instruments.
+
+
+
+the various sections of this md&a contain a number of forward-looking statements. words such as
+“expects,” “goals,” “plans,” “believes,” “continues,” “may,” “will,” and variations of such words
+and similar expressions are intended to identify such forward-looking statements. in addition, any
+statements that refer to projections of our future financial performance, our anticipated growth
+and trends in our businesses, and other characterizations of future events or circumstances are
+forward-looking statements. such statements are based on our current expectations and could be
+affected by the uncertainties and risk factors described throughout this filing and particularly in
+the “business outlook” section and in “risk factors” in part ii, item 1a of this form 10-q. our
+actual results may differ materially, and these forward-looking statements do not reflect the
+potential impact of any divestitures, mergers, acquisitions, or other business combinations that
+had not been completed as of may 9, 2011.
+
+overview
+
+our results of operations were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(dollars in millions)
+ 
+q1 2011
+ 
+ 
+q4 2010
+ 
+ 
+q1 2010
+ 
+
+
+
+
+net revenue
+ 
+$
+12,847
+ 
+ 
+$
+11,457
+ 
+ 
+$
+10,299
+ 
+
+
+gross margin
+ 
+$
+7,885
+ 
+ 
+$
+7,406
+ 
+ 
+$
+6,529
+ 
+
+
+gross margin percentage
+ 
+ 
+61.4
+%
+ 
+ 
+64.6
+%
+ 
+ 
+63.4
+%
+
+
+operating income
+ 
+$
+4,158
+ 
+ 
+$
+4,023
+ 
+ 
+$
+3,448
+ 
+
+
+net income
+ 
+$
+3,160
+ 
+ 
+$
+3,180
+ 
+ 
+$
+2,442
+ 
+
+
+
+
+the first quarter of 2011 was another record quarter for revenue and earnings per share. in
+the first quarter of 2011, we completed the acquisitions of mcafee, inc. and the wireless solutions
+(wls) business of infineon, which combined contributed approximately $500 million to our first
+quarter revenue. our 2nd generation intel® coretm processor products
+(formally code-named sandy bridge) are ramping quickly, which resulted in higher microprocessor
+average selling prices in the first quarter of 2011 compared to the fourth quarter of 2010. we saw
+strong consumer sales in emerging markets and strong demand for both enterprise servers and clients
+in the first quarter of 2011; however, consumer demand in the u.s. and western europe was soft.
+compared to the first quarter of 2010, we realized double digit revenue growth across every major
+product segment and across every geographic region. we believe we are on track for another year of
+revenue growth over 20 percent and double digit earnings growth.
+
+gross margin in the first quarter of 2011 declined 3.2 percentage points compared to the fourth
+quarter of 2010 due to higher 22nm start-up costs, higher platform (microprocessor and chipset)
+unit costs, and the impact of the acquisitions. these impacts were partially offset by the benefit
+from higher platform average selling prices compared to the fourth quarter. the charges to repair
+and replace materials and systems impacted by a design issue related to our intel® 6 series express
+chipset family negatively impacted our gross margin by approximately 3 percentage points in both
+the fourth quarter of 2010 and first quarter of 2011. we rapidly identified, fixed, and recovered
+from the chipset design issue (see “note 19: chipset design issue” in part i, item 1 of this form
+10-q).
+
+31
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+we began 2011 with great momentum and we expect to add to that momentum as we invest in developing
+new products for smartphones and tablets, such as the launch of the intel®
+atomtm processor z670 based platform, formerly codenamed “oak trail,” designed
+specifically for tablets. we continue to deliver improvements in our product offerings through our
+“tick-tock” technology development cadence and expect to begin production of our 22nm process
+technology microprocessors (codenamed “ivy bridge”) by the end of 2011. ivy bridge also introduces the
+first three-dimensional transistor design called tri-gate, which is expected to improve performance and energy
+efficiency compared to the existing two-dimensional transistor structure. our forecast for capital spending this year has increased from our
+previous estimate of $9.0 billion to $10.2 billion. the increase in our capital spending outlook
+will allow us to widen our process technology lead as we focus on both 22nm and 14nm process
+technology, including building a larger scale 14nm fabrication facility that will allow us to
+quickly ramp our leading-edge products. we expect incremental opportunities in unit growth and
+product mix as a result of these investments. our capital spending strategy also enables us to
+integrate more features and functionality on leading edge process technology that can result in
+performance, cost, and power efficiency advantages.
+
+the cash-generating power of our business was evident in the first quarter of 2011 with $4.0
+billion of cash from operations. from a financial condition perspective, we ended the first quarter
+of 2011 with an investment portfolio of $11.5 billion, consisting of cash and cash equivalents,
+short-term investments, and marketable debt instruments included in trading assets. during the
+first quarter of 2011, net cash used for acquisitions was $8.2 billion, we purchased $2.7 billion
+in capital assets, repurchased $4.0 billion of common stock through our common stock repurchase
+program, and returned $1.0 billion to stockholders through dividends (a per share increase of 15%
+from the fourth quarter).
+
+strategy
+
+our goal is to be the preeminent computing solutions company that powers the worldwide digital
+economy. we believe that the proliferation of the internet and cloud computing have driven
+fundamental changes in the computing industry. we are transforming from a company with a primary
+focus on the design and manufacture of semiconductor chips for pcs and servers to a computing
+company that delivers complete solutions in the form of hardware and software platforms and
+supporting services. the number and variety of devices connected to the internet is growing, and
+computing is becoming an increasingly personal experience. end users value consistency across
+devices that connect seamlessly and effortlessly to the internet and to each other. we will help to
+enable this experience by innovating around three pillars of computing: energy-efficient
+performance, connectivity, and security.
+
+
+
+
+ 
+•
+ 
+energy-efficient performance. we are focusing on improved energy-efficient
+performance for computing and communications systems and devices. improved energy-efficient
+performance involves balancing higher performance with lower power consumption.
+
+
+
+
+
+
+ 
+•
+ 
+connectivity. we are positioning our business to take advantage of the growth
+in devices that compute and connect to the internet. in the first quarter of 2011, we
+acquired the wls business of infineon. this acquisition enables us to offer a portfolio of
+products that covers a broad range of wireless connectivity options by combining the
+intel® wifi and intel® wimax technologies with wls’ 2g and 3g
+technologies, and creates a combined path to accelerate industry adoption of 4g lte.
+
+
+
+
+
+
+ 
+•
+ 
+security. our goal is to enhance security features through a combination of
+hardware and software solutions. this may include identity protection and fraud deterrence;
+detection and prevention of malware; securing data and assets; as well as system recovery
+and enhanced security patching. in the first quarter of 2011, we acquired mcafee. we
+believe this acquisition accelerates and enhances our hardware and software security
+solutions, improving the overall security of our platforms.
+
+
+
+to succeed in the changing computing environment, we have the following key objectives:
+
+
+
+
+ 
+•
+ 
+strive to ensure that intel technology remains the best choice for the pc as
+well as cloud computing and the data center.
+
+
+
+
+
+
+ 
+•
+ 
+expand platforms into adjacent market segments to bring compelling new
+solutions to the smartphone, the tablet, the tv, the car, and the embedded world.
+
+
+
+
+
+
+ 
+•
+ 
+enable devices that connect to the internet and to each other to create a
+continuum of personal computing. this continuum would give consumers a set of secure,
+consistent, and personalized computing experiences.
+
+
+
+
+
+
+ 
+•
+ 
+positively impact the world through our actions and the application of our
+energy-efficient technology.
+
+
+
+32
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+we will use our core assets to meet these objectives. our core assets include our silicon and
+process technology, our architecture and platforms, our global presence, our strong relationships
+across the industry, and our brand recognition. we believe that applying these core assets to our
+key focus areas provides us with the scale, capacity, and global reach to establish new
+technologies and respond to customers’ needs quickly. some of our core assets and key focus areas
+are:
+
+
+
+
+ 
+•
+ 
+silicon and manufacturing technology leadership. we have long been a leader in silicon
+process technology and manufacturing, and we aim to continue our lead through investment
+and innovation in this critical area. we drive a regular two-year upgrade
+cycle—introducing a new microarchitecture approximately every two years and ramping the
+next generation of silicon process technology in the intervening years. we refer to this as
+our “tick-tock” technology development cadence. as we continue to drive moore’s law over
+the next several years, we believe that the value of this leadership will increase. we aim
+to have the best process technology, and unlike most semiconductor companies, we primarily
+manufacture our products in our own facilities. this allows us to optimize performance,
+reduce our time to market, and scale new products more rapidly.
+
+
+
+
+
+
+ 
+•
+ 
+architecture and platforms. we are now developing a wide range of solutions for
+devices that span the computing continuum, from pcs and smartphones to smart tvs and
+in-vehicle infotainment systems and beyond. users want computing experiences that are
+consistent and devices that are interoperable. users and developers value consistency of
+architecture, which provides a common framework that allows for reduced time to market,
+with the ability to leverage technologies across multiple form factors. we believe that we
+can meet the needs of both users and developers by offering intel®
+architecture-based computing solutions across the computing continuum. we continue to invest in
+improving intel architecture so that we can deliver increased value to our customers in
+existing market segments and also expand the capabilities of the architecture to meet
+end-user and customer needs in adjacent market segments. increasingly, we are delivering
+our architecture in the form of platforms. platforms include not only the microprocessor,
+but other critical hardware and software ingredients that are necessary to create computing
+solutions. we are expanding our platform capabilities with connectivity solutions, new
+types of user interfaces, new features and capabilities, and complementary software.
+
+
+
+
+
+
+ 
+•
+ 
+software. we enable and advance the computing ecosystem by providing
+development tools and support to help software developers create software applications and
+operating systems that take advantage of our platforms. we seek to expedite growth in
+various market segments, such as the embedded and handheld market segments, through our
+software offerings. additionally, we have collaborated with other companies to develop
+software platforms optimized for our intel® atomtm processors and
+that support multiple hardware architectures as well as multiple operating systems.
+
+
+
+
+
+
+ 
+•
+ 
+customer orientation. our strategy focuses on developing our next generation of
+products based on the needs and expectations of our customers. in turn, our products help
+enable the design and development of new form factors and usage models for businesses and
+consumers. we offer platforms that incorporate various components designed and configured
+to work together to provide an optimized solution compared to components that are used
+separately. additionally, we promote industry standards that we believe will yield
+innovation and improved technologies for users.
+
+
+
+
+
+
+ 
+•
+ 
+strategic investments. we make investments in companies around the world that
+we believe will generate financial returns, further our strategic objectives, and support
+our key business initiatives. our investments, including those made through our intel
+capital program, generally focus on investing in companies and initiatives to stimulate
+growth in the digital economy, create new business opportunities for intel, and expand
+global markets for our products.
+
+
+
+
+
+
+ 
+•
+ 
+stewardship. we are committed to developing energy-efficient technology
+solutions that can be used to address major global problems while reducing our
+environmental impact. we are also committed to helping transform education globally through
+our technology, program, and policy leadership, as well as funding through the intel
+foundation. in addition, we strive to cultivate a work environment where engaged, energized
+employees can thrive in their jobs and in their communities.
+
+
+
+our continued investment in developing our assets and execution on key focus areas will strengthen
+our competitive position as we enter and expand into new market segments. we believe that these new
+market segments will result in demand that is incremental to that of microprocessors designed for
+notebook and desktop computers. we also believe that increased internet traffic and use of cloud
+computing create a need for greater server infrastructure, including server products optimized for
+energy-efficient performance and virtualization.
+
+critical accounting estimates
+
+the methods, estimates, and judgments that we use in applying our accounting policies have a
+significant impact on the results that we report in our consolidated condensed financial
+statements. some of our accounting policies require us to make difficult and subjective judgments,
+often as a result of the need to make estimates regarding matters that are inherently uncertain.
+our most critical accounting estimates include:
+
+
+
+
+ 
+•
+ 
+the valuation of non-marketable equity investments and the determination of
+other-than-temporary impairments, which impact gains (losses) on equity method investments,
+net, or gains (losses) on other equity investments, net when we record impairments;
+
+
+
+33
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+
+
+
+ 
+•
+ 
+the assessment of recoverability of long-lived assets (property, plant and
+equipment; goodwill; and identified intangibles), which impacts gross margin or operating
+expenses when we record asset impairments or accelerate their depreciation or amortization;
+
+
+
+
+
+
+ 
+•
+ 
+the recognition and measurement of current and deferred income taxes (including
+the measurement of uncertain tax positions), which impact our provision for taxes;
+
+
+
+
+
+
+ 
+•
+ 
+the valuation of inventory, which impacts gross margin; and
+
+
+
+
+
+
+ 
+•
+ 
+the recognition and measurement of loss contingencies, which impact gross
+margin or operating expenses when we recognize a loss contingency, revise the estimate for
+a loss contingency, or record an asset impairment.
+
+
+
+below, we discuss these policies further, as well as the estimates and judgments involved.
+
+non-marketable equity investments
+
+we regularly invest in non-marketable equity instruments of private companies, which range from
+early-stage companies that are often still defining their strategic direction to more mature
+companies with established revenue streams and business models. the carrying value of our
+non-marketable equity investment portfolio, excluding equity derivatives, totaled $2.7 billion as
+of april 2, 2011 ($2.6 billion as of december 25, 2010). the majority of this balance as of april
+2, 2011 was concentrated in companies in the flash memory market segment. our flash memory market
+segment investments include our investment in im flash technologies, llc (imft) and im flash
+singapore, llp (imfs) of $1.4 billion ($1.5 billion as of december 25, 2010). for further
+information, see “note 10: equity method and cost method investments” in the notes to consolidated
+condensed financial statements of this form 10-q.
+
+our non-marketable equity investments are recorded using the cost method or the equity method of
+accounting, depending on the facts and circumstances of each investment. our non-marketable equity
+investments are classified within other long-term assets on the consolidated condensed balance
+sheets.
+
+non-marketable equity investments are inherently risky, and their success is dependent on product
+development, market acceptance, operational efficiency, other key business factors, and the ability
+of the investee companies to raise additional funds in financial markets that can be volatile. the
+companies could fail or not be able to raise additional funds when needed, or they may receive
+lower valuations with less favorable investment terms than previous financings. these events could
+cause our investments to become impaired. in addition, financial market volatility could negatively
+affect our ability to realize value in our investments through liquidity events such as initial
+public offerings, mergers, and private sales. for further information about our investment
+portfolio risks, see “risk factors” in part ii, item 1a of this form 10-q.
+
+we determine the fair value of our non-marketable equity investments quarterly for disclosure
+purposes; however, the investments are recorded at fair value only if an impairment charge is
+recognized. we determine the fair value of our non-marketable equity investments using the market
+and income approaches. the market approach includes the use of financial metrics and ratios of
+comparable public companies, such as projected revenues, earnings, and comparable performance
+multiples. the selection of comparable companies requires management judgment and is based on a
+number of factors, including comparable companies’ sizes, growth rates, industries, development
+stages, and other relevant factors. the income approach includes the use of a discounted cash flow
+model, which may include one or multiple discounted cash flow scenarios and requires the following
+significant estimates for the investee: revenue, based on assumed market segment size and assumed
+market segment share; expenses, capital spending, and other costs; and discount rates based on the
+risk profile of comparable companies. estimates of market segment size, market segment share,
+expenses, capital spending, and other costs are developed using historical data and available
+market data. the valuation of our non-marketable equity investments also takes into account
+variables such as conditions reflected in the capital markets, recent financing activities by the
+investees, the investees’ capital structure, and the terms of the investees’ issued interests.
+
+for non-marketable equity investments, the measurement of fair value requires significant judgment
+and includes quantitative and qualitative analysis of identified events or circumstances that
+impact the fair value of the investment, such as:
+
+
+
+
+ 
+•
+ 
+the investee’s revenue and earnings trends relative to pre-defined milestones
+and overall business prospects;
+
+
+
+
+
+
+ 
+•
+ 
+the technological feasibility of the investee’s products and technologies;
+
+
+
+
+
+
+ 
+•
+ 
+the general market conditions in the investee’s industry or geographic area,
+including adverse regulatory or economic changes;
+
+
+
+
+
+
+ 
+•
+ 
+factors related to the investee’s ability to remain in business, such as the
+investee’s liquidity, debt ratios, and the rate at which the investee is using its cash;
+and
+
+
+
+
+
+
+ 
+•
+ 
+the investee’s receipt of additional funding at a lower valuation.
+
+
+
+34
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+if the fair value of an investment is below our carrying value, we determine if the investment is
+other than temporarily impaired based on our quantitative and qualitative analysis, which includes
+assessing the severity and duration of the impairment and the likelihood of recovery before
+disposal. if the investment is considered to be other than temporarily impaired, we write down the
+investment to its fair value. impairments of non-marketable equity investments were $14 million in
+the first quarter of 2011. over the past 12 quarters, including the first quarter of 2011,
+impairments of non-marketable equity investments ranged from $11 million to $896 million per
+quarter. this range included impairments of $896 million during the fourth quarter of 2008,
+primarily related to a $762 million impairment charge on our investment in clearwire
+communications, llc.
+
+imft/imfs
+
+imft and imfs are variable interest entities that are designed to manufacture and sell nand
+products to intel and micron technology, inc. at manufacturing cost. we determine the fair value of
+our investment in imft/imfs using the income approach based on a weighted average of multiple
+discounted cash flow scenarios of our nand solutions group business, which requires the use of
+unobservable inputs. unobservable inputs that require us to make our most difficult and subjective
+judgments are the estimates for projected revenue and discount rate. changes in management
+estimates for these unobservable inputs have the most significant effect on the fair value
+determination. we have not had an other-than-temporary impairment of our investment in imft/imfs.
+
+long-lived assets
+
+property, plant and equipment
+
+we assess property, plant and equipment for impairment when events or changes in circumstances
+indicate that the carrying value of the assets or the asset grouping may not be recoverable.
+factors that we consider in deciding when to perform an impairment review include significant
+under-performance of a business or product line in relation to expectations, significant negative
+industry or economic trends, and significant changes or planned changes in our use of the assets.
+we measure the recoverability of assets that will continue to be used in our operations by
+comparing the carrying value of the asset grouping to our estimate of the related total future
+undiscounted net cash flows. if an asset grouping’s carrying value is not recoverable through the
+related undiscounted cash flows, the asset grouping is considered to be impaired. the impairment is
+measured by comparing the difference between the asset grouping’s carrying value and its fair
+value. property, plant and equipment is considered a non-financial asset and is recorded at fair
+value only if an impairment charge is recognized.
+
+impairments are determined for groups of assets related to the lowest level of identifiable
+independent cash flows. due to our asset usage model and the interchangeable nature of our
+semiconductor manufacturing capacity, we must make subjective judgments in determining the
+independent cash flows that can be related to specific asset groupings. in addition, as we make
+manufacturing process conversions and other factory planning decisions, we must make subjective
+judgments regarding the remaining useful lives of assets, primarily process-specific semiconductor
+manufacturing tools and building improvements. when we determine that the useful lives of assets
+are shorter than we had originally estimated, we accelerate the rate of depreciation over the
+assets’ new, shorter useful lives. over the past 12 quarters, including the first quarter of 2011,
+impairments and accelerated depreciation of long-lived assets ranged from $10 million to $95
+million per quarter.
+
+goodwill
+
+goodwill is recorded when the purchase price paid for an acquisition exceeds the estimated fair
+value of the net identified tangible and intangible assets acquired. goodwill is allocated to our
+reporting units based on relative fair value of the future benefit of the purchased operations to
+our existing business units as well as the acquired business unit.
+
+we perform an annual review in the fourth quarter of each year, or more frequently if indicators of
+potential impairment exist, to determine if the carrying value of the recorded goodwill is
+impaired. our impairment review process compares the fair value of the reporting unit in which
+goodwill resides to its carrying value. reporting units may be operating segments as a whole or an
+operation one level below an operating segment, referred to as a component. our reporting units are
+consistent with the operating segments identified in “note 25: operating segment information” in
+part i, item 1 of this form 10-q.
+
+if the fair value of the reporting unit exceeds the carrying value of the net assets assigned to
+that unit, goodwill is not considered impaired and we are not required to perform further testing.
+if the carrying value of the net assets assigned to the reporting unit exceeds the fair value of
+the reporting unit, then we must perform the second step of the impairment test in order to
+determine the implied fair value of the reporting unit’s goodwill. if the carrying value of a
+reporting unit’s goodwill exceeds its implied fair value, we would record an impairment loss equal
+to the difference.
+
+35
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+determining the fair value of a reporting unit involves the use of significant estimates and
+assumptions. our impairment review process uses the income method to estimate the reporting unit’s
+fair value and is based on a discounted future cash flow approach that uses the following reporting
+unit estimates: revenue, based on assumed market segment growth rates and intel’s assumed market
+segment share; estimated costs; and appropriate discount rates based on the reporting units’
+weighted average cost of capital as determined by considering the observable weighted average cost
+of capital of comparable companies. our estimates of market segment growth, our market segment
+share and costs are based on historical data, various internal estimates and a variety of external
+sources, and are developed as part of our routine long-range planning process. the same estimates
+are also used in planning for our long-term manufacturing and assembly and test capacity needs as
+part of our capital budgeting process and for both long-term and short-term business planning and
+forecasting. we test the reasonableness of the inputs and outcomes of our discounted cash flow
+analysis against available comparable market data. in determining the carrying value of the
+reporting unit, we must include an allocation of our manufacturing and assembly and test assets
+because of the interchangeable nature of our manufacturing and assembly and test capacity. this
+allocation is based on each reporting unit’s relative percentage utilization of our manufacturing
+and assembly and test assets.
+
+during the fourth quarter of each of the prior two fiscal years, we completed our annual impairment
+reviews and concluded that goodwill was not impaired in either of these years.
+
+identified intangibles
+
+we make judgments about the recoverability of purchased finite lived intangible assets whenever
+events or changes in circumstances indicate that an impairment may exist. recoverability of finite
+lived intangible assets is measured by comparison of the carrying amount of the asset to the future
+undiscounted cash flows the asset is expected to generate. we review indefinite lived intangible
+assets for impairment quarterly and whenever events or changes in circumstances indicate the
+carrying value may not be recoverable. recoverability of indefinite lived intangible assets is
+measured by comparison of the carrying amount of the asset to the future discounted cash flows the
+asset is expected to generate. if it is determined that an individual asset is impaired, the amount
+of any impairment is measured as the difference between the carrying value and the fair value of
+the impaired asset.
+
+the assumptions and estimates used to determine future values and remaining useful lives of our
+intangible and other long-lived assets are complex and subjective. they can be affected by various
+factors, including external factors such as industry and economic trends, and internal factors such
+as changes in our business strategy and our forecasts for specific product lines. based on our
+impairment reviews of our intangible assets, we have not recognized any impairment charges in 2011
+or 2010.
+
+income taxes
+
+we must make estimates and judgments in determining the provision for taxes for financial statement
+purposes. these estimates and judgments occur in the calculation of tax credits, benefits, and
+deductions, and in the calculation of certain tax assets and liabilities that arise from
+differences in the timing of recognition of revenue and expense for tax and financial statement
+purposes, as well as the interest and penalties related to uncertain tax positions. significant
+changes in these estimates may result in an increase or decrease to our tax provision in a
+subsequent period.
+
+we must assess the likelihood that we will be able to recover our deferred tax assets. if recovery
+is not likely, we must increase our provision for taxes by recording a valuation allowance against
+the deferred tax assets that we estimate will not ultimately be recoverable. we believe that we
+will ultimately recover the deferred tax assets recorded on our consolidated condensed balance
+sheets. however, should there be a change in our ability to recover our deferred tax assets, our
+tax provision would increase in the period in which we determined that the recovery was not likely.
+recovery of a portion of our deferred tax assets is impacted by management’s plans with respect to
+holding or disposing of certain investments; therefore, changes in management’s plans with respect
+to holding or disposing of investments could affect our future provision for taxes.
+
+36
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+the calculation of our tax liabilities involves dealing with uncertainties in the application of
+complex tax regulations. we recognize liabilities for uncertain tax positions based on a two-step
+process. the first step is to evaluate the tax position for recognition by determining if the
+weight of available evidence indicates that it is more likely than not that the position will be
+sustained on audit, including resolution of related appeals or litigation processes, if any. if we
+determine that a tax position will more likely than not be sustained on audit, the second step
+requires us to estimate and measure the tax benefit as the largest amount that is more than 50%
+likely to be realized upon ultimate settlement. it is inherently difficult and subjective to
+estimate such amounts, as we have to determine the probability of various possible outcomes. we
+re-evaluate these uncertain tax positions on a quarterly basis. this evaluation is based on factors
+such as changes in facts or circumstances, changes in tax law, new audit activity, and effectively
+settled issues. determining whether an uncertain tax position is effectively settled requires
+judgment. such a change in recognition or measurement would result in the recognition of a tax
+benefit or an additional charge to the tax provision.
+
+inventory
+
+the valuation of inventory requires us to estimate obsolete or excess inventory as well as
+inventory that is not of saleable quality. the determination of obsolete or excess inventory
+requires us to estimate the future demand for our products. the estimate of future demand is
+compared to work-in-process and finished goods inventory levels to determine the amount, if any, of
+obsolete or excess inventory. as of april 2, 2011, we had total work-in-process inventory of $1.8
+billion and total finished goods inventory of $1.7 billion. the demand forecast is included in the
+development of our short-term manufacturing plans to enable consistency between inventory valuation
+and build decisions. product-specific facts and circumstances reviewed in the inventory valuation
+process include a review of the customer base, the stage of the product life cycle of our products,
+consumer confidence, and customer acceptance of our products, as well as an assessment of the
+selling price in relation to the product cost. if our demand forecast for specific products is
+greater than actual demand and we fail to reduce manufacturing output accordingly, we could be
+required to write off inventory, which would negatively impact our gross margin.
+
+in order to determine what costs can be included in the valuation of inventory, we must determine
+normal capacity at our manufacturing and assembly and test facilities, based on historical loadings
+compared to total available capacity. if the factory loadings are below the established normal
+capacity level, a portion of our manufacturing overhead costs would not be included in the cost of
+inventory, and therefore would be recognized as cost of sales in that period, which would
+negatively impact our gross margin. we refer to these costs as excess capacity charges. over the
+past 12 quarters, excess capacity charges ranged from zero to $680 million per quarter.
+
+loss contingencies
+
+we are subject to various legal and administrative proceedings and asserted and potential
+claims, accruals related to repair or replacement of parts in connection with product errata, as
+well as product warranties and potential asset impairments (loss contingencies) that arise in the
+ordinary course of business. an estimated loss from such contingencies is recognized as a charge to
+income if it is probable that a liability has been incurred and the amount of the loss can be
+reasonably estimated based on the best information available at that time. a loss contingency is
+disclosed when there is at least a reasonable possibility that a loss has been incurred. the
+outcomes of legal and administrative proceedings and claims, and the estimation of product
+warranties and asset impairments, are subject to significant uncertainty. significant judgment is
+required in both the determination of probability and the determination as to whether a loss is
+reasonably estimable. with respect to estimating the losses associated with repairing and replacing
+parts in connection with product errata, we make judgments with respect to customer return rates,
+costs to repair or replace parts, and where the product is in our customer’s manufacturing process.
+at least quarterly, we review the status of each significant matter, and we may revise our
+estimates as additional information becomes available. these revisions could have a material impact
+on our results of operations and financial position.
+
+accounting changes
+
+for a description of accounting changes see “note 3: accounting changes” in the notes to
+consolidated condensed financial statements of this form 10-q.
+
+37
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+results
+of operations - first quarter of 2011 compared to first quarter of 2010
+
+the following table sets forth certain consolidated condensed statements of income data as a
+percentage of net revenue for the periods indicated:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+% of net
+ 
+ 
+ 
+ 
+ 
+ 
+% of net
+ 
+
+
+(dollars in millions, except per share amounts)
+ 
+dollars
+ 
+ 
+revenue
+ 
+ 
+dollars
+ 
+ 
+revenue
+ 
+
+
+
+
+net revenue
+ 
+$
+12,847
+ 
+ 
+ 
+100.0
+%
+ 
+$
+10,299
+ 
+ 
+ 
+100.0
+%
+
+
+cost of sales
+ 
+ 
+4,962
+ 
+ 
+ 
+38.6
+%
+ 
+ 
+3,770
+ 
+ 
+ 
+36.6
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+gross margin
+ 
+ 
+7,885
+ 
+ 
+ 
+61.4
+%
+ 
+ 
+6,529
+ 
+ 
+ 
+63.4
+%
+
+
+research and development
+ 
+ 
+1,916
+ 
+ 
+ 
+14.9
+%
+ 
+ 
+1,564
+ 
+ 
+ 
+15.2
+%
+
+
+marketing, general and administrative
+ 
+ 
+1,775
+ 
+ 
+ 
+13.8
+%
+ 
+ 
+1,514
+ 
+ 
+ 
+14.7
+%
+
+
+amortization of acquisition-related intangibles
+ 
+ 
+36
+ 
+ 
+ 
+0.3
+%
+ 
+ 
+3
+ 
+ 
+ 
+—
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+operating income
+ 
+ 
+4,158
+ 
+ 
+ 
+32.4
+%
+ 
+ 
+3,448
+ 
+ 
+ 
+33.5
+%
+
+
+gains (losses) on equity method investments, net
+ 
+ 
+(42
+)
+ 
+ 
+(0.3
+)%
+ 
+ 
+(39
+)
+ 
+ 
+(0.4
+)%
+
+
+gains (losses) on other equity investments, net
+ 
+ 
+70
+ 
+ 
+ 
+0.5
+%
+ 
+ 
+8
+ 
+ 
+ 
+0.1
+%
+
+
+interest and other, net
+ 
+ 
+185
+ 
+ 
+ 
+1.4
+%
+ 
+ 
+29
+ 
+ 
+ 
+0.3
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+income before taxes
+ 
+ 
+4,371
+ 
+ 
+ 
+34.0
+%
+ 
+ 
+3,446
+ 
+ 
+ 
+33.5
+%
+
+
+provision for taxes
+ 
+ 
+1,211
+ 
+ 
+ 
+9.4
+%
+ 
+ 
+1,004
+ 
+ 
+ 
+9.8
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net income
+ 
+$
+3,160
+ 
+ 
+ 
+24.6
+%
+ 
+$
+2,442
+ 
+ 
+ 
+23.7
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+diluted earnings per common share
+ 
+$
+0.56
+ 
+ 
+ 
+ 
+ 
+ 
+$
+0.43
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+the following table sets forth information of geographic regions for the periods indicated:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+(dollars in millions)
+ 
+revenue
+ 
+ 
+% of total
+ 
+ 
+revenue
+ 
+ 
+% of total
+ 
+
+
+
+
+asia-pacific
+ 
+$
+7,262
+ 
+ 
+ 
+56
+%
+ 
+$
+5,888
+ 
+ 
+ 
+57
+%
+
+
+americas
+ 
+ 
+2,715
+ 
+ 
+ 
+21
+%
+ 
+ 
+1,906
+ 
+ 
+ 
+18
+%
+
+
+europe
+ 
+ 
+1,645
+ 
+ 
+ 
+13
+%
+ 
+ 
+1,404
+ 
+ 
+ 
+14
+%
+
+
+japan
+ 
+ 
+1,225
+ 
+ 
+ 
+10
+%
+ 
+ 
+1,101
+ 
+ 
+ 
+11
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total
+ 
+$
+12,847
+ 
+ 
+ 
+100
+%
+ 
+$
+10,299
+ 
+ 
+ 
+100
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+our net revenue for q1 2011, which was a 14 week quarter, increased 25% compared to q1 2010, which
+was a 13 week quarter. the increase was due to significantly higher microprocessor average selling
+prices as well as higher microprocessor unit sales. revenue from the acquisitions of the wls
+business of infineon (now intel mobile communications) and mcafee contributed $496 million to q1
+2011 revenue. revenue in the americas, asia-pacific, europe, and japan regions increased by 42%,
+23%, 17%, and 11%, respectively, compared to q1 2010.
+
+our overall gross margin dollars for q1 2011 increased $1.4 billion, or 21%, compared to q1 2010.
+the increase was primarily due to significantly higher revenue. this increase was partially offset
+by a charge of $343 million recorded in the first quarter of 2011 to repair and replace materials
+and systems impacted by a design issue related to our intel® 6 series express chipset
+family. for further information, see “note 19: chipset design issue.”
+
+our overall gross margin percentage decreased to 61.4% in q1 2011 from 63.4% in q1 2010. the
+decrease in the gross margin percentage was primarily attributable to the gross margin percentage
+decrease in the pc client group operating segment. we derived a substantial majority of our overall
+gross margin dollars in q1 2011 and q1 2010, from the sale of microprocessors in the pc client
+group and data center group operating segments. see “business outlook” for a discussion of gross
+margin expectations.
+
+38
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+pc client group
+
+the revenue and operating income for the pc client group (pccg) operating segment for q1 2011 and
+q1 2010 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+
+
+microprocessor revenue
+ 
+$
+6,823
+ 
+ 
+$
+5,692
+ 
+
+
+chipset, motherboard, and other revenue
+ 
+ 
+1,798
+ 
+ 
+ 
+1,683
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net revenue
+ 
+$
+8,621
+ 
+ 
+$
+7,375
+ 
+
+
+operating income
+ 
+$
+3,543
+ 
+ 
+$
+3,087
+ 
+
+
+
+
+net revenue for the pccg operating segment increased by $1.2 billion, or 17%, in q1 2011 compared
+to q1 2010. microprocessors and chipsets within pccg include those designed for the notebook and
+desktop computing market segments. the increase in microprocessor revenue was due to significantly
+higher notebook average selling prices. to a lesser extent, higher notebook and desktop unit sales,
+as well as higher desktop average selling prices, also contributed to the increase. the increase in
+chipset, motherboard, and other revenue was due to significantly higher chipset unit sales.
+
+operating income increased by $456 million in q1 2011 compared to q1 2010 due to higher revenue,
+partially offset by a charge of $343 million recorded in the first quarter of 2011 to repair and
+replace materials and systems impacted by a design issue related to our intel® 6 series
+express chipset family. additionally, start-up costs in q1 2011 were approximately $170 million
+higher compared to q1 2010.
+
+data center group
+
+the revenue and operating income for the data center group (dcg) operating segment for q1 2011 and
+q1 2010 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+
+
+microprocessor revenue
+ 
+$
+2,061
+ 
+ 
+$
+1,552
+ 
+
+
+chipset, motherboard, and other revenue
+ 
+ 
+403
+ 
+ 
+ 
+319
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net revenue
+ 
+$
+2,464
+ 
+ 
+$
+1,871
+ 
+
+
+operating income
+ 
+$
+1,222
+ 
+ 
+$
+833
+ 
+
+
+
+
+net revenue for the dcg operating segment increased by $593 million, or 32%, in q1 2011 compared to
+q1 2010. the increase in microprocessor revenue was primarily due to significantly higher
+microprocessor unit sales and, to a lesser extent, higher microprocessor average selling prices.
+the increase in chipset, motherboard, and other revenue was due to significantly higher revenue
+from the sale of wired connectivity products and higher chipset unit sales.
+
+operating income increased by $389 million in q1 2011 compared to q1 2010. the increase in
+operating income was primarily due to significantly higher revenue, partially offset by higher
+operating expenses compared to q1 2010.
+
+other intel architecture operating segments
+
+the revenue and operating income for the other intel architecture (other ia) operating segments,
+including intel mobile communications (imc), the embedded and communications group (ecg), the
+netbook and tablet group (ntg), the digital home group (dhg), and the ultra-mobility group (umg),
+for q1 2011 and q1 2010 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+
+
+net revenue
+ 
+$
+1,149
+ 
+ 
+$
+674
+ 
+
+
+operating income (loss)
+ 
+$
+(36
+)
+ 
+$
+26
+ 
+
+
+
+
+net revenue for the other ia operating segments increased by $475 million, or 70%, in q1 2011
+compared to q1 2010. the increase was primarily due to imc revenue, an operating segment formed
+from the acquisition of the wls business of infineon. to a lesser extent, significantly higher ecg
+microprocessor and chipset unit sales and significantly higher ecg microprocessor average selling
+prices also contributed to the increase.
+
+operating results for the other ia operating segments declined by $62 million, from an operating
+gain of $26 million in q1 2010 to an operating loss of $36 million in q1 2011. the decline in
+operating results was primarily due to higher operating expenses within each of the other ia
+operating segments, partially offset by higher revenue.
+
+39
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+software and services operating segments
+
+the revenue and operating income for the software and services operating segments, including
+mcafee, wind river software group, and software and services group, for q1 2011 and q1 2010 were as
+follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+
+
+net revenue
+ 
+$
+240
+ 
+ 
+$
+58
+ 
+
+
+operating loss
+ 
+$
+(52
+)
+ 
+$
+(44
+)
+
+
+
+
+net revenue for the software and services operating segments increased by $182 million in q1 2011
+compared to q1 2010. the increase was primarily due to revenue from the acquisition of mcafee and,
+to a lesser extent, significantly higher revenue from wind river software group.
+
+operating loss for the software and services operating segments increased by $8 million in q1 2011
+compared to q1 2010. the impact of higher revenue was mostly offset by higher operating expenses
+across each of the software and services operating segments.
+
+operating
+expenses
+
+operating expenses for q1 2011 and q1 2010 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+
+
+research and development
+ 
+$
+1,916
+ 
+ 
+$
+1,564
+ 
+
+
+marketing, general and administrative
+ 
+$
+1,775
+ 
+ 
+$
+1,514
+ 
+
+
+amortization of acquisition-related intangibles
+ 
+$
+36
+ 
+ 
+$
+3
+ 
+
+
+
+
+research and development. r&d spending increased by $352 million, or 23%, in q1 2011 compared to q1
+2010. the increase was primarily due to higher compensation based on an increase in employees as we
+invest in programs, as well as an extra work week in q1 2011 compared to q1 2010, and the
+acquisitions of mcafee and the wls business of infineon, both completed in the first quarter of
+2011. these increases were partially offset by lower process development costs as we transitioned
+from r&d to manufacturing using our 22nm process technology.
+
+marketing, general and administrative. marketing, general and administrative expenses increased
+$261 million, or 17%, in q1 2011 compared to q1 2010. the increase was primarily due to the
+acquisitions of mcafee and the wls business of infineon, both completed in the first quarter of
+2011, and higher compensation based on an increase in employees, as well as an extra work week in
+q1 2011 compared to q1 2010.
+
+r&d, combined with marketing, general and administrative expenses, were 29% of net revenue in q1
+2011 (30% of net revenue in q1 2010).
+
+amortization of acquisition-related intangibles. the increase of $33 million was primarily due to
+the amortization of intangibles related to the acquisitions of mcafee and the wls business of
+infineon, both completed in the first quarter of 2011. for further information, see “note 14:
+acquisitions” and “note 17: identified intangible assets” in the notes to consolidated condensed
+financial statements of this form 10-q.
+
+gains (losses) on equity method investments, net
+
+gains (losses) on equity method investments, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+
+
+equity method losses, net
+ 
+$
+(62
+)
+ 
+$
+(35
+)
+
+
+impairment charges
+ 
+ 
+—
+ 
+ 
+ 
+(4
+)
+
+
+other, net
+ 
+ 
+20
+ 
+ 
+ 
+—
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total gains (losses) on equity method investments, net
+ 
+$
+(42
+)
+ 
+$
+(39
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+40
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+we recognized higher equity method losses in q1 2011 compared to q1 2010, partially offset by gains
+on other equity transactions in q1 2011. our equity method losses were primarily related to
+clearwire llc ($49 million loss in q1 2011 and $29 million loss in q1 2010).
+
+gains (losses) on other equity investments, net
+
+gains (losses) on other equity investments, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2011
+ 
+ 
+q1  2010
+ 
+
+
+
+
+impairment charges
+ 
+$
+(14
+)
+ 
+$
+(42
+)
+
+
+gains on sales, net
+ 
+ 
+45
+ 
+ 
+ 
+83
+ 
+
+
+other, net
+ 
+ 
+39
+ 
+ 
+ 
+(33
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total gains (losses) on other equity investments, net
+ 
+$
+70
+ 
+ 
+$
+8
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+we recognized lower gains on sales, partially offset by lower impairment charges in q1 2011
+compared to q1 2010. gains on equity investments in q1 2010 included a gain of $67 million on the
+sale of shares in micron.
+
+other gains in q1 2011 primarily related to gains in our micron equity interest acquired in the
+sale of numonyx b.v. in q2 2010, partially offset by the change in fair value of micron equity
+options that economically hedge our equity interest. other losses in q1 2010 primarily related to
+the change in fair value of micron equity options, established prior to the numonyx sale.
+
+interest and other, net
+
+the components of interest and other, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+
+
+interest income
+ 
+$
+28
+ 
+ 
+$
+26
+ 
+
+
+interest expense
+ 
+ 
+(6
+)
+ 
+ 
+—
+ 
+
+
+other, net
+ 
+ 
+163
+ 
+ 
+ 
+3
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total interest and other, net
+ 
+$
+185
+ 
+ 
+$
+29
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+interest and other, net increased in q1 2011 compared to q1 2010, primarily due to a $164 million
+gain recognized upon formation of the intel-ge care innovations, llc joint venture during q1 2011.
+for further information, see “note 10: equity method and cost method investments,” in the notes to
+consolidated condensed financial statements of this form 10-q.
+
+provision for taxes
+
+our provision for taxes and effective tax rate were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(dollars in millions)
+ 
+q1 2011
+ 
+ 
+q1 2010
+ 
+
+
+
+
+income before taxes
+ 
+$
+4,371
+ 
+ 
+$
+3,446
+ 
+
+
+provision for taxes
+ 
+$
+1,211
+ 
+ 
+$
+1,004
+ 
+
+
+effective tax rate
+ 
+ 
+27.7
+%
+ 
+ 
+29.1
+%
+
+
+
+
+the
+effective tax rate for q1 2011 was positively impacted by a higher percentage of profits being
+derived from lower tax jurisdictions compared to q1 2010. additionally, q1 2011 included the u.s.
+research and development tax credit that was reinstated in december 2010.
+
+41
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+business outlook
+
+our future results of operations and the topics of other forward-looking statements contained in
+this form 10-q, including this md&a, involve a number of risks and uncertainties—in particular:
+
+
+
+
+
+ 
+•
+ 
+changes in business and economic conditions;
+
+
+ 
+
+ 
+•
+ 
+revenue and pricing;
+
+
+ 
+
+ 
+•
+ 
+gross margin and costs;
+
+
+ 
+
+ 
+•
+ 
+pending legal proceedings;
+
+
+ 
+
+ 
+•
+ 
+our effective tax rate;
+
+
+ 
+
+ 
+•
+ 
+marketing, general and administrative expenses;
+
+
+ 
+
+ 
+•
+ 
+our goals and strategies;
+
+
+ 
+
+ 
+•
+ 
+new product introductions, and product defects and errata;
+
+
+
+
+
+
+
+
+ 
+•
+ 
+plans to cultivate new businesses;
+
+
+ 
+
+ 
+•
+ 
+r&d expenses;
+
+
+ 
+
+ 
+•
+ 
+divestitures, acquisitions, or similar transactions;
+
+
+ 
+
+ 
+•
+ 
+net gains (losses) from equity investments;
+
+
+ 
+
+ 
+•
+ 
+interest and other, net;
+
+
+ 
+
+ 
+•
+ 
+capital spending;
+
+
+ 
+
+ 
+•
+ 
+depreciation; and
+
+
+ 
+
+ 
+•
+ 
+impairment of investments.
+
+
+
+
+
+in addition to the various important factors discussed above, a number of other important
+factors could cause actual results to differ materially from our expectations. see the risks
+described in “risk factors” in part ii, item 1a of this form 10-q.
+
+our expectations for the remainder of 2011 are as follows:
+
+q2 2011
+
+
+
+
+ 
+•
+ 
+revenue. $12.8 billion, plus or minus $500 million.
+
+
+ 
+
+ 
+•
+ 
+gross margin percentage. 61% plus or minus a couple percentage points.
+
+
+ 
+
+ 
+•
+ 
+total spending. we expect spending on r&d, plus marketing, general and administrative
+expenses to be approximately $3.9 billion.
+
+
+ 
+
+ 
+•
+ 
+depreciation. approximately $1.2 billion.
+
+
+ 
+
+ 
+•
+ 
+amortization of acquisition-related intangibles. approximately $75 million.
+
+
+ 
+
+ 
+•
+ 
+net gains (losses) from equity method investments, gains (losses) on other equity
+investments, and interest and other. net gain of approximately $50 million.
+
+
+
+full year 2011
+
+
+
+
+ 
+•
+ 
+gross margin percentage. 63%, plus or minus a few percentage points.
+
+
+ 
+
+ 
+•
+ 
+total spending. we expect spending on r&d, plus marketing, general and administrative
+expenses to be approximately $15.7 billion, plus or minus $200 million.
+
+
+ 
+
+ 
+•
+ 
+capital spending. $10.2 billion, plus or minus $400 million.
+
+
+ 
+
+ 
+•
+ 
+depreciation. $5.0 billion, plus or minus $100 million.
+
+
+ 
+
+ 
+•
+ 
+amortization of acquisition-related intangibles. approximately $260 million.
+
+
+ 
+
+ 
+•
+ 
+tax rate. approximately 29% for the second, third, and fourth quarters. the estimated
+effective tax rate is based on tax law in effect as of april 2, 2011 and expected income.
+
+
+ 
+
+ 
+•
+ 
+2011 will have 53 weeks of business versus the typical 52 weeks, as the company realigns
+its fiscal year with the calendar year.
+
+
+
+status of business outlook
+
+we expect that our corporate representatives will, from time to time, meet privately with
+investors, investment analysts, the media, and others, and may reiterate the forward-looking
+statements contained in the “business outlook” section and elsewhere in this form 10-q, including
+any such statements that are incorporated by reference in this form 10-q. at the same time, we will
+keep this form 10-q and our most current business outlook publicly available on our investor
+relations web site at www.intc.com. the public can continue to rely on the business outlook
+published on the web site as representing our current expectations on matters covered, unless we
+publish a notice stating otherwise. the statements in the “business outlook” section and other
+forward-looking statements in this form 10-q are subject to revision during the course of the year
+in our quarterly earnings releases and securities and exchange commission (sec) filings and at
+other times.
+
+from the close of business on june 3, 2011 until our quarterly earnings release is published,
+presently scheduled for july 20, 2011, we will observe a “quiet period.” during the quiet period,
+the “business outlook” section and other forward-looking statements first published in our form 8-k
+filed on april 19, 2011, as reiterated or updated as applicable in this form 10-q, should be
+considered historical, speaking as of prior to the quiet period only and not subject to update.
+during the quiet period, our representatives will not comment on our business outlook or our
+financial results or expectations. the exact timing and duration of the routine quiet period, and
+any others that we utilize from time to time, may vary at our discretion.
+
+42
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+liquidity and capital resources
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+april 2,
+ 
+ 
+dec. 25,
+ 
+
+
+(dollars in millions)
+ 
+2011
+ 
+ 
+2010
+ 
+
+
+
+
+cash and cash equivalents, short-term investments, and marketable debt instruments included in trading assets
+ 
+$
+11,458
+ 
+ 
+$
+21,497
+ 
+
+
+loans receivable and other long-term investments
+ 
+$
+2,748
+ 
+ 
+$
+3,876
+ 
+
+
+short-term and long-term debt
+ 
+$
+2,137
+ 
+ 
+$
+2,115
+ 
+
+
+debt as % of stockholders’ equity
+ 
+ 
+4.5
+%
+ 
+ 
+4.3
+%
+
+
+
+
+in summary, our cash flows were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+three months ended
+ 
+
+
+ 
+ 
+april 2,
+ 
+ 
+march 27,
+ 
+
+
+(in millions)
+ 
+2011
+ 
+ 
+2010
+ 
+
+
+
+
+net cash provided by operating activities
+ 
+$
+4,013
+ 
+ 
+$
+4,079
+ 
+
+
+net cash used for investing activities
+ 
+ 
+(644
+)
+ 
+ 
+(2,672
+)
+
+
+net cash used for financing activities
+ 
+ 
+(4,688
+)
+ 
+ 
+(406
+)
+
+
+effect of exchange rate fluctuations on cash and cash equivalents
+ 
+ 
+9
+ 
+ 
+ 
+—
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net increase (decrease) in cash and cash equivalents
+ 
+$
+(1,310
+)
+ 
+$
+1,001
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+operating activities
+
+cash provided by operating activities is net income adjusted for certain non-cash items and changes
+in certain assets and liabilities.
+
+cash from
+operations for the first quarter of 2011 was $4.0 billion, approximately flat compared to
+the first quarter of 2010 due to changes in our working capital, mostly offset by higher net
+income.
+
+changes in assets and liabilities as of april 2, 2011 compared to december 25, 2010 included the
+following:
+
+
+
+
+ 
+•
+ 
+accrued compensation and benefits decreased due to payout of 2010 profit-dependant
+compensation.
+
+
+ 
+
+ 
+•
+ 
+income taxes payable increased while income taxes receivable decreased as our u.s.
+federal estimated income tax payment for the first quarter of 2011 is paid in the second
+quarter.
+
+
+
+for the first quarter of 2011, our two largest customers accounted for 34% of net revenue (36% for
+the first quarter of 2010) with one of those customers accounting for 18% of our net revenue, and
+another customer accounting for 16% of our net revenue. these two largest customers accounted for
+33% of net accounts receivable at april 2, 2011 (44% at december 25, 2010).
+
+investing activities
+
+the decrease in cash used for investing activities in the first quarter of 2011, compared to the
+first quarter of 2010, was primarily due to net sales and maturities of available-for-sale
+investments and trading assets during the first quarter of 2011 as compared to net purchases of
+available-for-sale investments and trading assets during the first quarter of 2010. these decreases
+were partially offset by higher cash paid for acquisitions and, to a lesser extent, an increase in
+capital expenditures as we build and equip our 22nm process technology manufacturing capacity.
+
+financing activities
+
+the increase in cash used for financing activities in the first quarter of 2011, compared to the
+first quarter of 2010, was primarily due to repurchases of common stock under our authorized common
+stock repurchase program during the first quarter of 2011.
+
+43
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+liquidity
+
+cash generated by operations is our primary source of liquidity. as of april 2, 2011, cash and cash
+equivalents, short-term investments, and marketable debt instruments included in trading assets totaled $11.5 billion ($21.5 billion as of december 25, 2010). the majority of the decrease from
+the fourth quarter of 2010 is due to the cash required to fund our acquisition of mcafee in the
+first quarter of 2011. in addition to the $11.5 billion, we have $2.7 billion in loans receivable
+and other long-term investments that we include when assessing our investment portfolio.
+substantially all of our investments in debt instruments are with a/a2 or better rated issuers, and
+a substantial majority of the issuers are rated aa-/aa3 or better.
+
+our commercial paper program provides another potential source of liquidity. we have an ongoing
+authorization from our board of directors to borrow up to $3.0 billion, including through the
+issuance of commercial paper. maximum borrowings under our commercial paper program during the
+first quarter of 2011 were $200 million, although no commercial paper remained outstanding as of
+april 2, 2011. our commercial paper was rated a-1+ by standard & poor’s and p-1 by moody’s as of
+april 2, 2011. we also have an automatic shelf registration statement on file with the sec,
+pursuant to which we may offer an unspecified amount of debt, equity, and other securities.
+
+we believe that we have the financial resources needed to meet our business requirements for the
+next 12 months, including capital expenditures for worldwide manufacturing and assembly and test;
+working capital requirements; and potential dividends, common stock repurchases, and acquisitions
+or strategic investments.
+
+fair value of financial instruments
+
+when determining fair value, we consider the principal or most advantageous market in which we
+would transact, and we consider assumptions that market participants would use when pricing the
+asset or liability. see “note 4: fair value” in the notes to consolidated condensed financial
+statements of this form 10-q.
+
+credit risk is factored into the valuation of financial instruments that we measure and record at
+fair value on a recurring basis. when fair value is determined using pricing models, such as a
+discounted cash flow model, the issuer’s credit risk and/or intel’s credit risk is factored into
+the calculation of the fair value, as appropriate.
+
+marketable debt instruments
+
+as of april 2, 2011, our assets measured and recorded at fair value on a recurring basis included
+$12.6 billion of marketable debt instruments. of these instruments, $1.4 billion was classified as
+level 1, $10.8 billion as level 2, and $302 million as level 3.
+
+our balance of marketable debt instruments that are measured and recorded at fair value on a
+recurring basis and classified as level 1 was classified as such due to the use of observable
+market prices for identical securities that are traded in active markets. management judgment was
+required to determine the levels for the frequency of transactions that should be met for a market
+to be considered active. our assessment of an active market for our marketable debt instruments
+generally takes into consideration the number of days each individual instrument trades over a
+specified period.
+
+of the $10.8 billion balance of marketable debt instruments measured and recorded at fair value on
+a recurring basis and classified as level 2, approximately 40% of the balance was classified as
+level 2 due to the usage of a discounted cash flow model and approximately 60% due to the use of
+non-binding market consensus prices that are corroborated with observable market data.
+
+our marketable debt instruments that are measured and recorded at fair value on a recurring basis
+and classified as level 3 were classified as such due to the lack of observable market data to
+corroborate either the non-binding market consensus prices or the non-binding broker quotes. when
+observable market data is not available, we corroborate the non-binding market consensus prices and
+non-binding broker quotes using unobservable data, if available.
+
+equity securities
+
+as of april 2, 2011, our portfolio of assets measured and recorded at fair value on a recurring
+basis included $1.5 billion of marketable equity securities. substantially all of these securities
+were classified as level 1 because the valuations were based on quoted prices for identical
+securities in active markets. our assessment of an active market for our marketable equity
+securities generally takes into consideration the number of days that each individual equity
+security trades over a specified period.
+
+44
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+contractual obligations
+
+in january 2011, we entered into a long-term patent cross-license agreement with nvidia
+corporation. under the agreement, we receive a license to all of nvidia’s patents, while nvidia
+products are licensed to our patents subject to exclusion for x86 products, certain chipsets, and
+certain flash memory technology products. the agreement also included
+settlement of the existing litigation between the companies as well as
+broad mutual general releases. we agreed to make payments totaling $1.5 billion to
+nvidia over six years ($300 million in each of january 2011, 2012, and 2013; and $200 million in
+each of january 2014, 2015, and 2016).
+
+45
+
+
+
+ 
+
+

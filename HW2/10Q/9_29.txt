@@ -1,0 +1,866 @@
+item 2.
+management's discussion and analysis of financial condition 
+and results of operations
+
+functional earnings summary
+
+
+       first three months
+ 
+earnings (u.s. gaap)
+     2009
+  2008
+ 
+       (millions of dollars)
+ 
+upstream
+            
+   united states
+      $
+360
+ $
+1,631
+ 
+   non-u.s.
+       3,143
+  7,154
+ 
+downstream
+            
+   united states
+       352
+  398
+ 
+   non-u.s.
+       781
+  768
+ 
+chemical
+            
+   united states
+       83
+  284
+ 
+   non-u.s.
+       267
+  744
+ 
+corporate and financing
+       (436
+)
+ (89
+)
+
+net income attributable to exxonmobil (u.s. gaap)
+    $
+4,550
+ $
+10,890
+ 
+             
+earnings per common share (dollars)
+      $
+0.92
+ $
+2.03
+ 
+earnings per common share
+            
+   - assuming dilution (dollars)
+      $
+0.92
+ $
+2.02
+ 
+
+
+references in this discussion to total corporate earnings mean net income attributable to
+exxonmobil (u.s. gaap) from the income statement.  unless otherwise indicated, references
+to earnings, upstream, downstream, chemical and corporate and financing segment earnings,
+and earnings per share are exxonmobil's share after excluding amounts attributable to
+noncontrolling interests.
+
+review of first quarter 2009 results
+
+exxon mobil corporation reported first quarter 2009 earnings of $4,550 million, down 58 percent from the first quarter of 2008.  earnings per share of $0.92 were down 54 percent reflecting lower earnings and the benefit of the share purchase program.  exxonmobil posted solid first quarter results despite the slowdown in the global marketplace and sharply lower commodity prices.  the corporation returned significant cash to shareholders in the first quarter, distributing a total of $9.0 billion through dividends and share purchases to reduce shares outstanding.
+
+
+
+   first three months
+ 
+  
+  
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+upstream earnings
+            
+   united states
+      $
+360
+ $
+1,631
+ 
+   non-u.s.
+       3,143
+  7,154
+ 
+total
+      $
+3,503
+ $
+8,785
+ 
+
+
+upstream earnings were $3,503 million, down $5,282 million from the first quarter of 2008.  lower crude oil realizations reduced earnings approximately $4.4 billion while lower natural gas prices decreased earnings about $500 million.  higher operating expenses reduced earnings about $300 million.
+
+on an oil-equivalent basis, production was up slightly from the first quarter of 2008.  excluding the impacts of entitlement volumes, opec quota effects and divestments, production was up 2 percent.
+
+liquids production totaled 2,475 kbd (thousands of barrels per day), up 7 kbd from the first quarter of 2008.  excluding the impacts of entitlement volumes, opec quota effects and divestments, liquids production was up 3 percent, as increased production from projects in west africa, the united states and the north sea, and lower maintenance activity more than offset natural field decline.
+
+first quarter natural gas production was 10,195 mcfd (millions of cubic feet per day), down 34 mcfd from 2008.   new production volumes from project additions in qatar, the north sea, and malaysia were offset by natural field decline and lower european demand.
+
+earnings from u.s. upstream operations were $360 million, $1,271 million lower than the first quarter of 2008.  non-u.s. upstream earnings were $3,143 million, down $4,011 million from last year.
+
+
+-15-
+
+
+
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+downstream earnings
+            
+   united states
+      $
+352
+ $
+398
+ 
+   non-u.s.
+       781
+  768
+ 
+total
+      $
+1,133
+ $
+1,166
+ 
+
+
+downstream earnings of $1,133 million were down $33 million from the first quarter of 2008.  volume and mix effects reduced earnings about $400 million, while unfavorable foreign exchange impacts and higher operating expenses decreased earnings about $300 million.  higher margins increased earnings about $700 million.  petroleum product sales of 6,434 kbd were 387 kbd lower than last year's first quarter, mainly reflecting asset sales and lower demand.
+
+u.s. downstream earnings were $352 million, down $46 million from the first quarter of 2008.  non-u.s. downstream earnings of $781 million were $13 million higher than last year.
+
+
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+chemical earnings
+            
+   united states
+      $
+83
+ $
+284
+ 
+   non-u.s.
+       267
+  744
+ 
+total
+      $
+350
+ $
+1,028
+ 
+
+
+chemical earnings of $350 million were $678 million lower than the first quarter of 2008.  lower volumes and lower margins each reduced earnings approximately $300 million.  unfavorable foreign exchange effects also reduced earnings.  first quarter prime product sales of 5,527 kt (thousands of metric tons) were 1,051 kt lower than the prior year due to lower demand.
+
+
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+             
+corporate and financing earnings
+      $
+(436
+)
+$
+(89
+)
+
+
+
+corporate and financing expenses of $436 million increased by $347 million due overall to net lower interest income.
+
+
+liquidity and capital resources
+
+       first three months
+ 
+        2009
+  2008
+ 
+       (millions of dollars)
+ 
+net cash provided by/(used in)
+            
+operating activities
+      $
+8,910
+ $
+21,420
+ 
+investing activities
+       (4,740
+)
+ (4,300
+)
+
+financing activities
+       (10,105
+)
+ (11,353
+)
+
+effect of exchange rate changes
+       (530
+)
+ 1,165
+ 
+increase/(decrease) in cash and cash equivalents
+      $
+(6,465
+)
+$
+6,932
+ 
+             
+cash and cash equivalents (at end of period)
+      $
+24,972
+ $
+40,913
+ 
+             
+cash flow from operations and asset sales
+            
+net cash provided by operating activities (u.s. gaap)
+      $
+8,910
+ $
+21,420
+ 
+sales of subsidiaries, investments and property,
+            
+    plant and equipment
+       141
+  413
+ 
+cash flow from operations and asset sales
+      $
+9,051
+ $
+21,833
+ 
+
+
+because of the ongoing nature of our asset management and divestment program, we believe 
+it is useful for investors to consider asset sales proceeds together with cash provided by operating
+activities when evaluating cash available for investment in the business and financing activities.
+
+
+-16-
+
+
+
+
+total cash and cash equivalents of $25.0 billion at the end of the first quarter of 2009 compared to $40.9 billion at the end of the first quarter of 2008.
+
+cash provided by operating activities totaled $8,910 million for the first three months of 2009, $12,510 million lower than 2008.  the major source of funds was net income including noncontrolling interests of $4,702 million, adjusted for the noncash provision of $2,793 million for depreciation and depletion, both of which decreased.  the effects of changing prices on the timing of payments of accounts and other payables added to cash provided by operating activities.  for additional details, see the condensed consolidated statement of cash flows on page 5.
+
+investing activities for the first three months of 2009 used net cash of $4,740 million compared to $4,300 million in the prior year.  spending for additions to property, plant and equipment increased $694 million to $4,673 million.  proceeds from asset divestments of $141 million in 2009 were lower.
+
+cash flow from operations and asset sales in the first three months of 2009 of $9.1 billion, including asset sales of $0.1 billion, decreased $12.8 billion from the comparable 2008 period.
+
+net cash used in financing activities of $10,105 million in the first three months of 2009 was $1,248 million lower reflecting a lower level of purchases of shares of exxonmobil stock.
+
+during the first quarter of 2009, exxon mobil corporation purchased 107 million shares of its common stock for the treasury at a gross cost of $7.9 billion.  these purchases included $7.0 billion to reduce the number of shares outstanding, with the balance used to offset shares issued in conjunction with the company's benefit plans and programs.  shares outstanding were reduced from 4,976 million at the end of the fourth quarter to 4,880 million at the end of the first quarter.  share purchases to reduce shares outstanding are currently anticipated to equal $5.0 billion through the second quarter of 2009.  purchases may be made in both the open market and through negotiated transactions, and may be increased, decreased or discontinued at any time without prior notice.
+
+the corporation distributed a total of $9.0 billion to shareholders during the quarter through dividends and share purchases to reduce shares outstanding compared to $9.9 billion in the first quarter of 2008.
+
+total debt of $9.2 billion at march 31, 2009, compared to $9.4 billion at year-end 2008.  the corporation's debt to total capital ratio was 7.6 percent at the end of the first quarter of 2009 compared to 7.4 percent at year-end 2008.
+
+although the corporation issues long-term debt from time to time and maintains a revolving commercial paper program, internally generated funds cover the majority of its financial requirements.
+
+the corporation, as part of its ongoing asset management program, continues to evaluate its mix of assets for potential upgrade.  because of the ongoing nature of this program, dispositions will continue to be made from time to time which will result in either gains or losses.
+
+in accordance with a nationalization decree issued by venezuela’s president in february 2007, by may 1, 2007, a subsidiary of the venezuelan national oil company (pdvsa) assumed the operatorship of the cerro negro heavy oil project. this project had been operated and owned by exxonmobil affiliates holding a 41.67 percent ownership interest in the project. the decree also required conversion of the cerro negro project into a “mixed enterprise” and an increase in pdvsa’s or one of its affiliate’s ownership interest in the project, with the stipulation that if exxonmobil refused to accept the terms for the formation of the mixed enterprise within a specified period of time, the government would “directly assume the activities” carried out by the joint venture. exxonmobil refused to accede to the terms proffered by the government, and on june 27, 2007, the government expropriated exxonmobil’s 41.67 percent interest in the cerro negr
+o project. 
+
+on september 6, 2007, affiliates of exxonmobil filed a request for arbitration with the international centre for settlement of investment disputes. an affiliate of exxonmobil has also filed an arbitration under the rules of the international chamber of commerce against pdvsa and a pdvsa affiliate for breach of their contractual obligations under certain cerro negro project agreements. at this time, the net impact of this matter on the corporation’s consolidated financial results cannot be reasonably estimated. however, the corporation does not expect the resolution to have a material effect upon the corporation’s operations or financial condition. exxonmobil’s remaining net book investment in cerro negro producing assets is about $750 million.
+
+
+
+-17-
+
+
+
+taxes
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+             
+income taxes
+      $
+3,148
+ $
+9,302
+ 
+sales-based taxes
+       5,906
+  8,432
+ 
+all other taxes and duties
+       8,589
+  11,607
+ 
+total
+      $
+17,643
+ $
+29,341
+ 
+             
+effective income tax rate
+       45
+%
+ 48
+%
+
+
+
+income, sales-based and all other taxes and duties for the first quarter of 2009 of $17,643 million were lower than 2008.  in the first quarter of 2009 income tax expense declined to $3,148 million reflecting the lower level of earnings and the effective income tax rate was 45 percent, compared to $9,302 million and 48 percent, respectively, in the prior year period.  sales-based taxes and all other taxes and duties decreased in 2009 reflecting lower prices and foreign exchange effects.
+
+
+capital and exploration expenditures
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+             
+upstream (including exploration expenses)
+      $
+4,366
+ $
+4,095
+ 
+downstream
+       646
+  827
+ 
+chemical
+       758
+  566
+ 
+other
+       4
+  3
+ 
+total
+      $
+5,774
+ $
+5,491
+ 
+
+
+in spite of the dramatic changes to the global economic environment, exxonmobil is maintaining its long-term focus and disciplined approach to capital investment.  in the first quarter, capital and exploration project spending increased to $5.8 billion, up 5% from last year.
+
+we are committed to investing in our world-class inventory of projects to develop new energy supplies which are vital to economic growth.  capital and exploration expenditures for full year 2008 were $26.1 billion and are expected to range from $25 billion to $30 billion for the next several years.  actual spending could vary depending on the progress of individual projects. 
+
+
+forward-looking statements
+
+statements in this report relating to future plans, projections, events or conditions are forward-looking statements.  actual results, including project plans, costs, timing, and capacities; capital expenditures; and share purchase levels, could differ materially due to factors including: changes in long-term oil or gas prices or other market conditions affecting the oil and gas industry; completion of repair projects as planned; unforeseen technical difficulties; political events or disturbances; reservoir performance; the outcome of commercial negotiations; wars and acts of terrorism or sabotage; changes in technical or operating conditions; and other factors discussed under the heading "factors affecting future results" on our website and in item 1a of exxonmobil's 2008 form 10-k.  we assume no duty to update these statements as of any future date.
+
+
+
+-18-
+
+
+
+item 2.
+management's discussion and analysis of financial condition 
+and results of operations
+
+functional earnings summary
+
+
+       first three months
+ 
+earnings (u.s. gaap)
+     2009
+  2008
+ 
+       (millions of dollars)
+ 
+upstream
+            
+   united states
+      $
+360
+ $
+1,631
+ 
+   non-u.s.
+       3,143
+  7,154
+ 
+downstream
+            
+   united states
+       352
+  398
+ 
+   non-u.s.
+       781
+  768
+ 
+chemical
+            
+   united states
+       83
+  284
+ 
+   non-u.s.
+       267
+  744
+ 
+corporate and financing
+       (436
+)
+ (89
+)
+
+net income attributable to exxonmobil (u.s. gaap)
+    $
+4,550
+ $
+10,890
+ 
+             
+earnings per common share (dollars)
+      $
+0.92
+ $
+2.03
+ 
+earnings per common share
+            
+   - assuming dilution (dollars)
+      $
+0.92
+ $
+2.02
+ 
+
+
+references in this discussion to total corporate earnings mean net income attributable to
+exxonmobil (u.s. gaap) from the income statement.  unless otherwise indicated, references
+to earnings, upstream, downstream, chemical and corporate and financing segment earnings,
+and earnings per share are exxonmobil's share after excluding amounts attributable to
+noncontrolling interests.
+
+review of first quarter 2009 results
+
+exxon mobil corporation reported first quarter 2009 earnings of $4,550 million, down 58 percent from the first quarter of 2008.  earnings per share of $0.92 were down 54 percent reflecting lower earnings and the benefit of the share purchase program.  exxonmobil posted solid first quarter results despite the slowdown in the global marketplace and sharply lower commodity prices.  the corporation returned significant cash to shareholders in the first quarter, distributing a total of $9.0 billion through dividends and share purchases to reduce shares outstanding.
+
+
+
+   first three months
+ 
+  
+  
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+upstream earnings
+            
+   united states
+      $
+360
+ $
+1,631
+ 
+   non-u.s.
+       3,143
+  7,154
+ 
+total
+      $
+3,503
+ $
+8,785
+ 
+
+
+upstream earnings were $3,503 million, down $5,282 million from the first quarter of 2008.  lower crude oil realizations reduced earnings approximately $4.4 billion while lower natural gas prices decreased earnings about $500 million.  higher operating expenses reduced earnings about $300 million.
+
+on an oil-equivalent basis, production was up slightly from the first quarter of 2008.  excluding the impacts of entitlement volumes, opec quota effects and divestments, production was up 2 percent.
+
+liquids production totaled 2,475 kbd (thousands of barrels per day), up 7 kbd from the first quarter of 2008.  excluding the impacts of entitlement volumes, opec quota effects and divestments, liquids production was up 3 percent, as increased production from projects in west africa, the united states and the north sea, and lower maintenance activity more than offset natural field decline.
+
+first quarter natural gas production was 10,195 mcfd (millions of cubic feet per day), down 34 mcfd from 2008.   new production volumes from project additions in qatar, the north sea, and malaysia were offset by natural field decline and lower european demand.
+
+earnings from u.s. upstream operations were $360 million, $1,271 million lower than the first quarter of 2008.  non-u.s. upstream earnings were $3,143 million, down $4,011 million from last year.
+
+
+-15-
+
+
+
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+downstream earnings
+            
+   united states
+      $
+352
+ $
+398
+ 
+   non-u.s.
+       781
+  768
+ 
+total
+      $
+1,133
+ $
+1,166
+ 
+
+
+downstream earnings of $1,133 million were down $33 million from the first quarter of 2008.  volume and mix effects reduced earnings about $400 million, while unfavorable foreign exchange impacts and higher operating expenses decreased earnings about $300 million.  higher margins increased earnings about $700 million.  petroleum product sales of 6,434 kbd were 387 kbd lower than last year's first quarter, mainly reflecting asset sales and lower demand.
+
+u.s. downstream earnings were $352 million, down $46 million from the first quarter of 2008.  non-u.s. downstream earnings of $781 million were $13 million higher than last year.
+
+
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+chemical earnings
+            
+   united states
+      $
+83
+ $
+284
+ 
+   non-u.s.
+       267
+  744
+ 
+total
+      $
+350
+ $
+1,028
+ 
+
+
+chemical earnings of $350 million were $678 million lower than the first quarter of 2008.  lower volumes and lower margins each reduced earnings approximately $300 million.  unfavorable foreign exchange effects also reduced earnings.  first quarter prime product sales of 5,527 kt (thousands of metric tons) were 1,051 kt lower than the prior year due to lower demand.
+
+
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+             
+corporate and financing earnings
+      $
+(436
+)
+$
+(89
+)
+
+
+
+corporate and financing expenses of $436 million increased by $347 million due overall to net lower interest income.
+
+
+liquidity and capital resources
+
+       first three months
+ 
+        2009
+  2008
+ 
+       (millions of dollars)
+ 
+net cash provided by/(used in)
+            
+operating activities
+      $
+8,910
+ $
+21,420
+ 
+investing activities
+       (4,740
+)
+ (4,300
+)
+
+financing activities
+       (10,105
+)
+ (11,353
+)
+
+effect of exchange rate changes
+       (530
+)
+ 1,165
+ 
+increase/(decrease) in cash and cash equivalents
+      $
+(6,465
+)
+$
+6,932
+ 
+             
+cash and cash equivalents (at end of period)
+      $
+24,972
+ $
+40,913
+ 
+             
+cash flow from operations and asset sales
+            
+net cash provided by operating activities (u.s. gaap)
+      $
+8,910
+ $
+21,420
+ 
+sales of subsidiaries, investments and property,
+            
+    plant and equipment
+       141
+  413
+ 
+cash flow from operations and asset sales
+      $
+9,051
+ $
+21,833
+ 
+
+
+because of the ongoing nature of our asset management and divestment program, we believe 
+it is useful for investors to consider asset sales proceeds together with cash provided by operating
+activities when evaluating cash available for investment in the business and financing activities.
+
+
+-16-
+
+
+
+
+total cash and cash equivalents of $25.0 billion at the end of the first quarter of 2009 compared to $40.9 billion at the end of the first quarter of 2008.
+
+cash provided by operating activities totaled $8,910 million for the first three months of 2009, $12,510 million lower than 2008.  the major source of funds was net income including noncontrolling interests of $4,702 million, adjusted for the noncash provision of $2,793 million for depreciation and depletion, both of which decreased.  the effects of changing prices on the timing of payments of accounts and other payables added to cash provided by operating activities.  for additional details, see the condensed consolidated statement of cash flows on page 5.
+
+investing activities for the first three months of 2009 used net cash of $4,740 million compared to $4,300 million in the prior year.  spending for additions to property, plant and equipment increased $694 million to $4,673 million.  proceeds from asset divestments of $141 million in 2009 were lower.
+
+cash flow from operations and asset sales in the first three months of 2009 of $9.1 billion, including asset sales of $0.1 billion, decreased $12.8 billion from the comparable 2008 period.
+
+net cash used in financing activities of $10,105 million in the first three months of 2009 was $1,248 million lower reflecting a lower level of purchases of shares of exxonmobil stock.
+
+during the first quarter of 2009, exxon mobil corporation purchased 107 million shares of its common stock for the treasury at a gross cost of $7.9 billion.  these purchases included $7.0 billion to reduce the number of shares outstanding, with the balance used to offset shares issued in conjunction with the company's benefit plans and programs.  shares outstanding were reduced from 4,976 million at the end of the fourth quarter to 4,880 million at the end of the first quarter.  share purchases to reduce shares outstanding are currently anticipated to equal $5.0 billion through the second quarter of 2009.  purchases may be made in both the open market and through negotiated transactions, and may be increased, decreased or discontinued at any time without prior notice.
+
+the corporation distributed a total of $9.0 billion to shareholders during the quarter through dividends and share purchases to reduce shares outstanding compared to $9.9 billion in the first quarter of 2008.
+
+total debt of $9.2 billion at march 31, 2009, compared to $9.4 billion at year-end 2008.  the corporation's debt to total capital ratio was 7.6 percent at the end of the first quarter of 2009 compared to 7.4 percent at year-end 2008.
+
+although the corporation issues long-term debt from time to time and maintains a revolving commercial paper program, internally generated funds cover the majority of its financial requirements.
+
+the corporation, as part of its ongoing asset management program, continues to evaluate its mix of assets for potential upgrade.  because of the ongoing nature of this program, dispositions will continue to be made from time to time which will result in either gains or losses.
+
+in accordance with a nationalization decree issued by venezuela’s president in february 2007, by may 1, 2007, a subsidiary of the venezuelan national oil company (pdvsa) assumed the operatorship of the cerro negro heavy oil project. this project had been operated and owned by exxonmobil affiliates holding a 41.67 percent ownership interest in the project. the decree also required conversion of the cerro negro project into a “mixed enterprise” and an increase in pdvsa’s or one of its affiliate’s ownership interest in the project, with the stipulation that if exxonmobil refused to accept the terms for the formation of the mixed enterprise within a specified period of time, the government would “directly assume the activities” carried out by the joint venture. exxonmobil refused to accede to the terms proffered by the government, and on june 27, 2007, the government expropriated exxonmobil’s 41.67 percent interest in the cerro negr
+o project. 
+
+on september 6, 2007, affiliates of exxonmobil filed a request for arbitration with the international centre for settlement of investment disputes. an affiliate of exxonmobil has also filed an arbitration under the rules of the international chamber of commerce against pdvsa and a pdvsa affiliate for breach of their contractual obligations under certain cerro negro project agreements. at this time, the net impact of this matter on the corporation’s consolidated financial results cannot be reasonably estimated. however, the corporation does not expect the resolution to have a material effect upon the corporation’s operations or financial condition. exxonmobil’s remaining net book investment in cerro negro producing assets is about $750 million.
+
+
+
+-17-
+
+
+
+taxes
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+             
+income taxes
+      $
+3,148
+ $
+9,302
+ 
+sales-based taxes
+       5,906
+  8,432
+ 
+all other taxes and duties
+       8,589
+  11,607
+ 
+total
+      $
+17,643
+ $
+29,341
+ 
+             
+effective income tax rate
+       45
+%
+ 48
+%
+
+
+
+income, sales-based and all other taxes and duties for the first quarter of 2009 of $17,643 million were lower than 2008.  in the first quarter of 2009 income tax expense declined to $3,148 million reflecting the lower level of earnings and the effective income tax rate was 45 percent, compared to $9,302 million and 48 percent, respectively, in the prior year period.  sales-based taxes and all other taxes and duties decreased in 2009 reflecting lower prices and foreign exchange effects.
+
+
+capital and exploration expenditures
+
+   first three months
+ 
+ 
+ 
+  2009
+  2008
+ 
+       (millions of dollars)
+ 
+             
+upstream (including exploration expenses)
+      $
+4,366
+ $
+4,095
+ 
+downstream
+       646
+  827
+ 
+chemical
+       758
+  566
+ 
+other
+       4
+  3
+ 
+total
+      $
+5,774
+ $
+5,491
+ 
+
+
+in spite of the dramatic changes to the global economic environment, exxonmobil is maintaining its long-term focus and disciplined approach to capital investment.  in the first quarter, capital and exploration project spending increased to $5.8 billion, up 5% from last year.
+
+we are committed to investing in our world-class inventory of projects to develop new energy supplies which are vital to economic growth.  capital and exploration expenditures for full year 2008 were $26.1 billion and are expected to range from $25 billion to $30 billion for the next several years.  actual spending could vary depending on the progress of individual projects. 
+
+
+forward-looking statements
+
+statements in this report relating to future plans, projections, events or conditions are forward-looking statements.  actual results, including project plans, costs, timing, and capacities; capital expenditures; and share purchase levels, could differ materially due to factors including: changes in long-term oil or gas prices or other market conditions affecting the oil and gas industry; completion of repair projects as planned; unforeseen technical difficulties; political events or disturbances; reservoir performance; the outcome of commercial negotiations; wars and acts of terrorism or sabotage; changes in technical or operating conditions; and other factors discussed under the heading "factors affecting future results" on our website and in item 1a of exxonmobil's 2008 form 10-k.  we assume no duty to update these statements as of any future date.
+
+
+
+-18-
+
+
+

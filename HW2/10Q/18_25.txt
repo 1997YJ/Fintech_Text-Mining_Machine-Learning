@@ -1,0 +1,4302 @@
+item 2. management’s discussion and analysis of financial condition and results of operations
+
+our management’s discussion and analysis of financial condition and results of operations (md&a) is
+provided in addition to the accompanying consolidated condensed financial statements and notes to
+assist readers in understanding our results of operations, financial condition, and cash flows.
+md&a is organized as follows:
+
+
+
+
+ 
+•
+ 
+overview. discussion of our business and overall analysis of financial and
+other highlights affecting the company in order to provide context for the remainder of
+md&a.
+
+
+ 
+
+ 
+•
+ 
+strategy. our overall strategy.
+
+
+ 
+
+ 
+•
+ 
+critical accounting estimates. accounting estimates that we believe are most
+important to understanding the assumptions and judgments incorporated in our reported
+financial results and forecasts.
+
+
+ 
+
+ 
+•
+ 
+results of operations. an analysis of our financial results comparing the three
+and six months ended june 26, 2010 to the three and six months ended june 27, 2009.
+
+
+ 
+
+ 
+•
+ 
+business outlook. our expectations for selected financial items for the third
+quarter of 2010 and the 2010 full year.
+
+
+ 
+
+ 
+•
+ 
+liquidity and capital resources. an analysis of changes in our balance sheets
+and cash flows, and discussion of our financial condition and potential sources of
+liquidity.
+
+
+ 
+
+ 
+•
+ 
+fair value of financial instruments. discussion of the methodologies used in
+the valuation of our financial instruments.
+
+
+
+the various sections of this md&a contain a number of forward-looking statements. words such as
+“expects,” “goals,” “plans,” “believes,” “continues,” “may,” “will,” and variations of such words
+and similar expressions are intended to identify such forward-looking statements. in addition, any
+statements that refer to projections of our future financial performance, our anticipated growth
+and trends in our businesses, and other characterizations of future events or circumstances are
+forward-looking statements. such statements are based on our current expectations and could be
+affected by the uncertainties and risk factors described throughout this filing and particularly in
+the “business outlook” section (see also “risk factors” in part ii, item 1a of this form 10-q). our
+actual results may differ materially, and these forward-looking statements do not reflect the
+potential impact of any divestitures, mergers, acquisitions, or other business combinations that
+had not been completed as of july 30, 2010.
+
+overview
+
+our results of operations were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q1 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+net revenue
+ 
+$
+10,765
+ 
+ 
+$
+10,299
+ 
+ 
+$
+8,024
+ 
+
+
+gross margin
+ 
+$
+7,235
+ 
+ 
+$
+6,529
+ 
+ 
+$
+4,079
+ 
+
+
+operating income (loss)
+ 
+$
+3,981
+ 
+ 
+$
+3,448
+ 
+ 
+$
+(12
+)
+
+
+net income (loss)
+ 
+$
+2,887
+ 
+ 
+$
+2,442
+ 
+ 
+$
+(398
+)
+
+
+
+
+our financial results for the second quarter of 2010 were a result of a strong product mix with the
+continued ramp of our new 32-nanometer microprocessor products, and continued declines in unit
+cost. our revenue growth continued and the second quarter out-performed seasonal patterns in each
+of our geographic regions. additionally, our second quarter results set quarterly records for
+revenue of $10.8 billion, gross margin of 67%, operating income of $4.0 billion, and diluted
+earnings per share of $0.51.
+
+our second quarter revenue of $10.8 billion increased 5% from the first quarter of 2010.
+microprocessor unit sales and microprocessor average selling prices were up slightly in the second
+quarter compared to the first quarter due to strength in our server market segment and sales of our
+new 32-nanometer notebook microprocessors. demand from the enterprise and small business market
+segments for richer configurations drove an improved mix in our server and pc business. we also
+continue to see pc sales driven by consumer purchases, particularly notebooks.
+
+in the second quarter, we built additional inventory as we ramped our new 32-nanometer products in
+anticipation of a seasonally stronger second half of the year. we are comfortable with inventory
+levels across the supply chain.
+
+our overall gross margin percentage for the second quarter was better than expected, setting a new
+quarterly record. compared to the first quarter, our second quarter gross margin percentage
+increased due to lower platform (microprocessor and chipset) unit cost, higher platform revenue,
+and lower start-up costs, partially offset by fewer sales of previously written-off inventory. our
+third quarter gross margin percentage is expected to be approximately flat to the second quarter,
+with higher inventory write-offs of our microprocessor products not yet qualified for sale,
+partially offset by higher platform revenue.
+
+30
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+our process technology is, and will continue to be, a very important source of differentiation and
+earnings power for the company. we continue to execute on our “tick-tock” technology development
+cadence and have accelerated our 32-nanometer factory ramp. as a result of the accelerated ramp, we
+have raised our 2010 capital spending outlook by $400 million, enabling us to meet the anticipated
+demand of our new 32 nanometer process technology products based on our new microarchitecture, code
+named sandy bridge, which we expect to introduce later in 2010.
+
+from a financial condition perspective, we ended the second quarter of 2010 with an investment
+portfolio of $17.8 billion, consisting of cash and cash equivalents, short-term investments, and
+marketable debt instruments included in trading assets. the cash generating power of our business
+was evident in the first half of 2010 with $7.6 billion of cash from operations. during the first
+half of 2010, we returned $1.7 billion to stockholders through dividends, and in july, our board of
+directors declared a dividend of $.1575 per common share to be paid in september.
+
+strategy
+
+our goal is to be the preeminent provider of semiconductor chips and platforms for the worldwide
+digital economy. as part of our overall strategy to compete in each relevant market segment, we use
+our core competencies in the design and manufacture of integrated circuits, as well as our
+financial resources, global presence, brand recognition, and software development. we believe that
+we have the scale, capacity, and global reach to establish new technologies and respond to
+customers’ needs quickly.
+
+some of our key focus areas are listed below:
+
+
+
+
+ 
+•
+ 
+customer orientation. our strategy focuses on developing our next generation of
+products based on the needs and expectations of our customers. in turn, our products help
+enable the design and development of new form factors and usage models for businesses and
+consumers. we offer platforms that incorporate various components designed and configured
+to work together to provide an optimized computing solution compared to components that are
+used separately.
+
+
+ 
+
+ 
+•
+ 
+architecture and platforms. we are focusing on improved energy-efficient
+performance for computing and communications systems and devices. improved energy-efficient
+performance involves balancing improved performance with lower power consumption. we
+continue to develop multi-core microprocessors with an increasing number of cores, which
+enable improved multitasking and energy efficiency. in addition, to meet the demands of new
+and evolving netbook, consumer electronics, and various embedded market segments, we offer
+and are continuing to develop system on a chip (soc) products that are designed to provide
+improved performance due to higher integration, lower power consumption, and smaller form
+factors.
+
+
+ 
+
+ 
+•
+ 
+silicon and manufacturing technology leadership. our strategy for developing
+microprocessors with improved performance is to synchronize the introduction of a new
+microarchitecture with improvements in silicon process technology. we plan to introduce a
+new microarchitecture approximately every two years and ramp the next generation of silicon
+process technology in the intervening years. this coordinated schedule allows us to develop
+and introduce new products based on a common microarchitecture quickly, without waiting for
+the next generation of silicon process technology. we refer to this as our “tick-tock”
+technology development cadence. in keeping with this cadence, we expect to introduce a new
+microarchitecture using our 32nm process technology later this year.
+
+
+ 
+
+ 
+•
+ 
+strategic investments. we make investments in companies around the world that
+we believe will generate financial returns, further our strategic objectives, and support
+our key business initiatives. our investments, including those made through our intel
+capital program, generally focus on investing in companies and initiatives to stimulate
+growth in the digital economy, create new business opportunities for intel, and expand
+global markets for our products. our current investments primarily focus on the following
+areas: advancing flash memory products, enabling mobile wireless devices, advancing the
+digital home, enhancing the digital enterprise, advancing high-performance communications
+infrastructures, and developing the next generation of silicon process technologies.
+
+
+ 
+
+ 
+•
+ 
+business environment and software. we believe that we are well positioned in
+the technology industry to help drive innovation, foster collaboration, and promote
+industry standards that will yield innovation and improved technologies for users. we plan
+to continue to cultivate new businesses and work to encourage the industry to offer
+products that take advantage of the latest market trends and usage models. we frequently
+participate in industry initiatives designed to discuss and agree upon technical
+specifications and other aspects of technologies that could be adopted by standards-setting
+organizations. through our software and services group, we help enable and advance the
+computing ecosystem by providing development tools and support to help software developers
+create software applications and operating systems that take advantage of our platforms.
+lastly, we believe that the software expertise of our wind river software group will
+expedite our growth strategy in the embedded and handheld market segments.
+
+
+
+31
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+we believe that the proliferation of the internet has driven the need for greater performance in
+pcs and servers. older pcs are increasingly incapable of handling the tasks that businesses and
+individual consumers demand, such as video streaming and editing,
+web conferencing, online gaming, social networking, and other memory-intensive applications. as
+these tasks become even more demanding and require more computing power, we believe that businesses
+and individual consumers will need and want to buy new pcs. we also believe that increased internet
+traffic and the increasing use of cloud computing, in which a group of linked servers provide a
+variety of applications and data to users over the internet, create a need for greater server
+infrastructure, including server products optimized for energy-efficient performance and
+virtualization.
+
+we believe that the trend of mobile microprocessor unit growth outpacing the growth in desktop
+microprocessor units will continue and that the demand for mobile microprocessors will result in
+the increased development of products with form factors and uses that require low-power
+microprocessors. we also believe that these products will result in demand that is incremental to
+that of microprocessors designed for notebook and desktop computers, as a growing number of
+households have multiple devices for different computing functions. our silicon and manufacturing
+technology leadership allows us to develop low-power microprocessors for these and other new uses
+and form factors. we believe that intel® atomtm processors give us the
+ability to extend intel® architecture and drive growth in new market segments,
+including a growing number of products that require processors specifically designed for embedded
+applications, handhelds, consumer electronics devices, tablets, and netbooks. we expect that our
+intel atom developer program will spur new applications that run on products using intel atom
+processors, which will expedite our growth strategy in these new market segments. the common
+elements for products in these new market segments are low power consumption and the ability to
+access the internet.
+
+we are also focusing on the development of a new highly scalable, many-core architecture aimed at
+parallel processing, the simultaneous use of multiple cores to execute a computing task. this
+architecture will initially be used as a software development platform for throughput computing
+(the need for large amounts of computing performance consistently over a long period of time). over
+time, this architecture may be utilized in the development of products for scientific and
+professional workstations as well as high-performance computing applications.
+
+in addition, we offer, and are continuing to develop, advanced nand flash memory products, focusing
+on system-level solutions for intel architecture platforms such as solid-state drives. in support
+of our strategy to provide advanced flash memory products, we continue to focus on the development
+of innovative products designed to address the needs of customers for reliable, non-volatile,
+low-cost, high-density memory.
+
+critical accounting estimates
+
+the methods, estimates, and judgments that we use in applying our accounting policies have a
+significant impact on the results that we report in our consolidated condensed financial
+statements. some of our accounting policies require us to make difficult and subjective judgments,
+often as a result of the need to make estimates regarding matters that are inherently uncertain.
+our most critical accounting estimates include:
+
+
+
+
+ 
+•
+ 
+the valuation of non-marketable equity investments and the determination of
+other-than-temporary impairments, which impact gains (losses) on equity method investments,
+net, or gains (losses) on other equity investments, net when we record impairments;
+
+
+ 
+
+ 
+•
+ 
+the assessment of recoverability of long-lived assets, which impacts gross
+margin or operating expenses when we record asset impairments or accelerate their
+depreciation;
+
+
+ 
+
+ 
+•
+ 
+the recognition and measurement of current and deferred income taxes (including
+the measurement of uncertain tax positions), which impact our provision for taxes; and
+
+
+ 
+
+ 
+•
+ 
+the valuation of inventory, which impacts gross margin.
+
+
+
+below, we discuss these policies further, as well as the estimates and judgments involved.
+
+32
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+non-marketable equity investments
+
+we regularly invest in non-marketable equity instruments of private companies, which range from
+early-stage companies that are often still defining their strategic direction to more mature
+companies with established revenue streams and business models. the carrying value of our
+non-marketable equity investment portfolio, excluding equity derivatives, totaled $2.8 billion as
+of june 26, 2010 ($3.4 billion as of december 26, 2009). the majority of this balance as of june
+26, 2010 was concentrated in companies in the flash memory market segment. our flash memory market
+segment investments include our investment in im flash technologies, llc (imft) and im flash
+singapore, llp (imfs) of $1.6 billion ($1.6 billion as of december 26, 2009). for further
+information, see “note 10: non-marketable equity investments” in the notes to consolidated
+condensed financial statements of this form 10-q.
+
+our non-marketable equity investments are recorded using adjusted cost basis or the equity method
+of accounting, depending on the facts and circumstances of each investment. our non-marketable
+equity investments are classified within other long-term assets on the consolidated condensed
+balance sheets.
+
+non-marketable equity investments are inherently risky, and their success is dependent on product
+development, market acceptance, operational efficiency, other key business factors, and the ability
+of the investee companies to raise additional funds in financial markets that can be volatile. the
+companies could fail, or not be able to raise additional funds when the funds are needed or they
+may receive lower valuations, with less favorable investment terms than in previous financings.
+these events could cause our investments to become impaired. in addition, financial market
+volatility could negatively affect our ability to realize value in our investments through
+liquidity events such as initial public offerings, mergers, and private sales. for further
+information about our investment portfolio risks, see “risk factors” in part ii, item 1a of this
+form 10-q.
+
+we determine the fair value of our non-marketable equity investments quarterly for disclosure
+purposes; however, the investments are recorded at fair value only if an impairment charge is
+recognized. we determine the fair value of our non-marketable equity investments using the market
+and income approaches. the market approach includes the use of financial metrics and ratios of
+comparable public companies, such as projected revenues, earnings, and comparable performance
+multiples. the selection of comparable companies requires management judgment and is based on a
+number of factors, including comparable companies’ sizes, growth rates, industries, development
+stages, and other relevant factors. the income approach includes the use of a discounted cash flow
+model, which may include one or multiple discounted cash flow scenarios and requires the following
+significant estimates for the investee: revenue, based on assumed market segment size and assumed
+market segment share; expenses, capital spending, and other costs; and discount rates based on the
+risk profile of comparable companies. estimates of market segment size, market segment share,
+expenses, capital spending, and other costs are developed by the investee and/or intel using
+historical data and available market data. the valuation of our non-marketable investments also
+takes into account variables such as conditions reflected in the capital markets, recent financing
+activities by the investees, the investees’ capital structure, and differences in seniority and
+rights associated with the investees’ capital structure.
+
+for non-marketable equity investments, the measurement of fair value requires significant judgment
+and includes quantitative and qualitative analysis of identified events or circumstances that
+impact the fair value of the investment, such as:
+
+
+
+
+ 
+•
+ 
+the investee’s revenue and earnings trends relative to pre-defined milestones
+and overall business prospects;
+
+
+ 
+
+ 
+•
+ 
+the technological feasibility of the investee’s products and technologies;
+
+
+ 
+
+ 
+•
+ 
+the general market conditions in the investee’s industry or geographic area,
+including adverse regulatory or economic changes;
+
+
+ 
+
+ 
+•
+ 
+factors related to the investee’s ability to remain in business, such as the
+investee’s liquidity, debt ratios, and the rate at which the investee is using its cash;
+and
+
+
+ 
+
+ 
+•
+ 
+the investee’s receipt of additional funding at a lower valuation.
+
+
+
+if the fair value of an investment is below our carrying value, we determine if the investment is
+other than temporarily impaired based on our quantitative and qualitative analysis, which includes
+assessing the severity and duration of the impairment and the likelihood of recovery before
+disposal. if the investment is considered to be other than temporarily impaired, we write down the
+investment to its fair value. impairments of non-marketable equity investments were $17 million in
+the second quarter of 2010 ($63 million in the first half of 2010). over the past 12 quarters,
+including the second quarter of 2010, impairments of non-marketable equity investments ranged from
+$11 million to $896 million per quarter. this range included impairments of $896 million during the
+fourth quarter of 2008, primarily related to a $762 million impairment charge on our investment in
+clearwire communications, llc (clearwire llc).
+
+33
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+imft/imfs
+
+imft and imfs are variable interest entities that are designed to manufacture and sell nand
+products to intel and micron technology, inc. at manufacturing cost. we determine the fair value of
+our investment in imft/imfs using the income approach based on a weighted average of multiple
+discounted cash flow scenarios of our nand solutions group business, which requires the use of
+unobservable inputs. unobservable inputs that require us to make our most difficult and subjective
+judgments are the estimates for projected revenue and discount rate. changes in management
+estimates for these unobservable inputs have the most significant effect on the fair value
+determination. we have not had an other-than-temporary impairment on our investment in imft/imfs.
+it is reasonably possible that the estimates used in the fair value determination could change in
+the near term, which could result in an impairment of our investment.
+
+long-lived assets
+
+we assess the impairment of long-lived assets when events or changes in circumstances indicate that
+the carrying value of the assets or the asset grouping may not be recoverable. factors that we
+consider in deciding when to perform an impairment review include significant under-performance of
+a business or product line in relation to expectations, significant negative industry or economic
+trends, and significant changes or planned changes in our use of the assets. we measure the
+recoverability of assets that will continue to be used in our operations by comparing the carrying
+value of the asset grouping to our estimate of the related total future undiscounted net cash
+flows. if an asset grouping’s carrying value is not recoverable through the related undiscounted
+cash flows, the asset grouping is considered to be impaired. the impairment is measured by
+comparing the difference between the asset grouping’s carrying value and its fair value. fair value
+is the price that would be received from selling an asset in an orderly transaction between market
+participants at the measurement date. long-lived assets such as goodwill; intangible assets; and
+property, plant and equipment are considered non-financial assets, and are recorded at fair value
+only if an impairment charge is recognized.
+
+impairments of long-lived assets are determined for groups of assets related to the lowest level of
+identifiable independent cash flows. due to our asset usage model and the interchangeable nature of
+our semiconductor manufacturing capacity, we must make subjective judgments in determining the
+independent cash flows that can be related to specific asset groupings. in addition, as we make
+manufacturing process conversions and other factory planning decisions, we must make subjective
+judgments regarding the remaining useful lives of assets, primarily process-specific semiconductor
+manufacturing tools and building improvements. when we determine that the useful lives of assets
+are shorter than we had originally estimated, we accelerate the rate of depreciation over the
+assets’ new, shorter useful lives. over the past 12 quarters, including the second quarter of 2010,
+impairments and accelerated depreciation of long-lived assets ranged from $10 million to $300
+million per quarter.
+
+income taxes
+
+we must make estimates and judgments in determining income tax expense for financial statement
+purposes. these estimates and judgments occur in the calculation of tax credits, benefits, and
+deductions, and in the calculation of certain tax assets and liabilities that arise from
+differences in the timing of recognition of revenue and expense for tax and financial statement
+purposes, as well as the interest and penalties related to uncertain tax positions. significant
+changes in these estimates may result in an increase or decrease to our tax provision in a
+subsequent period.
+
+we must assess the likelihood that we will be able to recover our deferred tax assets. if recovery
+is not likely, we must increase our provision for taxes by recording a valuation allowance against
+the deferred tax assets that we estimate will not ultimately be recoverable. we believe that we
+will ultimately recover a majority of the deferred tax assets recorded on our consolidated
+condensed balance sheets. however, should there be a change in our ability to recover our deferred
+tax assets, our tax provision would increase in the period in which we determined that the recovery
+was not likely. recovery of a portion of our deferred tax assets is impacted by management’s plans
+with respect to holding or disposing of certain investments; therefore, changes in management’s
+plans with respect to holding or disposing of investments could affect our future provision for
+taxes.
+
+34
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+the calculation of our tax liabilities involves dealing with uncertainties in the application of
+complex tax regulations. we recognize liabilities for uncertain tax positions based on a two-step
+process. the first step is to evaluate the tax position for recognition by determining if the
+weight of available evidence indicates that it is more likely than not that the position will be
+sustained on audit, including resolution of related appeals or litigation processes, if any. if we
+determine that a tax position will more likely than not be sustained on audit, the second step
+requires us to estimate and measure the tax benefit as the largest amount that is more than 50%
+likely to be realized upon ultimate settlement. it is inherently difficult and subjective to
+estimate such amounts, as we have to determine the probability of various possible outcomes. we
+re-evaluate these uncertain tax positions on a quarterly basis. this evaluation is based on factors
+such as changes in facts or circumstances, changes in tax law, new audit activity, and effectively
+settled issues. determining whether an uncertain tax position is effectively settled requires
+judgment. such a change in recognition or measurement would result in the recognition of a tax
+benefit or an additional charge to the tax provision.
+
+inventory
+
+the valuation of inventory requires us to estimate obsolete or excess inventory as well as
+inventory that is not of saleable quality. the determination of obsolete or excess inventory
+requires us to estimate the future demand for our products. the estimate of future demand is
+compared to work-in-process and finished goods inventory levels to determine the amount, if any, of
+obsolete or excess inventory. as of june 26, 2010, our work-in-process inventory totaled $1.6
+billion and finished goods inventory totaled $1.3 billion. the demand forecast is included in the
+development of our short-term manufacturing plans to enable consistency between inventory valuation
+and build decisions. product-specific facts and circumstances reviewed in the inventory valuation
+process include a review of the customer base, the stage of the product life cycle of our products,
+consumer confidence, and customer acceptance of our products, as well as an assessment of the
+selling price in relation to the product cost. if our demand forecast for specific products is
+greater than actual demand and we fail to reduce manufacturing output accordingly, we could be
+required to write off inventory, which would negatively impact our gross margin.
+
+in order to determine what costs can be included in the valuation of inventory, we must determine
+normal capacity at our manufacturing and assembly and test facilities, based on historical loadings
+of wafers compared to total available capacity. if the factory loadings are below the established
+normal capacity level, a portion of our manufacturing overhead costs would not be included in the
+cost of inventory, and therefore would be recognized as cost of sales in that period, which would
+negatively impact our gross margin. we refer to these costs as excess capacity charges. over the
+past 12 quarters, excess capacity charges ranged from zero to $680 million per quarter.
+
+accounting changes and recent accounting standards
+
+for a description of accounting changes and recent accounting standards, including the expected
+dates of adoption and estimated effects, if any, on our consolidated condensed financial
+statements, see “note 2: accounting changes” and “note 3: recent accounting standards” in the notes
+to consolidated condensed financial statements of this form 10-q.
+
+35
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+results of operations - second quarter of 2010 compared to second quarter of 2009
+
+the following table sets forth certain consolidated condensed statements of operations data as a
+percentage of net revenue for the periods indicated:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+% of net
+ 
+ 
+ 
+ 
+ 
+ 
+% of net
+ 
+
+
+(dollars in millions, except per share amounts)
+ 
+dollars
+ 
+ 
+revenue
+ 
+ 
+dollars
+ 
+ 
+revenue
+ 
+
+
+
+
+net revenue
+ 
+$
+10,765
+ 
+ 
+ 
+100.0
+%
+ 
+$
+8,024
+ 
+ 
+ 
+100.0
+%
+
+
+cost of sales
+ 
+ 
+3,530
+ 
+ 
+ 
+32.8
+%
+ 
+ 
+3,945
+ 
+ 
+ 
+49.2
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+gross margin
+ 
+ 
+7,235
+ 
+ 
+ 
+67.2
+%
+ 
+ 
+4,079
+ 
+ 
+ 
+50.8
+%
+
+
+research and development
+ 
+ 
+1,666
+ 
+ 
+ 
+15.5
+%
+ 
+ 
+1,303
+ 
+ 
+ 
+16.2
+%
+
+
+marketing, general and administrative
+ 
+ 
+1,584
+ 
+ 
+ 
+14.7
+%
+ 
+ 
+2,695
+ 
+ 
+ 
+33.6
+%
+
+
+restructuring and asset impairment charges
+ 
+ 
+—
+ 
+ 
+ 
+—
+%
+ 
+ 
+91
+ 
+ 
+ 
+1.1
+%
+
+
+amortization of acquisition-related intangibles
+ 
+ 
+4
+ 
+ 
+ 
+—
+%
+ 
+ 
+2
+ 
+ 
+ 
+—
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+operating income (loss)
+ 
+ 
+3,981
+ 
+ 
+ 
+37.0
+%
+ 
+ 
+(12
+)
+ 
+ 
+(0.1
+)%
+
+
+gains (losses) on equity method investments, net
+ 
+ 
+76
+ 
+ 
+ 
+0.7
+%
+ 
+ 
+(44
+)
+ 
+ 
+(0.6
+)%
+
+
+gains (losses) on other equity investments, net
+ 
+ 
+117
+ 
+ 
+ 
+1.1
+%
+ 
+ 
+(25
+)
+ 
+ 
+(0.3
+)%
+
+
+interest and other, net
+ 
+ 
+11
+ 
+ 
+ 
+0.1
+%
+ 
+ 
+31
+ 
+ 
+ 
+0.4
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+income (loss) before taxes
+ 
+ 
+4,185
+ 
+ 
+ 
+38.9
+%
+ 
+ 
+(50
+)
+ 
+ 
+(0.6
+)%
+
+
+provision for taxes
+ 
+ 
+1,298
+ 
+ 
+ 
+12.1
+%
+ 
+ 
+348
+ 
+ 
+ 
+4.4
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net income (loss)
+ 
+$
+2,887
+ 
+ 
+ 
+26.8
+%
+ 
+$
+(398
+)
+ 
+ 
+(5.0
+)%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+diluted earnings (loss) per common share
+ 
+$
+0.51
+ 
+ 
+ 
+ 
+ 
+ 
+$
+(0.07
+)
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+the following table sets forth information of geographic regions for the periods indicated:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+(dollars in millions)
+ 
+revenue
+ 
+ 
+% of total
+ 
+ 
+revenue
+ 
+ 
+% of total
+ 
+
+
+
+
+asia-pacific
+ 
+$
+6,166
+ 
+ 
+ 
+57
+%
+ 
+$
+4,409
+ 
+ 
+ 
+55
+%
+
+
+americas
+ 
+ 
+2,173
+ 
+ 
+ 
+20
+%
+ 
+ 
+1,698
+ 
+ 
+ 
+21
+%
+
+
+europe
+ 
+ 
+1,294
+ 
+ 
+ 
+12
+%
+ 
+ 
+1,153
+ 
+ 
+ 
+14
+%
+
+
+japan
+ 
+ 
+1,132
+ 
+ 
+ 
+11
+%
+ 
+ 
+764
+ 
+ 
+ 
+10
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total
+ 
+$
+10,765
+ 
+ 
+ 
+100
+%
+ 
+$
+8,024
+ 
+ 
+ 
+100
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+our net revenue for q2 2010 increased 34% compared to q2 2009. the increase was due to
+significantly higher microprocessor and chipset unit sales, as well as higher microprocessor
+average selling prices, compared to q2 2009. revenue in the japan, asia-pacific, americas, and
+europe regions increased by 48%, 40%, 28%, and 12% respectively compared to q2 2009.
+
+our overall gross margin dollars for q2 2010 increased $3.2 billion, or 77%, compared to q2 2009.
+the increase was primarily due to significantly higher revenue, lower platform (microprocessor and
+chipset) unit cost, excess capacity charges recorded in q2 2009, and lower start-up costs. our
+overall gross margin percentage increased to 67.2% in q2 2010 from 50.8% in q2 2009. the
+significant increase in the gross margin percentage was primarily attributable to the gross margin
+percentage increase in the pc client group operating segment and, to a lesser extent, the gross
+margin percentage increase in the data center group operating segment. we derived a substantial
+majority of our overall gross margin dollars in q2 2010 and q2 2009, from the sale of
+microprocessors in the pc client group and data center group operating segments. see “business
+outlook” for a discussion of gross margin expectations.
+
+36
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+pc client group
+
+the revenue and operating income for the pc client group (pccg) operating segment for q2 2010 and
+q2 2009 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+microprocessor revenue
+ 
+$
+6,155
+ 
+ 
+$
+4,567
+ 
+
+
+chipset, motherboard, and other revenue
+ 
+ 
+1,684
+ 
+ 
+ 
+1,432
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net revenue
+ 
+$
+7,839
+ 
+ 
+$
+5,999
+ 
+
+
+operating income
+ 
+$
+3,428
+ 
+ 
+$
+1,297
+ 
+
+
+
+
+net revenue for the pccg operating segment increased by $1.8 billion, or 31%, in q2 2010 compared
+to q2 2009. microprocessors and chipsets within pccg include those designed for the notebook,
+netbook, and desktop computing market segments. significantly higher notebook unit sales was the
+primary driver of the increase in microprocessor revenue. to a lesser extent, higher desktop
+microprocessor unit sales and higher notebook average selling prices also contributed to the
+increase. the increase in chipset, motherboard, and other revenue was due to significantly higher
+chipset unit sales.
+
+operating income increased by $2.1 billion in q2 2010 compared to q2 2009. the increase in
+operating income was primarily due to significantly higher revenue. to a lesser extent, lower
+platform (microprocessor and chipset) unit cost, excess capacity charges of approximately $315
+million in q2 2009 that were primarily related to microprocessors and chipsets, and approximately
+$150 million of lower start-up costs in q2 2010 compared to q2 2009 contributed to the increase.
+these increases to operating income were partially offset by higher operating expenses.
+
+data center group
+
+the revenue and operating income for the data center group (dcg) operating segment for q2 2010 and
+q2 2009 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+microprocessor revenue
+ 
+$
+1,797
+ 
+ 
+$
+1,208
+ 
+
+
+chipset, motherboard, and other revenue
+ 
+ 
+317
+ 
+ 
+ 
+276
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net revenue
+ 
+$
+2,114
+ 
+ 
+$
+1,484
+ 
+
+
+operating income
+ 
+$
+1,064
+ 
+ 
+$
+434
+ 
+
+
+
+
+net revenue for the dcg operating segment increased by $630 million, or 42%, in q2 2010 compared to
+q2 2009. the increase in microprocessor revenue was due to significantly higher microprocessor unit
+sales and higher microprocessor average selling prices. the increase in chipset, motherboard, and
+other revenue was due to higher revenue from the sale of wired connectivity products and higher
+chipset unit sales, partially offset by lower chipset average selling prices.
+
+operating income increased by $630 million in q2 2010 compared to q2 2009. the increase in
+operating income was primarily due to significantly higher revenue. to a lesser extent, lower
+start-up costs and lower chipset unit cost also contributed to the increase in operating income.
+
+37
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+other intel architecture operating segments
+
+the revenue and operating income for the other intel architecture (other ia) operating segments for
+q2 2010 and q2 2009 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+net revenue
+ 
+$
+417
+ 
+ 
+$
+328
+ 
+
+
+operating loss
+ 
+$
+(18
+)
+ 
+$
+(60
+)
+
+
+
+
+net revenue for the other ia operating segments increased by $89 million, or 27%, in q2 2010
+compared to q2 2009. the increase was primarily due to higher revenue within the embedded and
+communications group (ecg) from significantly higher microprocessor and chipset unit sales,
+partially offset by lower microprocessor average selling prices.
+
+operating loss for the other ia operating segments decreased by $42 million in q2 2010 compared to
+q2 2009. the operating loss decrease was primarily due to higher ecg revenue, partially offset by
+higher ecg operating expenses.
+
+operating expenses
+
+operating expenses for q2 2010 and q2 2009 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+research and development
+ 
+$
+1,666
+ 
+ 
+$
+1,303
+ 
+
+
+marketing, general and administrative
+ 
+$
+1,584
+ 
+ 
+$
+2,695
+ 
+
+
+restructuring and asset impairment charges
+ 
+$
+—
+ 
+ 
+$
+91
+ 
+
+
+amortization of acquisition-related intangibles
+ 
+$
+4
+ 
+ 
+$
+2
+ 
+
+
+
+
+research and development. r&d spending increased by $363 million, or 28%, in q2 2010 compared to
+q2 2009 primarily due to higher process development costs and higher profit-dependent compensation.
+
+marketing, general and administrative. marketing, general and administrative expenses decreased
+$1.1 billion, or 41%, in q2 2010 compared to q2 2009 due to the q2 2009 charge of $1.447 billion
+incurred as a result of the fine imposed by the european commission (ec). this decrease was
+partially offset by higher advertising expenses, including cooperative advertising expenses, higher
+profit-dependent compensation, and to a lesser extent, expenses related to our wind river software
+group operating segment.
+
+r&d, combined with marketing, general and administrative expenses, were 30% of net revenue in q2
+2010 (50% of net revenue in q2 2009).
+
+restructuring and asset impairment charges. the following table summarizes restructuring and asset
+impairment charges by program for q2 2010 and q2 2009:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+2009 restructuring program
+ 
+$
+—
+ 
+ 
+$
+88
+ 
+
+
+2006 efficiency program
+ 
+ 
+—
+ 
+ 
+ 
+3
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total restructuring and asset impairment charges
+ 
+$
+—
+ 
+ 
+$
+91
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+for further information, see “note 16: restructuring and asset impairment charges” in the notes to
+consolidated condensed financial statements of this form 10-q.
+
+38
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+gains (losses) on equity method investments, net
+
+gains (losses) on equity method investments, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+equity method losses, net
+ 
+$
+(9
+)
+ 
+$
+(41
+)
+
+
+impairment charges
+ 
+ 
+(6
+)
+ 
+ 
+(3
+)
+
+
+other, net
+ 
+ 
+91
+ 
+ 
+ 
+—
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total gains (losses) on equity method investments, net
+ 
+$
+76
+ 
+ 
+$
+(44
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+during the second quarter of 2010, we recognized a gain of $91 million on the sale of our ownership
+interest in numonyx b.v. for further information, see “note 10: non-marketable equity investment”
+in the notes to consolidated condensed financial statements in this form 10-q. in addition, we
+recognized lower equity method losses in q2 2010 compared to q2 2009. the two most significant
+components of our equity method losses, net were clearwire llc ($18 million loss in q2 2010 and $20
+million loss in q2 2009) and numonyx ($29 million gain in q2 2010 and $14 million loss in q2 2009).
+
+gains (losses) on other equity investments, net
+
+gains (losses) on other equity investments, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+impairment charges
+ 
+$
+(11
+)
+ 
+$
+(36
+)
+
+
+gains on sales, net
+ 
+ 
+20
+ 
+ 
+ 
+9
+ 
+
+
+other, net
+ 
+ 
+108
+ 
+ 
+ 
+2
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total gains (losses) on other equity investments, net
+ 
+$
+117
+ 
+ 
+$
+(25
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+we recognized higher gains on other equity transactions, lower impairment charges on our
+non-marketable equity investments, and higher gains on sales in q2 2010 compared to q2 2009.
+“other, net” for q2 2010 is primarily related to fair value gains on the equity interest in micron
+we received from the sale of our ownership interest in numonyx and gains on equity options
+established prior to the numonyx sale that economically hedge a portion of our micron equity
+interest.
+
+interest and other, net
+
+the components of interest and other, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+interest income
+ 
+$
+29
+ 
+ 
+$
+38
+ 
+
+
+other, net
+ 
+ 
+(18
+)
+ 
+ 
+(7
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total interest and other, net
+ 
+$
+11
+ 
+ 
+$
+31
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+we recognized $20 million of fair value losses on our marketable debt instruments classified as
+trading assets in q2 2010 compared to $35 million of fair value gains in q2 2009. in addition, we
+recognized currency exchange rate losses in q2 2009 due to euro exposure related to our
+euro-denominated liability for the ec fine. interest income was lower in q2 2010 compared to q2
+2009 as a result of lower interest rates, partially offset by higher average investment balances.
+
+39
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+provision for taxes
+
+our provision for taxes and effective tax rate were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(dollars in millions)
+ 
+q2 2010
+ 
+ 
+q2 2009
+ 
+
+
+
+
+income (loss) before taxes
+ 
+$
+4,185
+ 
+ 
+$
+(50
+)
+
+
+provision for taxes
+ 
+$
+1,298
+ 
+ 
+$
+348
+ 
+
+
+effective tax rate
+ 
+ 
+31.0
+%
+ 
+ 
+(696.0
+)%
+
+
+
+
+the ec fine incurred in the second quarter of 2009 is not tax deductible. because there is no
+reduction in our provision for taxes associated with the ec fine of $1.447 billion, it
+significantly impacted our effective tax rate in q2 2009. the impact of the ec fine was partially
+offset by a higher percentage of estimated profits in lower tax jurisdictions in q2 2009 as
+compared to q2 2010, as well as the reversal of previously accrued taxes related to settlements
+that positively impacted the q2 2009 rate.
+
+results of operations – first half of 2010 compared to first half of 2009
+
+the following table sets forth certain consolidated condensed statements of operations data as a
+percentage of net revenue for the periods indicated:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+% of net
+ 
+ 
+ 
+ 
+ 
+ 
+% of net
+ 
+
+
+(dollars in millions, except per share amounts)
+ 
+dollars
+ 
+ 
+revenue
+ 
+ 
+dollars
+ 
+ 
+revenue
+ 
+
+
+
+
+net revenue
+ 
+$
+21,064
+ 
+ 
+ 
+100.0
+%
+ 
+$
+15,169
+ 
+ 
+ 
+100.0
+%
+
+
+cost of sales
+ 
+ 
+7,300
+ 
+ 
+ 
+34.7
+%
+ 
+ 
+7,852
+ 
+ 
+ 
+51.8
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+gross margin
+ 
+ 
+13,764
+ 
+ 
+ 
+65.3
+%
+ 
+ 
+7,317
+ 
+ 
+ 
+48.2
+%
+
+
+research and development
+ 
+ 
+3,230
+ 
+ 
+ 
+15.3
+%
+ 
+ 
+2,620
+ 
+ 
+ 
+17.2
+%
+
+
+marketing, general and administrative
+ 
+ 
+3,098
+ 
+ 
+ 
+14.7
+%
+ 
+ 
+3,893
+ 
+ 
+ 
+25.7
+%
+
+
+restructuring and asset impairment charges
+ 
+ 
+—
+ 
+ 
+ 
+—
+%
+ 
+ 
+165
+ 
+ 
+ 
+1.1
+%
+
+
+amortization of acquisition-related intangibles
+ 
+ 
+7
+ 
+ 
+ 
+—
+%
+ 
+ 
+4
+ 
+ 
+ 
+—
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+operating income
+ 
+ 
+7,429
+ 
+ 
+ 
+35.3
+%
+ 
+ 
+635
+ 
+ 
+ 
+4.2
+%
+
+
+gains (losses) on equity method investments, net
+ 
+ 
+37
+ 
+ 
+ 
+0.1 
+%
+ 
+ 
+(116
+)
+ 
+ 
+(0.8
+)%
+
+
+gains (losses) on other equity investments, net
+ 
+ 
+125
+ 
+ 
+ 
+0.6 
+%
+ 
+ 
+(66
+)
+ 
+ 
+(0.4
+)%
+
+
+interest and other, net
+ 
+ 
+40
+ 
+ 
+ 
+0.2 
+%
+ 
+ 
+126
+ 
+ 
+ 
+0.8
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+income before taxes
+ 
+ 
+7,631
+ 
+ 
+ 
+36.2
+%
+ 
+ 
+579
+ 
+ 
+ 
+3.8
+%
+
+
+provision for taxes
+ 
+ 
+2,302
+ 
+ 
+ 
+10.9
+%
+ 
+ 
+348
+ 
+ 
+ 
+2.3
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net income
+ 
+$
+5,329
+ 
+ 
+ 
+25.3
+%
+ 
+$
+231
+ 
+ 
+ 
+1.5
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+diluted earnings per common share
+ 
+$
+0.94
+ 
+ 
+ 
+ 
+ 
+ 
+$
+0.04
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+the following table sets forth information of geographic regions for the periods indicated:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+(dollars in millions)
+ 
+revenue
+ 
+ 
+% of total
+ 
+ 
+revenue
+ 
+ 
+% of total
+ 
+
+
+
+
+asia-pacific
+ 
+$
+12,054
+ 
+ 
+ 
+57
+%
+ 
+$
+8,056
+ 
+ 
+ 
+53
+%
+
+
+americas
+ 
+ 
+4,079
+ 
+ 
+ 
+19
+%
+ 
+ 
+3,208
+ 
+ 
+ 
+21
+%
+
+
+europe
+ 
+ 
+2,698
+ 
+ 
+ 
+13
+%
+ 
+ 
+2,426
+ 
+ 
+ 
+16
+%
+
+
+japan
+ 
+ 
+2,233
+ 
+ 
+ 
+11
+%
+ 
+ 
+1,479
+ 
+ 
+ 
+10
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total
+ 
+$
+21,064
+ 
+ 
+ 
+100
+%
+ 
+$
+15,169
+ 
+ 
+ 
+100
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+our net revenue for the first half of 2010 increased 39% compared to the first half of 2009. the
+increase was due to significantly higher microprocessor and chipset unit sales, as well as higher
+microprocessor average selling prices compared to the first half of 2009. revenue in the japan,
+asia-pacific, americas, and europe regions increased by 51%, 50%, 27%, and 11% respectively
+compared to the first half of 2009.
+
+40
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+our overall gross margin dollars for the first half of 2010 increased $6.4 billion, or 88%,
+compared to the first half of 2009. the increase was primarily due to significantly higher revenue.
+to a lesser extent, excess capacity charges recorded in the first half of 2009 and lower platform
+(microprocessor and chipset) unit cost contributed to the increase in gross margin dollars for the
+first half of 2010 compared to the first half of 2009. our overall gross margin percentage
+increased to 65.3% in the first half of 2010 from 48.2% in the first half of 2009. the significant
+increase in the gross margin percentage was primarily attributable to the gross margin percentage
+increase in the pc client group operating segment and, to a lesser extent, gross margin percentage
+increases in the data center group and nand solutions group operating segments. we derived a
+substantial majority of our overall gross margin dollars in the first half of 2010, and most of our
+overall gross margin dollars in the first half of 2009, from the sale of microprocessors in the pc
+client group and data center group operating segments. see “business outlook” for a discussion of
+gross margin expectations.
+
+pc client group
+
+the revenue and operating income for the pc client group (pccg) operating segment for the first
+half of 2010 and the first half of 2009 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+microprocessor revenue
+ 
+$
+12,068
+ 
+ 
+$
+8,816
+ 
+
+
+chipset, motherboard, and other revenue
+ 
+ 
+3,445
+ 
+ 
+ 
+2,544
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net revenue
+ 
+$
+15,513
+ 
+ 
+$
+11,360
+ 
+
+
+operating income
+ 
+$
+6,571
+ 
+ 
+$
+1,998
+ 
+
+
+
+
+net revenue for the pccg operating segment increased by $4.2 billion, or 37%, in the first half of
+2010 compared to the first half of 2009. microprocessors and chipsets within pccg include those
+designed for the notebook, netbook, and desktop computing market segments. significantly higher
+notebook unit sales was the primary driver of the increase in microprocessor revenue. to a lesser
+extent, higher desktop microprocessor unit sales and higher notebook average selling prices also
+contributed to the increase. the increase in chipset, motherboard, and other revenue was due to
+significantly higher chipset unit sales.
+
+operating income increased by $4.6 billion in the first half of 2010 compared to the first half of
+2009. the increase in operating income was primarily due to significantly higher revenue. during
+the first half of 2009, we recorded excess capacity charges of approximately $940 million,
+primarily related to microprocessors and chipsets. additionally, lower platform (microprocessor and
+chipset) unit cost in the first half of 2010 contributed to the increase in operating income. these
+increases were partially offset by higher operating expenses in the first half of 2010 compared to
+the first half of 2009.
+
+data center group
+
+the revenue and operating income for the data center group (dcg) operating segment for the first
+half of 2010 and the first half of 2009 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+microprocessor revenue
+ 
+$
+3,349
+ 
+ 
+$
+2,220
+ 
+
+
+chipset, motherboard, and other revenue
+ 
+ 
+636
+ 
+ 
+ 
+528
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net revenue
+ 
+$
+3,985
+ 
+ 
+$
+2,748
+ 
+
+
+operating income
+ 
+$
+1,899
+ 
+ 
+$
+700
+ 
+
+
+
+
+net revenue for the dcg operating segment increased by $1.2 billion, or 45%, in the first half of
+2010 compared to the first half of 2009. the increase in microprocessor revenue was due to
+significantly higher microprocessor unit sales and higher microprocessor average selling prices.
+the increase in chipset, motherboard, and other revenue was due to higher chipset unit sales and
+higher revenue from the sale of wired connectivity products, partially offset by lower chipset
+average selling prices.
+
+operating income increased by $1.2 billion in the first half of 2010 compared to the first half of
+2009. the increase in operating income was due to significantly higher revenue and, to a lesser
+extent, lower chipset unit cost.
+
+41
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+other intel architecture operating segments
+
+the revenue and operating income for the other intel architecture (other ia) operating segments for
+the first half of 2010 and the first half of 2009 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+net revenue
+ 
+$
+792
+ 
+ 
+$
+654
+ 
+
+
+operating loss
+ 
+$
+(47
+)
+ 
+$
+(136
+)
+
+
+
+
+net revenue for the other ia operating segments increased by $138 million, or 21%, in the first
+half of 2010 compared to the first half of 2009. the increase was primarily due to higher revenue
+within the embedded and communications group (ecg) from significantly higher microprocessor and
+chipset unit sales, partially offset by lower microprocessor average selling prices.
+
+operating loss for the other ia operating segments decreased by $89 million in the first half of
+2010 compared to the first half of 2009. the operating loss decrease was primarily due to higher
+ecg revenue and lower ecg unit cost, partially offset by higher ecg operating expenses.
+
+operating expenses
+
+operating expenses for the first half of 2010 and the first half of 2009 were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+research and development
+ 
+$
+3,230
+ 
+ 
+$
+2,620
+ 
+
+
+marketing, general and administrative
+ 
+$
+3,098
+ 
+ 
+$
+3,893
+ 
+
+
+restructuring and asset impairment charges
+ 
+$
+—
+ 
+ 
+$
+165
+ 
+
+
+amortization of acquisition-related intangibles
+ 
+$
+7
+ 
+ 
+$
+4
+ 
+
+
+
+
+research and development. r&d spending increased by $610 million, or 23%, in the first half of
+2010 compared to the first half of 2009 primarily due to higher process development costs and
+higher profit-dependent compensation.
+
+marketing, general and administrative. marketing, general and administrative expenses decreased
+$795 million, or 20%, in the first half of 2010 compared to the first half of 2009 due to the q2
+2009 charge of $1.447 billion incurred as a result of the fine imposed by the ec. this decrease was
+partially offset by higher advertising expenses, including cooperative advertising expenses, higher
+profit-dependent compensation, and to a lesser extent, expenses related to our wind river software
+group operating segment.
+
+r&d, combined with marketing, general and administrative expenses, were 30% of net revenue in the
+first half of 2010 (43% of net revenue in the first half of 2009).
+
+restructuring and asset impairment charges. the following table summarizes restructuring and asset
+impairment charges by program for the first half of 2010 and the first half of 2009:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+2009 restructuring program
+ 
+$
+—
+ 
+ 
+$
+149
+ 
+
+
+2006 efficiency program
+ 
+ 
+—
+ 
+ 
+ 
+16
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total restructuring and asset impairment charges
+ 
+$
+—
+ 
+ 
+$
+165
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+for further information, see “note 16: restructuring and asset impairment charges” in the notes to
+consolidated condensed financial statements of this form 10-q.
+
+42
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations (continued)
+
+gains (losses) on equity method investments, net
+
+gains (losses) on equity method investments, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+equity method losses, net
+ 
+$
+(44
+)
+ 
+$
+(103
+)
+
+
+impairment charges
+ 
+ 
+(10
+)
+ 
+ 
+(13
+)
+
+
+other, net
+ 
+ 
+91
+ 
+ 
+ 
+—
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total gains (losses) on equity method investments, net
+ 
+$
+37
+ 
+ 
+$
+(116
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+during the first half of 2010, we recognized a gain of $91 million on the sale of our ownership
+interest in numonyx. for further information, see “note 10: non-marketable equity investment” in
+the notes to consolidated condensed financial statements in this form 10-q. in addition, we
+recognized lower equity method losses in the first half of 2010 compared to the first half of 2009.
+the two most significant components of our equity method losses, net were clearwire llc ($47
+million loss in the first half of 2010 and $27 million loss in the first half of 2009) and numonyx
+($42 million gain in the first half of 2010 and $37 million loss in the first half of 2009).
+
+gains (losses) on other equity investments, net
+
+gains (losses) on other equity investments, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+impairment charges
+ 
+$
+(53
+)
+ 
+$
+(105
+)
+
+
+gains on sales, net
+ 
+ 
+103
+ 
+ 
+ 
+10
+ 
+
+
+other, net
+ 
+ 
+75
+ 
+ 
+ 
+29
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total gains (losses) on other equity investments, net
+ 
+$
+125
+ 
+ 
+$
+(66
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+we recognized higher gains on sales, lower impairment charges on non-marketable equity investments,
+and higher gains on other equity transactions in the first half of 2010 compared to the first half
+of 2009. net gains on equity investments in the first half of 2010 included a gain of $67 million
+on the q1 2010 sale of shares in micron. “other, net” for the first half of 2010 is primarily
+related to fair value gains on the equity interest in micron we received from the sale of our
+ownership interest in numonyx in q2 2010 and gains on equity options established prior to the
+numonyx sale that economically hedge a portion of our micron equity interest.
+
+interest and other, net
+
+the components of interest and other, net were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+interest income
+ 
+$
+55
+ 
+ 
+$
+110
+ 
+
+
+other, net
+ 
+ 
+(15
+)
+ 
+ 
+16
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+total interest and other, net
+ 
+$
+40
+ 
+ 
+$
+126
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+we recognized $15 million of fair value losses on our marketable debt instruments classified as
+trading assets in the first half of 2010 compared to $60 million of fair value gains in the first
+half of 2009. interest income was lower in the first half of 2010 compared to the first half of
+2009 as a result of lower interest rates, partially offset by higher average investment balances.
+the average interest rate earned during the first half of 2010 decreased by approximately 1.0
+percentage point compared to the first half of 2009. in addition, we recognized currency exchange
+rate losses in the first half of 2009 due to euro exposure related to our euro-denominated
+liability for the ec fine.
+
+43
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+provision for taxes
+
+our provision for taxes and effective tax rate were as follows:
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(dollars in millions)
+ 
+ytd 2010
+ 
+ 
+ytd 2009
+ 
+
+
+
+
+income before taxes
+ 
+$
+7,631
+ 
+ 
+$
+579
+ 
+
+
+provision for taxes
+ 
+$
+2,302
+ 
+ 
+$
+348
+ 
+
+
+effective tax rate
+ 
+ 
+30.2
+%
+ 
+ 
+60.1
+%
+
+
+
+
+the ec fine incurred in the second quarter of 2009 is not tax deductible. because there is no
+reduction in our provision for taxes associated with the ec fine of $1.447 billion, it
+significantly impacted our effective tax rate in the first half of 2009. the impact of the ec fine
+was partially offset by a higher percentage of estimated profits in lower tax jurisdictions in the
+first half of 2009 as compared to the first half of 2010, as well as the reversal of previously
+accrued taxes related to settlements and effective settlements that positively impacted the rate in
+the first half of 2009.
+
+business outlook
+
+our future results of operations and the topics of other forward-looking statements contained in
+this form 10-q, including this md&a, involve a number of risks and uncertainties—in particular:
+
+
+
+
+
+ 
+•
+ 
+changes in business and economic conditions;
+
+
+ 
+
+ 
+•
+ 
+revenue and pricing;
+
+
+ 
+
+ 
+•
+ 
+gross margin and costs;
+
+
+ 
+
+ 
+•
+ 
+pending legal proceedings;
+
+
+ 
+
+ 
+•
+ 
+our effective tax rate;
+
+
+ 
+
+ 
+•
+ 
+marketing, general and administrative expenses;
+
+
+ 
+
+ 
+•
+ 
+our goals and strategies;
+
+
+ 
+
+ 
+•
+ 
+new product introductions;
+
+
+
+
+
+
+
+
+ 
+•
+ 
+plans to cultivate new businesses;
+
+
+ 
+
+ 
+•
+ 
+r&d expenses;
+
+
+ 
+
+ 
+•
+ 
+divestitures, acquisitions, or similar transactions;
+
+
+ 
+
+ 
+•
+ 
+net gains (losses) from equity investments;
+
+
+ 
+
+ 
+•
+ 
+interest and other, net;
+
+
+ 
+
+ 
+•
+ 
+capital spending;
+
+
+ 
+
+ 
+•
+ 
+depreciation; and
+
+
+ 
+
+ 
+•
+ 
+impairment of investments.
+
+
+
+
+
+in addition to the various important factors discussed above, a number of other important factors
+could cause actual results to differ materially from our expectations. see the risks described in
+“risk factors” in part ii, item 1a of this form 10-q.
+
+our expectations for the remainder of 2010 are as follows:
+
+     q3 2010
+
+
+
+
+ 
+•
+ 
+revenue: $11.6 billion, plus or minus $400 million.
+
+
+ 
+
+ 
+•
+ 
+gross margin percentage: 67% plus or minus a couple percentage points.
+
+
+ 
+
+ 
+•
+ 
+depreciation: approximately $1.1 billion.
+
+
+ 
+
+ 
+•
+ 
+research and development plus marketing, general and administrative expenses:
+approximately $3.2 billion.
+
+
+ 
+
+ 
+•
+ 
+net gains (losses) from equity method investments, gains (losses) on other
+equity investments, and interest and other: net gain of approximately $175 million.
+
+
+
+     full year 2010
+
+
+
+
+ 
+•
+ 
+gross margin percentage: 66%, plus or minus a couple percentage points.
+
+
+ 
+
+ 
+•
+ 
+depreciation: approximately $4.4 billion, plus or minus $100 million.
+
+
+ 
+
+ 
+•
+ 
+research and development plus marketing, general and administrative expenses:
+$12.7 billion, plus or minus $100 million.
+
+
+ 
+
+ 
+•
+ 
+research and development spending: approximately $6.6 billion.
+
+
+ 
+
+ 
+•
+ 
+capital spending: $5.2 billion, plus or minus $200 million.
+
+
+ 
+
+ 
+•
+ 
+tax rate: approximately 32% for the third and fourth quarters. the estimated
+effective tax rate is based on tax law in effect as of june 26, 2010 and expected income.
+
+
+
+44
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+status of business outlook
+
+we expect that our corporate representatives will, from time to time, meet privately with
+investors, investment analysts, the media, and others, and may reiterate the forward-looking
+statements contained in the “business outlook” section and elsewhere in this form 10-q, including
+any such statements that are incorporated by reference in this form 10-q. at the same time, we will
+keep this form 10-q and our most current business outlook publicly available on our investor
+relations web site at www.intc.com. the public can continue to rely on the business outlook
+published on the web site as representing our current expectations on matters covered, unless we
+publish a notice stating otherwise. the statements in the “business outlook” section and other
+forward-looking statements in this form 10-q are subject to revision during the course of the year
+in our quarterly earnings releases and sec filings and at other times.
+
+from the close of business on august 27, 2010 until our quarterly earnings release is published,
+presently scheduled for october 12, 2010, we will observe a “quiet period.” during the quiet
+period, the “business outlook” section and other forward-looking statements first published in our
+form 8-k filed on july 13, 2010 and updated in our form 8-k filed on july 16, 2010, as reiterated
+or updated as applicable in this form 10-q, should be considered historical, speaking as of prior
+to the quiet period only and not subject to update. during the quiet period, our representatives
+will not comment on our business outlook or our financial results or expectations. the exact timing
+and duration of the routine quiet period, and any others that we utilize from time to time, may
+vary at our discretion.
+
+liquidity and capital resources
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+june 26,
+ 
+ 
+dec. 26,
+ 
+
+
+(dollars in millions)
+ 
+2010
+ 
+ 
+2009
+ 
+
+
+
+
+cash and cash equivalents, marketable debt instruments
+included in trading assets, and short-term investments
+ 
+$
+17,772
+ 
+ 
+$
+13,920
+ 
+
+
+loans receivable and other long-term investments
+ 
+$
+4,709
+ 
+ 
+$
+4,528
+ 
+
+
+short-term and long-term debt
+ 
+$
+2,273
+ 
+ 
+$
+2,221
+ 
+
+
+debt as % of stockholders’ equity
+ 
+ 
+5.0
+%
+ 
+ 
+5.3
+%
+
+
+
+in summary, our cash flows were as follows:
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+six months ended
+ 
+
+
+ 
+ 
+june 26,
+ 
+ 
+june 27,
+ 
+
+
+(in millions)
+ 
+2010
+ 
+ 
+2009
+ 
+
+
+
+
+net cash provided by operating activities
+ 
+$
+7,565
+ 
+ 
+$
+3,762
+ 
+
+
+net cash used for investing activities
+ 
+ 
+(4,642
+)
+ 
+ 
+(1,816
+)
+
+
+net cash used for financing activities
+ 
+ 
+(1,396
+)
+ 
+ 
+(1,470
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+net increase in cash and cash equivalents
+ 
+$
+1,527
+ 
+ 
+$
+476
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+operating activities
+
+cash provided by operating activities is net income adjusted for certain non-cash items and changes
+in assets and liabilities.
+
+cash from operations for the first half of 2010 was $7.6 billion, an increase of $3.8 billion
+compared to the first half of 2009 due to higher net income, partially offset by adjustments for
+non-cash items. income taxes paid, net of refunds in the first half of 2010 compared to the first
+half of 2009 were $2.1 billion higher on higher income before taxes in 2010.
+
+changes in assets and liabilities as of june 26, 2010 compared to december 26, 2009 included the
+following:
+
+
+
+
+ 
+•
+ 
+accrued compensation and benefits decreased due to payout of 2009 profit-dependent
+compensation.
+
+
+ 
+
+ 
+•
+ 
+inventory increased due to higher microprocessor inventory.
+
+
+
+for the first half of 2010, our two largest customers accounted for 38% of net revenue (39% for the
+first half of 2009) with one of those customers accounting for 21% of our net revenue, and another
+customer accounting for 17% of our net revenue. these two largest customers accounted for 41% of
+net accounts receivable at june 26, 2010 and december 26, 2009.
+
+45
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+investing activities
+
+the increase in cash used for investing activities in the first half of 2010, compared to the first
+half of 2009, was due to an increase in net purchases of trading assets and available-for-sale
+investments. these increases were partially offset by a decrease in capital expenditures due to the
+timing of the ramp of our latest silicon process technology.
+
+financing activities
+
+the decrease in cash used for financing activities in the first half of 2010, compared to the first
+half of 2009, was primarily due to an increase in proceeds from sales of shares through employee
+equity incentive plans, an increase in short-term debt (drafts payable) in the first half of 2010
+compared to a decrease in short-term debt (drafts payable) in the first half of 2009, and proceeds
+from government grants. these increases were partially offset by higher dividend payments and an
+increase in repurchases and retirement of common stock.
+
+liquidity
+
+cash generated by operations is used as our primary source of liquidity. as of june 26, 2010, cash
+and cash equivalents, marketable debt instruments included in trading assets, and short-term
+investments totaled $17.8 billion. in addition to the $17.8 billion, we have $4.7 billion in loans
+receivable and other long-term investments that we include when assessing our investment portfolio.
+
+the credit quality of our investment portfolio remains high, and we continue to be able to invest
+in high-credit-quality investments. substantially all of our investments in debt instruments are
+with a/a2 or better rated issuers, and a substantial majority of the issuers are rated aa-/aa3 or
+better.
+
+our commercial paper program provides another potential source of liquidity. we have an ongoing
+authorization from our board of directors to borrow up to $3.0 billion, including through the
+issuance of commercial paper. maximum borrowings under our commercial paper program during the
+first half of 2010 were $150 million, although no commercial paper remained outstanding as of june
+26, 2010. our commercial paper was rated a-1+ by standard & poor’s and p-1 by moody’s as of june
+26, 2010. we also have an automatic shelf registration statement on file with the sec pursuant to
+which we may offer an unspecified amount of debt, equity, and other securities.
+
+we believe that we have the financial resources needed to meet business requirements for the next
+12 months, including capital expenditures for worldwide manufacturing and assembly and test,
+working capital requirements, and potential dividends, common stock repurchases, and acquisitions
+or strategic investments.
+
+fair value of financial instruments
+
+fair value is the price that would be received from selling an asset or paid to transfer a
+liability in an orderly transaction between market participants at the measurement date. when
+determining fair value, we consider the principal or most advantageous market in which we would
+transact, and we consider assumptions that market participants would use when pricing the asset or
+liability. see “note 4: fair value” in the notes to consolidated condensed financial statements of
+this form 10-q.
+
+credit risk is factored into the valuation of financial instruments that we measure and record at
+fair value on a recurring basis. when fair value is determined using pricing models, such as a
+discounted cash flow model, the issuer’s credit risk and/or intel’s credit risk is factored into
+the calculation of the fair value, as appropriate.
+
+46
+
+
+
+ 
+
+management’s discussion and analysis of financial condition and results of operations
+(continued)
+
+marketable debt instruments
+
+as of june 26, 2010, our assets measured and recorded at fair value on a recurring basis included
+$21.5 billion of marketable debt instruments. of these instruments, $2.0 billion was classified as
+level 1, $18.9 billion as level 2, and $573 million as level 3.
+
+our balance of marketable debt instruments that are measured and recorded at fair value on a
+recurring basis and classified as level 1 was classified as such due to the usage of observable
+market prices for identical securities that are traded in active markets. management judgment was
+required to determine the levels for the frequency of transactions that should be met for a market
+to be considered active. our assessment of an active market for our marketable debt instruments
+generally takes into consideration activity of each individual instrument, including the number of
+days each individual instrument trades.
+
+of the $18.9 billion balance of marketable debt instruments measured and recorded at fair value on
+a recurring basis and classified as level 2, approximately 55% of the balance was classified as
+level 2 due to the usage of a discounted cash flow model and approximately 45% due to the usage of
+non-binding market consensus prices that are corroborated with observable market data.
+
+our marketable debt instruments that are measured and recorded at fair value on a recurring basis
+and classified as level 3 were classified as such due to the lack of observable market data to
+corroborate either the non-binding market consensus prices or the non-binding broker quotes. when
+observable market data is not available, we corroborate the non-binding market consensus prices and
+non-binding broker quotes using unobservable data, if available. all of our investments in
+asset-backed securities were classified as level 3, and substantially all of them were valued using
+non-binding market consensus prices that we were not able to corroborate with observable market
+data due to the lack of transparency in the market for asset-backed securities.
+
+equity securities
+
+as of june 26, 2010, our portfolio of assets measured and recorded at fair value on a recurring
+basis included $1.6 billion of marketable equity securities (including marketable equity securities
+receivable). of these securities, $783 million was classified as level 1 because the valuations
+were based on quoted prices for identical securities in active markets. our assessment of an active
+market for our marketable equity securities generally takes into consideration activity during each
+week of the one-month period prior to the valuation date for individual securities, including the
+number of days individual equity securities trade and the average weekly trading volume in relation
+to the total outstanding shares of that security. the remaining marketable equity securities of
+$767 million were classified as level 2 because their valuations were either based on quoted prices
+for identical securities in less active markets or adjusted for security-specific restrictions.
+
+47
+
+
+
+ 
+
+

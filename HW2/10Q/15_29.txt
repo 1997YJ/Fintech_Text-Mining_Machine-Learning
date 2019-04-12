@@ -1,0 +1,9166 @@
+item 2. management’s discussion and analysis of
+financial condition and results of operations (md&a)
+
+introduction
+
+our
+md&a is provided in addition to the accompanying condensed consolidated
+financial statements and footnotes to assist readers in understanding pfizer’s
+results of operations, financial condition and cash flows. the md&a is
+organized as follows:
+
+
+
+
+
+·
+
+
+overview of our performance
+      and operating environment. this section, beginning on page 24,
+      provides information about the following: our business; our performance
+      during the first quarter of 2009; our operating environment; our strategic
+      initiatives; and our cost-reduction
+initiatives.
+
+
+
+
+
+
+
+
+
+·
+
+
+revenues. this section,
+      beginning on page 29, provides an analysis of our products and revenues
+      for the first quarters of 2009 and 2008, as well as an overview of
+      important product developments.
+
+
+
+
+
+
+
+
+
+·
+
+
+costs and expenses.
+      this section, beginning on page 38, provides a discussion about our costs
+      and expenses.
+
+
+
+
+
+
+
+
+
+·
+
+
+provision for taxes on
+      income. this section, on page 40, provides a discussion of items
+      impacting our tax provision for the periods
+  presented.
+
+
+
+
+
+
+
+
+
+·
+
+
+adjusted income. this
+      section, beginning on page 40, provides a discussion of an alternative
+      view of performance used by
+management.
+
+
+
+
+
+
+
+
+
+·
+
+
+financial condition, liquidity
+      and capital resources. this section, beginning on page 44, provides
+      an analysis of our balance sheets as of march 29, 2009 and december 31,
+      2008 and cash flows for the first quarters of 2009 and 2008, as well as a
+      discussion of our outstanding debt and commitments that existed as of
+      march 29, 2009, and december 31, 2008. included in the discussion of
+      outstanding debt is a discussion of the amount of financial capacity
+      available to help fund pfizer’s future
+  activities.
+
+
+
+
+
+
+
+
+
+·
+
+
+outlook. this section,
+      beginning on page 48, provides a discussion of our expectations for
+      full-year 2009.
+
+
+
+
+
+
+
+
+
+·
+
+
+forward-looking information
+      and factors that may affect future results. this section, beginning
+      on page 49, provides a description of the risks and uncertainties that
+      could cause actual results to differ materially from those discussed in
+      forward-looking
+      statements set forth in this md&a relating to our financial results,
+      operations and business plans and prospects. such forward-looking
+      statements are based on management’s current expectations about future
+      events, which are inherently susceptible to uncertainty and changes in
+      circumstances. also included in this section is a discussion of legal
+      proceedings and contingencies.
+
+
+
+
+ 
+
+
+
+
+
+
+22
+
+
+
+
+
+
+
+
+
+components
+of the condensed consolidated statements of income follow:
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+first
+      quarter
+
+ 
+
+
+
+(millions
+      of dollars, except per common share data)
+
+ 
+
+mar.
+      29,
+2009
+
+ 
+ 
+
+mar.
+      30,
+2008
+
+ 
+ 
+
+%
+      change
+
+ 
+
+
+ 
+      
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+revenues
+
+ 
+$
+10,867
+ 
+ 
+$
+11,848
+ 
+ 
+ 
+(8
+)
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+cost
+      of sales
+
+ 
+ 
+1,408
+ 
+ 
+ 
+1,986
+ 
+ 
+ 
+(29
+)
+
+
+
+% of revenues
+
+ 
+ 
+13.0
+%
+ 
+ 
+16.8
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+selling,
+      informational and administrative expenses
+
+ 
+ 
+2,876
+ 
+ 
+ 
+3,492
+ 
+ 
+ 
+(18
+)
+
+
+
+% of revenues
+
+ 
+ 
+26.5
+%
+ 
+ 
+29.5
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+research
+      and development expenses
+
+ 
+ 
+1,705
+ 
+ 
+ 
+1,791
+ 
+ 
+ 
+(5
+)
+
+
+
+% of revenues
+
+ 
+ 
+15.7
+%
+ 
+ 
+15.1
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+amortization
+      of intangible assets
+
+ 
+ 
+578
+ 
+ 
+ 
+779
+ 
+ 
+ 
+(26
+)
+
+
+
+% of revenues
+
+ 
+ 
+5.3
+%
+ 
+ 
+6.6
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+acquisition-related
+      in-process research and development charges
+
+ 
+ 
+–
+ 
+ 
+ 
+398
+ 
+ 
+ 
+(100
+)
+
+
+
+% of revenues
+
+ 
+ 
+–
+%
+ 
+ 
+3.4
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+restructuring
+      charges and acquisition-related costs
+
+ 
+ 
+554
+ 
+ 
+ 
+178
+ 
+ 
+ 
+212
+ 
+
+
+
+% of revenues
+
+ 
+ 
+5.1
+%
+ 
+ 
+1.5
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+other
+      (income)/deductions – net
+
+ 
+ 
+(57
+)
+ 
+ 
+(333
+)
+ 
+ 
+(82
+)
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+income
+      from continuing operations before provision for taxes on
+      income
+
+ 
+ 
+3,803
+ 
+ 
+ 
+3,557
+ 
+ 
+ 
+7
+ 
+
+
+
+% of
+      revenues
+
+ 
+ 
+35.0
+%
+ 
+ 
+30.0
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+provision
+      for taxes on income
+
+ 
+ 
+1,074
+ 
+ 
+ 
+763
+ 
+ 
+ 
+41
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+effective
+      tax rate
+
+ 
+ 
+28.2
+%
+ 
+ 
+21.5
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+income
+      from continuing operations
+
+ 
+ 
+2,729
+ 
+ 
+ 
+2,794
+ 
+ 
+ 
+(2
+)
+
+
+
+% of revenues
+
+ 
+ 
+25.1
+%
+ 
+ 
+23.6
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+discontinued
+      operations – net of tax
+
+ 
+ 
+1
+ 
+ 
+ 
+(4
+)
+ 
+ 
+*
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+net
+      income before allocation to noncontrolling interests
+
+ 
+ 
+2,730
+ 
+ 
+ 
+2,790
+ 
+ 
+ 
+(2
+)
+
+
+
+% of revenues
+
+ 
+ 
+25.1
+%
+ 
+ 
+23.5
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+less:
+      net income attributable to noncontrolling interests
+
+ 
+ 
+1
+ 
+ 
+ 
+6
+ 
+ 
+ 
+(78
+)
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+net
+      income attributable to pfizer inc.
+
+ 
+$
+2,729
+ 
+ 
+$
+2,784
+ 
+ 
+ 
+(2
+)
+
+
+
+% of revenues
+
+ 
+ 
+25.1
+%
+ 
+ 
+23.5
+%
+ 
+ 
+ 
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+earnings
+      per common share - basic:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+income from continuing operations
+      attributable to pfizer inc.
+common
+      shareholders
+
+ 
+$
+0.41
+ 
+ 
+$
+0.41
+ 
+ 
+ 
+–
+ 
+
+
+
+discontinued operations - net of
+      tax
+
+ 
+ 
+–
+ 
+ 
+ 
+–
+ 
+ 
+ 
+–
+ 
+
+
+
+net income attributable to pfizer
+      inc. common shareholders
+
+ 
+$
+0.41
+ 
+ 
+$
+0.41
+ 
+ 
+ 
+–
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+earnings
+      per common share - diluted:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+income from continuing operations
+      attributable to pfizer inc.
+common
+      shareholders
+
+ 
+$
+0.40
+ 
+ 
+$
+0.41
+ 
+ 
+ 
+(2
+)
+
+
+
+discontinued operations - net of
+      tax
+
+ 
+ 
+–
+ 
+ 
+ 
+–
+ 
+ 
+ 
+–
+ 
+
+
+
+net income attributable to pfizer
+      inc. common shareholders
+
+ 
+$
+0.40
+ 
+ 
+$
+0.41
+ 
+ 
+ 
+(2
+)
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+cash
+      dividends paid per common share
+
+ 
+$
+0.32
+ 
+ 
+$
+0.32
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+*
+calculation not meaningful.
+certain
+amounts and percentages may reflect rounding adjustments.
+
+
+
+
+
+
+23
+
+
+
+
+
+
+
+
+
+overview of our performance
+and operating environment
+
+our
+business
+
+we are a
+global, research-based company applying innovative science to improve world
+health. our efforts in support of that purpose include the discovery,
+development, manufacture and marketing of safe and effective medicines; the
+exploration of ideas that advance the frontiers of science and medicine; and the
+support of programs dedicated to illness prevention, health and wellness, and
+increased access to quality healthcare. our value proposition is to demonstrate
+that our medicines can effectively prevent and treat disease, including the
+associated symptoms and suffering, and can form the basis for an overall
+improvement in healthcare systems and their related costs. our revenues are
+derived from the sale of our products, as well as through alliance agreements,
+under which we co-promote products discovered by other companies.
+
+on january
+26, 2009, we announced that we entered into a definitive merger agreement under
+which we will acquire wyeth in a cash-and-stock transaction valued on that date
+at $50.19 per share, or a total of $68 billion. while we have taken actions and
+incurred costs associated with the pending transaction that are reflected in our
+financial statements, the acquisition of wyeth will not be reflected in our
+financial statements until consummation. (see also the “our strategic
+initiatives – strategy and recent transactions” and “costs and expenses –
+acquisition-related costs” sections of this md&a).
+
+our first quarter
+performance
+
+revenues in the first quarter
+of 2009 decreased 8% to $10.9 billion, compared to the same period in 2008. the
+significant product and alliance revenue impacts on revenues for the first
+quarter of 2009, compared to the same period in 2008, are as
+follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+first
+      quarter
+
+ 
+
+
+
+(millions
+      of dollars)
+
+ 
+
+increase/
+(decrease)
+09/08
+
+ 
+ 
+
+%
+      change
+09/08
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+lipitor(a)
+
+ 
+$
+(416
+)
+ 
+ 
+(13
+)
+
+
+
+zyrtec/zyrtec
+      d(b)
+
+ 
+ 
+(117
+)
+ 
+ 
+(100
+)
+
+
+
+chantix/champix(c)
+
+ 
+ 
+(100
+)
+ 
+ 
+(36
+)
+
+
+
+camptosar(b)
+
+ 
+ 
+(83
+)
+ 
+ 
+(43
+)
+
+
+
+celebrex
+
+ 
+ 
+(47
+)
+ 
+ 
+(8
+)
+
+
+
+norvasc(d)
+
+ 
+ 
+(32
+)
+ 
+ 
+(6
+)
+
+
+
+detrol/detrol
+      la
+
+ 
+ 
+(24
+)
+ 
+ 
+(8
+)
+
+
+
+geodon/zeldox
+
+ 
+ 
+(11
+)
+ 
+ 
+(5
+)
+
+
+
+genotropin
+
+ 
+ 
+(9
+)
+ 
+ 
+(4
+)
+
+
+
+viagra
+
+ 
+ 
+(6
+)
+ 
+ 
+(1
+)
+
+
+
+xalatan/xalacom
+
+ 
+ 
+2
+ 
+ 
+ 
+–
+ 
+
+
+
+vfend
+
+ 
+ 
+8
+ 
+ 
+ 
+5
+ 
+
+
+
+sutent
+
+ 
+ 
+12
+ 
+ 
+ 
+7
+ 
+
+
+
+zyvox
+
+ 
+ 
+24
+ 
+ 
+ 
+9
+ 
+
+
+
+lyrica
+
+ 
+ 
+102
+ 
+ 
+ 
+17
+ 
+
+
+
+alliance
+      revenues
+
+ 
+ 
+94
+ 
+ 
+ 
+19
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+
+
+
+
+(a)
+lipitor
+      has been impacted by competitive pressures and other factors.
+
+
+
+(b)
+
+
+zyrtec/zyrtec
+      d lost u.s. exclusivity in late january 2008, at which time we ceased
+      selling this product. camptosar lost u.s. exclusivity in february
+      2008.
+
+
+
+
+
+
+
+
+
+(c)
+
+
+chantix/champix
+      has been negatively impacted by the changes to its label in
+      2008.
+
+
+
+
+
+
+
+
+(d)
+
+
+norvasc
+      lost u.s. exclusivity in march
+2007.
+
+
+
+
+
+foreign
+exchange unfavorably impacted revenues by approximately $640 million, or 5%,
+compared to the first quarter of 2008.
+
+in the
+u.s., revenues decreased 10% compared to the first quarter 2008, while
+international revenues decreased 7% compared to the first quarter of
+2008.
+
+the impact
+of rebates in the first quarter of 2009 decreased revenues by approximately $950
+million, compared to approximately $900 million in the first quarter of 2008.
+the increase in rebates was due primarily to the impact of our contracting
+strategies with both government and non-government entities in the u.s.
+(see
+further discussion in the “revenues – pharmaceutical business revenues” section
+of this md&a).
+
+
+
+
+
+
+24
+
+
+
+
+
+
+
+
+
+income from continuing operations
+for the first quarter of 2009 was $2.7 billion, compared to $2.8 billion
+in the first quarter of 2008. the decrease was primarily due to:
+
+
+
+
+
+·
+
+
+the
+      decrease in total revenues due to the unfavorable impact of foreign
+      exchange, among other factors;
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      decrease in other
+income/deductions;
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      increase in the effective tax rate;
+and
+
+
+
+
+
+
+
+
+
+·
+
+
+costs
+      incurred in connection with the pending wyeth
+  acquisition;
+
+
+
+
+
+partially
+offset by:
+
+
+
+
+
+·
+
+
+savings
+      related to our cost-reduction initiatives;
+and
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      elimination of acquisition-related
+      in-process research and development charges in 2009 compared
+      to $398 million
+
+
+
+
+
+
+
+
+ 
+      
+
+
+in
+      the first quarter of 2008.
+
+
+
+
+
+in the
+first quarter of 2008, we expensed acquisition-related in-process
+research and development charges (ipr&d) related to our acquisitions
+of covx and coley pharmaceutical group, inc. related to our pharmaceutical
+segment and two smaller acquisitions related to our animal health segment. (see
+further discussion in the “our strategic initiatives – strategy and recent
+transactions: acquisitions, licensing and collaborations” section of this
+md&a.) as a result of adopting financial accounting standards board
+statement of financial accounting standards no. 141r, business combinations, as
+amended, beginning january 1, 2009, ipr&d related to future acquisitions
+will be recorded on our consolidated balance sheet as indefinite-lived
+intangible assets. we made no acquisitions in the first quarter of
+2009.
+
+we have
+also made significant progress with our cost-reduction and transformation
+initiatives, launched in early 2005, which are broad-based, company-wide efforts
+to improve performance and efficiency. (see further discussion in the “our
+cost-reduction initiatives” section of this md&a.)
+
+our operating
+environment
+
+while the
+global recession has affected our business, the impact so far has been
+consistent with the expectations reflected in our financial guidance for 2009
+(see the “outlook” section of this md&a.) the impact on our human
+pharmaceutical business has been largely in the u.s. market, where health
+insurers and benefit plans are imposing formulary restrictions in favor of
+generics, which is affecting products such as lipitor, lyrica, celebrex, and
+geodon; in addition patients, experiencing the effects of the weak economy and
+facing increases in co-pays, are sometimes delaying treatments or skipping doses
+to reduce their costs. our animal health business also has been impacted by the
+recession, which has adversely affected global spending on veterinary
+care.
+
+despite
+the challenging financial markets, pfizer maintains a strong financial position.
+we have a strong balance sheet and excellent liquidity that provides us with
+financial flexibility. our long-term debt is rated high quality and investment
+grade by both standard & poor’s and moody’s investors service. as market
+conditions change, we continue to monitor our liquidity position. we have and
+will continue to take a conservative approach to our investments. both
+short-term and long-term investments consist primarily of high-quality, highly
+liquid, well-diversified, investment-grade available-for-sale debt securities.
+as a result, we continue to believe that we have the ability to meet our
+financing needs for the foreseeable future. (for further discussion of our
+financial condition, see the “financial condition, liquidity and capital
+resources” section of this md&a.)
+
+in
+addition to general economic conditions, we and other pharmaceutical companies
+continue to face significant industry-specific challenges in a profoundly
+changing business environment, as explained more fully in pfizer’s annual report
+on form 10-k for the year ended december 31, 2008. industry-wide factors,
+including pharmaceutical product pricing and access, intellectual property
+rights, product competition, the regulatory environment, pipeline productivity
+and the changing business environment, can significantly impact our businesses.
+in order to meet these challenges and capitalize on opportunities in the
+marketplace, we are taking steps to change the way we operate our pharmaceutical
+and other businesses. effective january 1, 2009, we changed our operating model
+within the pharmaceutical segment, which is now comprised of five
+customer-focused units—primary care, specialty care, oncology, established
+products and emerging markets—with clear, single points of accountability to
+enable the segment to more effectively anticipate and respond to the diverse
+needs of physicians, customers and patients. as in the past, the pharmaceutical
+segment continues to be managed inclusive of our research and manufacturing
+organizations and supported by administrative functions.
+
+
+
+
+
+
+25
+
+
+
+
+
+
+
+
+
+generic
+competition and patent expirations significantly impact our business. we lost
+u.s. exclusivity for camptosar in february 2008 and norvasc in march 2007 and,
+as expected, significant revenue declines followed. zyrtec/zyrtec d lost its
+u.s. exclusivity in late january 2008, at which time we ceased selling this
+product. lipitor began to face competition in the u.s. in 2006 from generic
+pravastatin (pravachol) and generic simvastatin (zocor), in addition to other
+competitive pressures. the volume of patients who start on or switch to generic
+simvastatin continues to negatively impact lipitor prescribing trends,
+particularly in the managed-care environment.
+
+we will
+continue to aggressively defend our patent rights against increasing incidents
+of infringement whenever appropriate. (for more detailed information about
+lipitor, norvasc, zyrtec, camptosar and other significant products, see further
+discussion in the “revenues – pharmaceutical – selected product descriptions”
+section of this md&a). (see part ii – other information; item 1.
+legal proceedings, of
+this form 10-q for a discussion of certain recent developments with respect to
+patent litigation.)
+
+these and
+other industry-wide factors that may affect our businesses should be considered
+along with information presented in the “forward-looking information and factors
+that may affect future results” section of this md&a.
+
+our strategic initiatives –
+strategy and recent transactions
+
+acquisitions,
+licensing and collaborations
+
+we are
+committed to capitalizing on new growth opportunities by advancing our
+new-product pipeline and maximizing the value of our in-line products, as well
+as through opportunistic licensing, co-promotion agreements and acquisitions.
+our business-development strategy targets a number of growth opportunities,
+including biologics, vaccines, oncology, diabetes, alzheimer’s disease,
+inflammation/immunology, pain, psychoses (schizophrenia) and other products and
+services that seek to provide valuable healthcare solutions. some of our most
+significant business-development transactions during the first quarter of 2009
+and 2008 are described below:
+
+
+
+
+
+·
+
+
+in
+      the first quarter of 2009, we entered into a five-year agreement with
+      bausch & lomb to co-promote prescription pharmaceuticals in the u.s.
+      for the treatment of ophthalmic conditions.  the agreement
+      covers prescription ophthalmic pharmaceuticals, including our xalatan
+      product and bausch & lomb’s alrex®, lotemax® and zylet® products, as
+      well as bausch & lomb’s investigational anti-infective eye drop,
+      besifloxacin ophthalmic suspension, 0.6%, which is currently under review
+      by the u.s. food and drug administration
+(fda).
+
+
+
+
+
+
+
+
+
+·
+
+
+in
+      the first quarter of 2008, we acquired covx, a privately held
+      biotherapeutics company specializing in preclinical oncology and metabolic
+      research and the developer of a biotherapeutics technology platform that
+      we expect will enhance our biologic portfolio. also in the first quarter
+      of 2008, we acquired all the outstanding shares of coley pharmaceutical
+      group, inc. (coley), a biopharmaceutical company specializing in vaccines
+      and drug candidates designed to fight cancers, allergy and asthma
+      disorders, and autoimmune diseases, for approximately $230 million. in
+      connection with these and two smaller acquisitions related to animal
+      health, we recorded approximately $398 million in acquisition-related in-process
+      research and development
+charges.
+
+
+
+
+
+the
+following transactions were not completed as of the end of the first quarter of
+2009, and our consolidated financial statements as of march 29, 2009 do not
+assume their completion. however, we have incurred costs related to the pending
+acquisition of wyeth that are reflected in our financial
+statements.
+
+
+
+
+
+·
+
+
+on
+      april 16, 2009, we announced that we entered into an agreement with
+      glaxosmithkline plc (gsk) to create a new company focused solely on
+      research, development and commercialization of hiv medicines. we and gsk
+      will contribute product and pipeline assets to the new company. the new
+      company will have a broad product portfolio of 11 marketed products,
+      including innovative leading therapies such as gsk’s combivir and kivexa products and our selzentry/celsentri
+      (maraviroc) product. the company will have a pipeline of six
+      innovative and targeted medicines, including four compounds in phase 2
+      development. the new company will contract r&d and manufacturing
+      services directly from gsk and us and will also enter into a new research
+      alliance agreement with gsk and us. under this new alliance, the new
+      company will invest in our and gsk’s programs for discovery research and
+      development into hiv medicines. the new company will have exclusive rights
+      of first negotiation in relation to any new hiv-related medicines
+      developed by either gsk or us. we will initially hold a 15% equity
+      interest in the new company, and gsk will hold an 85% equity interest. the
+      equity interests will be adjusted in the event that specified sales and
+      regulatory milestones are achieved. our equity interest in the new company
+      could vary from 9% to 30.5%, and gsk’s equity interest in the new company
+      could vary from 69.5% to 91%, depending upon the milestones achieved with
+      respect to the original pipeline assets contributed by us and by gsk to
+      the new company. each company may also be entitled to preferential
+      dividend payments to the extent that specific sales thresholds are met in
+      respect of the marketed products and pipeline assets originally
+      contributed. we will account for our share of the new company as an equity
+      method investment. the closing of
+      the transaction and commencement of the new company’s business is
+      conditional upon certain matters, including receiving certain regulatory
+      and tax clearances, and no material adverse change occurring in respect of
+      either gsk’s or our
+      hiv business prior to closing. we and gsk will conduct consultations with
+      works councils in accordance with applicable employment legislation. the
+      transaction is expected to close in the fourth quarter of
+      2009.
+
+
+
+
+ 
+
+
+
+
+
+
+26
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+·
+
+
+on
+      january 26, 2009, we announced that we entered into a definitive merger
+      agreement under which we will acquire wyeth in a cash-and-stock
+      transaction valued on that date at $50.19 per share, or a total of $68
+      billion. the boards of directors of both pfizer and wyeth have approved
+      the transaction. under the terms of the merger agreement, each outstanding
+      share of wyeth common stock will be converted into the right to receive
+      $33 in cash and 0.985 of a share of pfizer common stock, subject to
+      adjustment as set forth in the merger agreement. each outstanding wyeth
+      stock option, and each outstanding share of wyeth restricted stock,
+      deferred stock unit award and restricted stock unit award, will be
+      exchanged for cash in accordance with the terms of the merger agreement.
+      in addition, the merger agreement provides that each share of wyeth $2
+      convertible preferred stock will be exchanged for a newly created class of
+      pfizer preferred stock having substantially the same rights as the wyeth
+      $2 convertible preferred stock. however, on april 23, 2009, wyeth
+      announced that it will affect a full redemption of its outstanding $2
+      convertible preferred stock effective on july 15, 2009. as a result, we
+      will not issue any preferred stock in connection with the
+      merger.
+
+
+
+ 
+ 
+
+
+ 
+we
+      expect the wyeth transaction will close at the end of the third quarter or
+      during the fourth quarter of 2009, subject to wyeth shareholder approval,
+      governmental and regulatory approvals, the satisfaction of the conditions
+      related to the debt financing for the transaction, and other usual and
+      customary closing conditions. we believe that the combination of pfizer
+      and wyeth will create the world’s premier biopharmaceutical company and
+      will meaningfully deliver on pfizer’s strategic priorities in a single
+      transaction.  the combined entity will be one of the most
+      diversified in the industry and will enable us to offer patients a
+      uniquely broad and diversified portfolio of biopharmaceutical innovation
+      through patient-centric units.
+
+
+ 
+ 
+
+
+ 
+we
+      expect to achieve annual cost savings of approximately $4 billion by the
+      end of 2012 related solely to this transaction. we expect we will incur
+      acquisition-related restructuring charges and integration costs associated
+      with the expected cost savings, which we estimate could be in the range of
+      approximately $6 billion to $8 billion, and which will be expensed as
+      incurred.
+
+
+ 
+ 
+
+
+ 
+
+we
+      expect to fund the acquisition through a combination of cash, stock,
+      short-term borrowings and long-term debt. (see notes to condensed
+      consolidated financial statements - note 8b. financial
+      instruments: short-term borrowings, note 8c. financial instruments: long-term
+      debt and note 8g. financial
+      instruments: credit covenants.)
+
+
+
+ 
+ 
+
+
+ 
+
+the
+      merger agreement with wyeth prohibits us from making acquisitions, except
+      for acquisitions for which cash consideration does not exceed $750 million
+      in the aggregate prior to the completion of the transaction without
+      wyeth’s consent. in addition, the 364-day bridge term loan credit
+      agreement that we entered into on march 12, 2009 (bridge credit agreement)
+      in connection with the pending wyeth acquisition prohibits us from
+      purchasing u.s. domestic businesses for cash consideration in excess of
+      $500 million in the aggregate or international businesses for cash
+      consideration in excess of $2.5 billion in the aggregate until the
+      commitment expires or is terminated and all loans under the agreement, if
+      any, have been paid. (for further discussion of the bridge credit
+      agreement, see the “financial condition, liquidity and capital resources”
+      section of this md&a and notes to the condensed consolidated financial
+      statements – note 8b.
+      financial instruments: short-term borrowings and note 8g. financial
+      instruments: credit
+covenants).
+
+
+
+
+
+
+ 
+our cost-reduction
+initiatives
+
+during
+2008, we completed the cost-reduction and transformation initiatives that were
+launched in early 2005, broadened in october 2006 and expanded in january 2007.
+these initiatives were designed to increase efficiency and streamline
+decision-making across the company and change the way we run our businesses to
+meet the challenges of a changing business environment, as well as take
+advantage of the diverse opportunities in the marketplace.
+
+we have
+generated net cost reductions through site rationalization in r&d and
+manufacturing, streamlining organizational structures, sales force and staff
+function reductions, and increased outsourcing and procurement savings. these
+and other actions have allowed us to reduce costs in support services and
+facilities.
+
+
+
+
+
+
+27
+
+
+
+
+
+
+
+
+
+on january
+26, 2009, we announced the implementation of a new cost-reduction initiative
+that we anticipate will achieve a reduction in adjusted total costs of
+approximately $3 billion, based on the actual foreign exchange rates in effect
+during 2008, by the end of 2011, compared with our 2008 adjusted total costs. we
+expect that this program will be completed by the end of 2010, with full savings
+to be realized by the end of 2011. we plan to reinvest approximately $1 billion
+of these savings in the business, resulting in an expected $2 billion net
+decrease compared to our 2008 adjusted total costs. (for an understanding of
+adjusted income, see the “adjusted income” section of this
+md&a.)
+
+as part of
+this new cost-reduction initiative, we intend to reduce our total worldwide
+workforce by approximately 10%.  reductions will span sales,
+manufacturing, research and development, and administrative organizations. in
+the first quarter of 2009, we reduced our workforce by approximately 1,650
+colleagues. this decline was net of new colleagues hired in expanding areas of
+our business, primarily in emerging markets. we also intend to reduce our
+facilities square footage by approximately 15%. we expect to incur costs related
+to this new cost-reduction initiative of approximately $6 billion, pre-tax, of
+which $1.5 billion was recorded in 2008 and $331 million was recorded in the
+first quarter of 2009.
+
+projects
+in various stages of implementation include:
+
+pfizer
+global research and development (pgrd)
+
+
+
+
+
+·
+
+
+creating a more agile and
+      productive organization—in january 2009, we announced that we plan
+      to reduce our global research staff. we expect these reductions, which are
+      part of the planned 10% total workforce reduction discussed above, will be
+      completed during 2009.
+
+
+
+
+
+after a
+review of all our therapeutic areas, in 2008, we announced our decision to exit
+certain disease areas—anemia, atherosclerosis/hyperlipidemia, bone
+health/frailty, gastrointestinal, heart failure, liver fibrosis, muscle,
+obesity, osteoarthritis (disease-modifying concepts only) and peripheral
+arterial disease—and give higher priority to the following disease areas:
+alzheimer's disease, diabetes, inflammation/immunology, oncology, pain and
+psychoses (schizophrenia). we also will continue to work in many other disease
+areas, such as asthma, chronic obstructive pulmonary disorder, genitourinary,
+infectious diseases, ophthalmology, smoking cessation, thrombosis and
+transplant, among others. with a smaller, more focused research portfolio, we
+will be able to devote our resources to the most valuable opportunities. these
+decisions did not affect our portfolio of marketed products, the development of
+compounds then in phase 3 or any launches planned over the next three
+years.
+
+we
+continue to focus on reduced cycle time and improved compound survival in the
+drug discovery and development process. over the next two years, we expect to
+see a 25% to 33% reduction in cycle time in the period from final approved
+protocol to last subject-first visit, as new processes and procedures are
+adopted for newly initiated phase 2, 3 and 4 clinical trials. in the past couple
+of years, a number of steps have been taken to improve compound survival, such
+as rigorous analyses of the successful and unsuccessful projects in the entire
+portfolio to ensure that results are captured and applied to ongoing programs
+and to portfolio decisions.
+
+pfizer
+global manufacturing (pgm)
+
+
+
+
+
+·
+
+
+supply network transformation - we are
+      transforming our global manufacturing network into a global strategic
+      supply network, consisting of our internal network of plants together with
+      strategic external manufacturers, and including purchasing, packaging and
+      distribution. as of the end of the first quarter of 2009, we have reduced
+      our internal network of plants from 93 in 2003 to 46, which includes the
+      acquisition of seven plants and the sites sold in 2006 as part of our
+      consumer healthcare business. we plan to reduce our internal network of
+      plants around the world to 41. we expect that the cumulative impact will
+      be a more focused, streamlined and competitive manufacturing operation,
+      with less than 50% of our former internal plants and more than 53% fewer
+      manufacturing employees, compared to 2003. as part of the transformation
+      to a global strategic supply network, we currently expect to increase
+      outsourced manufacturing from approximately 24% of our products, on a cost
+      basis, to approximately 30% over the next two
+  years.
+
+
+
+
+ 
+
+worldwide
+pharmaceutical operations (wpo)
+
+ 
+
+
+
+
+·
+
+
+reorganization of our field
+      force - as part of pfizer’s overall restructuring into smaller,
+      more focused business units, we have changed our global field force
+      operations to enable us to adapt to changing market dynamics and respond
+      to local customer needs more quickly and with more flexibility. this
+      process, which began in 2007, is generating savings from de-layering,
+      eliminating duplicative work, and utilizing our sales representatives more
+      efficiently through targeted deployment based on sophisticated
+      segmentation analyses, offset modestly by increased investment in certain
+      emerging markets. between 2004 and the end of the first quarter of 2009,
+      we reduced our global field force by approximately 12%, with a substantial
+      portion of those reductions occurring since the beginning of
+      2007.
+
+
+
+
+ 
+
+
+
+
+
+
+28
+
+
+
+
+
+
+
+
+
+revenues
+
+worldwide
+revenues by segment and geographic area for the first quarters of 2009 and 2008
+follow:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+three
+      months ended
+
+ 
+ 
+
+%
+      change in revenues
+
+ 
+
+
+ 
+      
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+world-
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+inter-
+
+ 
+
+
+ 
+      
+ 
+
+worldwide
+
+ 
+ 
+
+u.s.
+
+ 
+ 
+
+international
+
+ 
+ 
+
+wide
+
+ 
+ 
+
+u.s.
+
+ 
+ 
+
+national
+
+ 
+
+
+(millio
+ns of
+ 
+
+mar.
+      29,
+
+ 
+ 
+
+mar.
+      30,
+
+ 
+ 
+
+mar.
+      29,
+
+ 
+ 
+
+mar.
+      30,
+
+ 
+ 
+
+mar.
+      29,
+
+ 
+ 
+
+mar.
+      30,
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+dollars)
+
+ 
+
+2009
+
+ 
+ 
+
+2008
+
+ 
+ 
+
+2009
+
+ 
+ 
+
+2008
+
+ 
+ 
+
+2009
+
+ 
+ 
+
+2008
+
+ 
+ 
+
+09/08
+
+ 
+ 
+
+09/08
+
+ 
+ 
+
+09/08
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+pharmaceutical
+
+ 
+$
+10,102
+ 
+ 
+$
+10,904
+ 
+ 
+$
+4,709
+ 
+ 
+$
+5,141
+ 
+ 
+$
+5,393
+ 
+ 
+$
+5,763
+ 
+ 
+ 
+(7
+)
+ 
+ 
+(8
+)
+ 
+ 
+(7
+)
+
+
+
+animal
+      health
+
+ 
+ 
+537
+ 
+ 
+ 
+619
+ 
+ 
+ 
+194
+ 
+ 
+ 
+240
+ 
+ 
+ 
+343
+ 
+ 
+ 
+379
+ 
+ 
+ 
+(13
+)
+ 
+ 
+(19
+)
+ 
+ 
+(10
+)
+
+
+
+other
+
+ 
+ 
+228
+ 
+ 
+ 
+325
+ 
+ 
+ 
+66
+ 
+ 
+ 
+130
+ 
+ 
+ 
+162
+ 
+ 
+ 
+195
+ 
+ 
+ 
+(30
+)
+ 
+ 
+(49
+)
+ 
+ 
+(17
+)
+
+
+
+total
+      revenues
+
+ 
+$
+10,867
+ 
+ 
+$
+11,848
+ 
+ 
+$
+4,969
+ 
+ 
+$
+5,511
+ 
+ 
+$
+5,898
+(a)
+ 
+$
+6,337
+(a)
+ 
+ 
+(8
+)
+ 
+ 
+(10
+)
+ 
+ 
+(7
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+(a)
+
+
+includes
+      revenues from japan of $993 million (9.1% of total revenues) for the first
+      quarter of 2009, and $765 million (6.5% of total revenues) for the first
+      quarter of 2008.
+
+
+
+
+
+
+revenues
+by segment, and by business unit within the pharmaceutical segment, for the
+first quarters of 2009 and 2008 follow:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+first
+      quarter
+
+ 
+
+
+
+(millions
+      of dollars)
+
+ 
+
+2009
+
+ 
+ 
+
+2008
+
+ 
+ 
+
+%
+      change
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+pharmaceutical:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+primary
+      care
+
+ 
+$
+5,322
+ 
+ 
+$
+5,788
+ 
+ 
+ 
+(8
+)
+
+
+
+specialty
+      care
+
+ 
+ 
+1,463
+ 
+ 
+ 
+1,362
+ 
+ 
+ 
+7
+ 
+
+
+
+oncology
+
+ 
+ 
+350
+ 
+ 
+ 
+421
+ 
+ 
+ 
+(17
+)
+
+
+
+established
+      products
+
+ 
+ 
+1,615
+ 
+ 
+ 
+1,841
+ 
+ 
+ 
+(12
+)
+
+
+
+emerging
+      markets
+
+ 
+ 
+1,352
+ 
+ 
+ 
+1,492
+ 
+ 
+ 
+(9
+)
+
+
+
+total
+      pharmaceutical
+
+ 
+ 
+10,102
+ 
+ 
+ 
+10,904
+ 
+ 
+ 
+(7
+)
+
+
+
+animal
+      health
+
+ 
+ 
+537
+ 
+ 
+ 
+619
+ 
+ 
+ 
+(13
+)
+
+
+
+other
+
+ 
+ 
+228
+ 
+ 
+ 
+325
+ 
+ 
+ 
+(30
+)
+
+
+
+total
+      revenues
+
+ 
+$
+10,867
+ 
+ 
+$
+11,848
+ 
+ 
+ 
+(8
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pharmaceutical business
+revenues
+
+ 
+worldwide
+pharmaceutical revenues for the first quarter of 2009 were $10.1 billion, a
+decrease of 7% compared to the first quarter of 2008, primarily due
+to:
+
+
+
+
+
+·
+
+
+the
+      strengthening of the u.s. dollar relative to other currencies, primarily
+      the euro, uk pound and canadian dollar, which unfavorably impacted
+      pharmaceutical revenues by $574 million, or 5%, in the first quarter of
+      2009;
+
+
+
+
+
+
+
+
+
+·
+
+
+an
+      aggregate decrease in revenues for zyrtec/zyrtec d and camptosar of $200
+      million in the first quarter of 2009, due to the loss of u.s. exclusivity
+      and cessation of selling of zyrtec/zyrtec d in january 2008 and the loss
+      of u.s. exclusivity of camptosar in february
+  2008;
+
+
+
+
+
+
+
+
+
+·
+
+
+a
+      decrease in worldwide revenues for lipitor of $416 million in the first
+      quarter of 2009, primarily resulting from competitive pressures from
+      generics, among other factors; and
+
+
+
+
+
+
+
+
+
+·
+
+
+a
+      decrease in worldwide revenues for chantix/champix of $100 million in the
+      first quarter of 2009, primarily resulting from changes to the chantix
+      label during 2008, among other
+factors;
+
+
+
+
+
+partially
+offset by:
+
+
+
+
+
+·
+
+
+solid
+      operational performance from certain products, including lyrica,
+      xalatan/xalacom, zyvox, sutent and
+vfend.
+
+
+
+
+
+geographically,
+
+
+
+
+
+
+·
+
+
+in
+      the u.s., pharmaceutical revenues decreased 8% in the first quarter of
+      2009, compared to the same period of 2008, primarily due to lower sales of
+      lipitor, the effect of the loss of exclusivity of zyrtec/zyrtec d and
+      camptosar, and lower sales of chantix, which was negatively impacted by
+      the changes to its label in 2008 and other factors, partially offset by
+      the solid performance from certain products, including lyrica, viagra,
+      zyvox and xalatan; and
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+·
+
+
+in
+      our international markets, pharmaceutical revenues decreased 7% in the
+      first quarter of 2009, compared to the same period of 2008, due to the
+      unfavorable impact of foreign exchange on international revenues of $574
+      million, or 10%, partially offset by operational growth, including higher
+      revenues from certain products, including lyrica, zyvox and
+      sutent.
+
+
+
+
+
+ 
+
+
+
+
+
+
+29
+
+
+
+
+
+
+
+
+
+during the
+first quarter of 2009, international pharmaceutical revenues grew to represent
+53.4% of total pharmaceutical revenues, compared to 52.9% in the first quarter
+of 2008. this increase reflects the slightly higher percentage decline in
+pharmaceutical revenues in the u.s. compared to international markets, where
+overall operational growth partially offset the adverse impact of foreign
+exchange.
+
+effective
+january 3, 2009, august 1, 2008, may 2, 2008 and january 1, 2008, we increased
+the published prices for certain u.s. pharmaceutical products. these price
+increases had no material effect on wholesaler inventory levels in comparison to
+the prior year.
+
+as is
+typical in the pharmaceutical industry, our gross product sales are subject to a
+variety of deductions, that are generally estimated and recorded in the same
+period that the revenues are recognized, and primarily represent rebates and
+discounts to government agencies, wholesalers, distributors and managed care
+organizations with respect to our pharmaceutical products. these deductions
+represent estimates of the related obligations and, as such, judgment and
+knowledge of market conditions and practice are required when estimating the
+impact of these sales deductions on gross sales for a reporting period.
+historically, our adjustments to actual results have not been material to our
+overall business. on a quarterly basis, our adjustments to actual results
+generally have been less than 1% of pharmaceutical net sales and can result in
+either a net increase or a net decrease in income. product-specific rebate
+charges, however, can have a significant impact on year-over-year individual
+product growth trends.
+
+rebates
+under medicaid and related state programs reduced revenues by $150 million in
+the first quarter of 2009, compared to $178 million in the first quarter of
+2008. the decreases in rebates under medicaid and related state programs were
+due primarily to lower sales of zyrtec/zyrtec d and zoloft, which have lost
+exclusivity in the u.s.
+
+rebates
+under medicare reduced revenues by $230 million in the first quarter of 2009,
+compared to $221 million in the first quarter of 2008. the increase in medicare
+rebates was due primarily to a shift in the mix of lipitor sales volume toward
+medicare plans with higher rates.
+
+performance-based
+contract rebates reduced revenues by $573 million in the first quarter of 2009,
+compared to $506 million in the first quarter of 2008. the increases in
+performance-based contract rebates were due primarily to the impact of certain
+contract changes which resulted in increased rates related to lipitor, partially
+offset by lower sales of zyrtec/zyrtec d, viagra and caduet. these contracts are
+with managed care customers, including health maintenance organizations and
+pharmacy benefit managers, who receive rebates based on the achievement of
+contracted performance terms for products. rebates are product-specific and,
+therefore, for any given period are impacted by the mix of products
+sold.
+
+chargebacks
+(primarily reimbursements to wholesalers for honoring contracted prices to third
+parties) reduced revenues by $486 million in the first quarter of 2009, compared
+to $507 million in the first quarter of 2008. chargebacks were impacted by the
+launch of certain generic products.
+
+our
+accruals for medicaid and related state programs rebates, medicare rebates,
+performance-based contract rebates and chargebacks totaled $1.7 billion as of
+march 29, 2009, an increase from $1.5 billion as of december 31, 2008, due
+primarily to the impact of certain contract changes and increased pricing
+pressures.
+
+
+
+
+
+
+30
+
+
+
+
+
+
+
+
+
+pharmaceutical – selected
+product revenues
+
+revenue
+information for several of our major pharmaceutical products
+follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+                   
+      first quarter
+
+ 
+
+
+ 
+      
+ 
+      
+ 
+ 
+ 
+ 
+
+%
+      change
+
+ 
+
+
+
+(millions
+      of dollars)
+
+ 
+      
+ 
+
+mar.
+      29,
+
+ 
+ 
+
+from
+
+ 
+
+
+
+product+
+
+
+primary
+      indications
+
+ 
+
+2009
+
+ 
+ 
+
+2008
+
+ 
+
+
+
+cardiovascular
+      and
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+metabolic
+    diseases:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+lipitor
+
+
+reduction
+      of ldl cholesterol
+
+ 
+$
+2,721
+ 
+ 
+ 
+(13
+)
+
+
+
+norvasc
+
+
+hypertension
+
+ 
+ 
+481
+ 
+ 
+ 
+(6
+)
+
+
+
+chantix/champix
+
+
+an
+      aid to smoking cessation
+
+ 
+ 
+177
+ 
+ 
+ 
+(36
+)
+
+
+
+caduet
+
+
+reduction
+      of ldl cholesterol and hypertension
+
+ 
+ 
+134
+ 
+ 
+ 
+(9
+)
+
+
+
+cardura
+
+
+hypertension/benign
+      prostatic hyperplasia
+
+ 
+ 
+107
+ 
+ 
+ 
+(11
+)
+
+
+
+central
+      nervous
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+system
+    disorders:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+lyrica
+
+
+epilepsy,
+      post-herpetic neuralgia and diabetic
+peripheral neuropathy,
+      fibromyalgia
+
+ 
+ 
+684
+ 
+ 
+ 
+17
+ 
+
+
+
+geodon/zeldox
+
+
+schizophrenia
+      and acute manic or mixed
+episodes
+      associated with bipolar disorder
+
+ 
+ 
+230
+ 
+ 
+ 
+(5
+)
+
+
+
+zoloft
+
+
+depression
+      and certain anxiety disorders
+
+ 
+ 
+115
+ 
+ 
+ 
+(6
+)
+
+
+
+aricept(a),(b)
+
+
+alzheimer’s
+      disease
+
+ 
+ 
+95
+ 
+ 
+ 
+(9
+)
+
+
+
+relpax
+
+
+migraine
+      headaches
+
+ 
+ 
+79
+ 
+ 
+ 
+2
+ 
+
+
+
+neurontin
+
+
+epilepsy
+      and post-herpetic neuralgia
+
+ 
+ 
+78
+ 
+ 
+ 
+(12
+)
+
+
+
+xanax/xanax xr
+
+
+anxiety/panic
+      disorders
+
+ 
+ 
+75
+ 
+ 
+ 
+(13
+)
+
+
+
+arthritis
+      and pain:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+celebrex
+
+
+arthritis
+      pain and inflammation, acute pain
+
+ 
+ 
+564
+ 
+ 
+ 
+(8
+)
+
+
+
+infectious
+      and
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+respiratory
+      diseases:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+zyvox
+
+
+bacterial
+      infections
+
+ 
+ 
+283
+ 
+ 
+ 
+9
+ 
+
+
+
+vfend
+
+
+fungal
+      infections
+
+ 
+ 
+179
+ 
+ 
+ 
+5
+ 
+
+
+
+zithromax/zmax
+
+
+bacterial
+      infections
+
+ 
+ 
+114
+ 
+ 
+ 
+(5
+)
+
+
+
+diflucan
+
+
+fungal
+      infections
+
+ 
+ 
+78
+ 
+ 
+ 
+(13
+)
+
+
+
+selzentry/celsentri
+
+
+hiv
+      infection
+
+ 
+ 
+18
+ 
+ 
+ 
+189
+ 
+
+
+
+urology:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+viagra
+
+
+erectile
+      dysfunction
+
+ 
+ 
+454
+ 
+ 
+ 
+(1
+)
+
+
+
+detrol/detrol la
+
+
+overactive
+      bladder
+
+ 
+ 
+289
+ 
+ 
+ 
+(8
+)
+
+
+
+oncology:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+sutent
+
+
+advanced
+      and/or metastatic renal cell carcinoma
+(mrcc) and refractory
+      gastrointestinalstromal tumors (gist)
+
+ 
+ 
+202
+ 
+ 
+ 
+7
+ 
+
+
+
+aromasin
+
+
+breast
+      cancer
+
+ 
+ 
+110
+ 
+ 
+ 
+6
+ 
+
+
+
+camptosar
+
+
+metastatic
+      colorectal cancer
+
+ 
+ 
+109
+ 
+ 
+ 
+(43
+)
+
+
+
+ophthalmology:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+xalatan/xalacom
+
+
+glaucoma
+      and ocular hypertension
+
+ 
+ 
+407
+ 
+ 
+ 
+–
+ 
+
+
+
+endocrine
+      disorders:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+genotropin
+
+
+replacement
+      of human growth hormone
+
+ 
+ 
+197
+ 
+ 
+ 
+(4
+)
+
+
+
+all
+      other:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+zyrtec/zyrtec d
+
+
+allergies
+
+ 
+ 
+–
+ 
+ 
+ 
+(100
+)
+
+
+
+alliance
+      revenues:
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+aricept(b),,
+      macugen,
+exforge,
+      olmetec,
+rebif and spiriva
+ 
+
+
+alzheimer’s
+      disease (aricept), neovascular (wet)
+age-related
+      macular degeneration (macugen),
+hypertension
+      (exforge and olmetec), multiple
+sclerosis
+      (rebif) and chronic obstructive
+pulmonary
+      disease (spiriva)
+
+ 
+ 
+582
+ 
+ 
+ 
+19
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ +
+
+
+revenues
+      are presented by therapeutic area.
+
+
+
+
+
+
+
+
+ 
+
+certain
+      amounts and percentages may reflect rounding
+      adjustments. 
+
+
+
+
+(a)
+
+
+represents
+      direct sales under license agreement with eisai co.,
+  ltd.
+
+
+
+
+(b)
+
+see
+      the discussion under “aricept strategic alliance and development
+      agreement” in part ii – other information; item
+      1. legal
+      proceedings.
+
+
+
+
+ 
+
+
+
+
+
+
+31
+
+
+
+
+
+
+
+
+
+pharmaceutical – selected
+product descriptions:
+
+
+
+
+
+·
+
+
+lipitor, for the
+      treatment of elevated ldl-cholesterol levels in the blood, is the most
+      widely used prescription treatment for lowering cholesterol and the
+      best-selling pharmaceutical product of any kind in the world. lipitor
+      recorded worldwide revenues of $2.7 billion in the first quarter of 2009,
+      a decrease of 13% compared to the same period in 2008. these results
+      reflect the negative impact of foreign exchange, which decreased revenues
+      by $186 million, or 6%. in the u.s., revenues of $1.5 billion in the first
+      quarter of 2009 declined 17%, compared with the same period in 2008.
+      internationally, lipitor revenues in the first quarter of 2009 decreased
+      9%, compared to the same period in 2008, with 13% due to the unfavorable
+      impact of foreign exchange.
+
+
+
+
+
+the
+decrease in lipitor worldwide revenues in the first quarter of 2009 compared to
+the same period in 2008, was driven by a combination of factors, including the
+following:
+
+
+
+
+
+·
+
+
+the
+      unfavorable impact of foreign
+exchange;
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      impact of an intensely competitive lipid-lowering market with competition
+      from multi-source generic simvastatin and branded products in the
+      u.s.;
+
+
+
+
+
+
+
+
+
+·
+
+
+increased
+      payer pressure in the u.s.; and
+
+
+
+
+
+
+
+
+
+·
+
+
+slower
+      growth in the lipid-lowering market, due in part to a slower rate of
+      growth in the medicare part d population and, reflecting the global
+      recession, heightened overall patient cost-sensitivity in the u.s. and
+      adoption of non-prescription treatment options like nutraceuticals and
+      functional foods;
+
+
+
+
+
+
+
+
+
+ 
+      
+
+
+partially
+      offset by:
+
+
+
+
+
+
+
+
+
+·
+
+
+operating
+      growth internationally.
+
+
+
+
+
+see part
+ii – other information;
+item 1. legal
+proceedings, of this form 10-q for a discussion of certain patent
+litigation relating to lipitor.
+
+
+
+
+
+·
+
+
+norvasc, for treating
+      hypertension, lost exclusivity in the u.s. in march 2007. norvasc has also
+      experienced patent expirations in most other major markets, with the
+      exception of canada, where the amlodipine besylate patent expires in 2010.
+      norvasc worldwide revenues in the first quarter of 2009 decreased 6%
+      compared to the same period in
+2008.
+
+
+
+
+
+see part
+ii – other information;
+item 1. legal
+proceedings, of this form 10-q for a discussion of certain patent
+litigation relating to norvasc.
+
+
+
+
+
+·
+
+
+chantix/champix, the
+      first new prescription treatment to aid smoking cessation in nearly a
+      decade, became available to patients in the u.s. in august 2006 and in
+      select eu markets in december 2006 and has been launched in all major
+      markets. chantix/champix has been prescribed to more than ten million
+      patients globally since its launch. chantix/ champix recorded worldwide
+      revenues of $177 million in the first quarter of 2009, a decrease of 36%,
+      compared to the same period in 2008. in the u.s., revenues of $112 million
+      in the first quarter of 2009 declined 42% compared to the same period in
+      2008, following changes to the chantix label in 2008 and other factors.
+      internationally, revenues of $65 million in the first quarter of 2009
+      decreased 22% compared to the same period in 2008, following the label
+      changes and reflecting the negative impact of foreign exchange, which
+      decreased revenues by 14%.
+
+
+
+
+
+in january
+2008, we added a warning to chantix’s label that patients who are attempting to
+quit smoking by taking chantix should be observed by a physician for
+neuropsychiatric symptoms like changes in behavior, agitation, depressed mood,
+suicidal ideation and suicidal behavior. a causal relationship between chantix
+and these reported symptoms has not been established. there are also confounding
+factors that limit interpretation of neuropsychiatric symptoms in smokers. for
+example, quitting smoking has been associated with symptoms of nicotine
+withdrawal, such as depressed mood and anxiety. in addition, research has shown
+that smokers have a higher rate of depression and suicide-related events than
+non-smokers.
+ 
+in may
+2008, we updated the chantix label to provide further guidance about the safe
+use of chantix. the updated label advises that patients should stop taking
+chantix and contact their healthcare provider immediately if agitation,
+depressed mood, or changes in behavior that are not typical for them are
+observed, or if they develop suicidal thoughts or suicidal
+behavior.
+
+
+
+
+
+
+32
+
+
+
+
+
+
+
+
+
+u.s.
+prescription trends and u.s. revenues for chantix have declined year-over-year
+following the changes to the product’s label in the u.s. and other factors. we
+are continuing our educational and promotional efforts, which are focused on the
+chantix benefit-risk proposition, the significant health consequences of smoking
+and the importance of the physician-patient dialogue in helping patients quit
+smoking.
+
+see part
+ii – other information;
+item 1. legal
+proceedings, of this form 10-q for a discussion of certain product
+litigation relating to chantix/champix.
+
+
+
+
+
+·
+
+
+caduet, a single-pill
+      therapy combining norvasc and lipitor, recorded worldwide revenues of $134
+      million, a decrease of 9% for the first quarter of 2009, compared to the
+      same period in 2008, primarily due to increased generic competition as
+      well as an overall decline in u.s. hypertension market
+    volume.
+
+
+
+
+
+
+
+
+
+·
+
+
+lyrica, indicated for
+      the management of post-herpetic neuralgia (phn), diabetic peripheral
+      neuropathy (dpn), and fibromyalgia, and as adjunctive therapy for adult
+      patients with partial onset seizures in the u.s., and for neuropathic pain
+      and general anxiety disorder (gad) outside the u.s., recorded worldwide
+      revenues of $684 million in the first quarter of 2009, an increase of 17%,
+      compared to the same period in 2008. lyrica’s prescription volume in the
+      u.s. has been adversely affected by increased generic competition
+      reflecting the global recession. in june 2007, lyrica was approved in the
+      u.s. for the management of fibromyalgia, one of the most common chronic
+      widespread pain conditions, which affects more than five million
+      americans. lyrica is the leading branded agent for neuropathic pain
+      worldwide and for dpn/phn and fibromyalgia in the
+  u.s.
+
+
+
+
+
+in july
+2008, an fda advisory committee concurred with the fda’s finding of a potential
+increased signal regarding suicidal thoughts and behavior for the class of 11
+epilepsy drugs reviewed, including lyrica and neurontin. in april 2009, we
+updated the lyrica and neurontin labels to include this new warning. we are
+confident in the efficacy and safety profile of lyrica and neurontin for their
+approved indications.
+
+see part
+ii – other information;
+item 1. legal
+proceedings, of this form 10-q for a discussion of certain patent
+litigation relating to lyrica.
+
+
+
+
+
+·
+
+
+geodon/zeldox, a
+      psychotropic agent, is a dopamine and serotonin receptor antagonist
+      indicated for the treatment of schizophrenia and acute manic or mixed
+      episodes associated with bipolar disorder. it is available in both an oral
+      capsule and rapid-acting intramuscular formulation. in the first quarter
+      of 2009, geodon worldwide revenues decreased 5%, compared to the same
+      period in 2008, due to increased generic competition, slow growth in the
+      antipsychotic market in the u.s. as well as the unfavorable impact of
+      foreign exchange. geodon is supported by pfizer’s recently launched
+      psychiatric field force and geodon’s efficacy and favorable tolerability
+      and metabolic profiles.
+
+
+
+
+
+
+
+
+
+·
+
+
+celebrex, a treatment
+      for the signs and symptoms of osteoarthritis and rheumatoid arthritis and
+      acute pain in adults, experienced an 8% decrease in worldwide revenues to
+      $564 million for the first quarter of 2009, due to increased generic
+      competition. celebrex is supported by continued educational and
+      promotional efforts highlighting its efficacy and safety profile for
+      appropriate patients.
+
+
+
+
+
+see part
+ii – other information;
+item 1. legal
+proceedings, of this form 10-q for a discussion of certain product
+litigation relating to celebrex.
+
+
+
+
+
+·
+
+
+zyvox is the world’s
+      best-selling branded agent for the treatment of certain serious
+      gram-positive pathogens, including methicillin-resistant
+      staphylococcus-aureus (mrsa).  mrsa remains a serious and
+      growing threat in hospitals and the community. zyvox is an excellent
+      first-line choice for the treatment of adults and children with
+      complicated skin and skin structure infections and nosocomial pneumonia
+      due to known or suspected mrsa. zyvox is the only fda-approved agent for
+      mrsa that offers intravenous and oral formulations for these indications.
+      its unique mechanism of action minimizes the potential for
+      cross-resistance. to date, more than three million patients have been
+      treated worldwide. zyvox worldwide sales grew 9% to $283 million in the
+      first quarter of 2009.
+
+
+
+
+
+see part
+ii – other information;
+item 1. legal
+proceedings, of this form 10-q for a discussion of certain patent
+litigation relating to zyvox.
+
+
+
+
+
+
+33
+
+
+
+
+
+
+
+
+
+
+
+
+
+·
+
+
+selzentry/celsentri,
+      (maraviroc tablets), a ccr5 antagonist, is the first in a new class of
+      oral hiv medicines in more than a decade known as ccr5 antagonists.
+      selzentry/celsentri was approved in the u.s. and europe in 2007 and in
+      japan in 2008, and is indicated for combination anti-retroviral treatment
+      of treatment-experienced adults infected with only ccr5-tropic hiv-1, who
+      have evidence of viral replication and have hiv-1 strains resistant to
+      multiple anti-retroviral agents. a diagnostic test confirms whether a
+      patient is infected with ccr5-tropic hiv-1, which is also known as
+      “r5-virus.” on april 16, 2009, we announced that we entered into an
+      agreement with gsk to form a new, hiv company that will develop and market
+      our combined portfolio of hiv assets, including selzentry/celsentri. (see
+      the “our strategic initiatives - strategy and recent transactions” section
+      of this md&a.)
+
+
+
+
+
+
+
+
+
+·
+
+
+viagra remains the
+      leading treatment for erectile dysfunction and one of the world’s most
+      recognized pharmaceutical brands after more than a decade. viagra
+      worldwide revenues declined 1% to $454 million in the first quarter of
+      2009 compared to the same period in 2008. in the u.s., revenues of $258
+      million in the first quarter of 2009 increased 16% compared with the same
+      period in 2008. internationally, viagra revenues of $196 million in the
+      first quarter of 2009 decreased 18% compared to the same period in 2008
+      due to the unfavorable impact of foreign exchange, increased competition
+      and the loss of market exclusivity in a number of countries in
+      europe.
+
+
+
+
+
+
+
+
+
+·
+
+
+detrol/detrol la, a
+      muscarinic receptor antagonist, is the most prescribed branded medicine
+      worldwide for overactive bladder. detrol la is an extended-release
+      formulation taken once a day. detrol/detrol la worldwide revenues declined
+      8% to $289 million in the first quarter of 2009, compared to the same
+      period in 2008 primarily due to increased competition from other branded
+      medicines.
+
+
+
+
+
+
+
+
+
+·
+
+
+sutent, for the treatment
+      of advanced renal cell carcinoma, including metastatic renal cell
+      carcinoma, and gastrointestinal stomach tumors (gist) after disease
+      progression on, or intolerance to, imatinib mesylate, was launched in the
+      u.s. in january 2006. it has now been launched in all major markets,
+      including japan, where it was approved in april 2008 for the treatment of
+      gist, after failure of imatinib treatment due to resistance, and for renal
+      cell carcinoma not indicated for curative resection and mrcc. sutent
+      recorded worldwide revenues of $202 million in the first quarter of 2009,
+      an increase of 7% compared to the same period in 2008. we continue to
+      drive growth in the u.s. and internationally, supported by
+      cost-effectiveness data and efficacy data in first-line mrcc – including
+      2-year survival data, which represents the first time overall survival of
+      two years has been seen in the treatment of advanced kidney cancer, as
+      well as through the promotion of access and health care coverage. as of
+      march 29, 2009, sutent was the best-selling medicine in the world for the
+      treatment of first-line mrcc.
+
+
+
+
+
+
+
+
+
+·
+
+
+camptosar, indicated as
+      first-line therapy for metastatic colorectal cancer in combination with
+      5-fluorouracil and leucovorin, lost exclusivity in the u.s. in february
+      2008. it is also indicated for patients in whom metastatic colorectal
+      cancer has recurred or progressed following initial fluorouracil-based
+      therapy. camptosar is for intravenous use only. camptosar worldwide
+      revenues in the first quarter of 2009 decreased 43% to $109 million,
+      compared to the same period in 2008, primarily as a result of the loss of
+      exclusivity.
+
+
+
+
+
+
+
+
+
+·
+
+
+xalatan, a
+      prostaglandin, is the world’s leading branded agent to reduce elevated eye
+      pressure in patients with open-angle glaucoma or ocular hypertension.
+      xalatan's proven clinical benefits and studies demonstrating long-term
+      safety should support the continued growth of this important medicine.
+      xalacom, a fixed
+      combination prostaglandin (xalatan) and beta blocker (timolol), is
+      available outside the u.s. xalatan/xalacom worldwide revenues were flat in
+      the first quarter of 2009, compared to the same period in
+      2008.
+
+
+
+
+
+
+
+
+
+·
+
+
+genotropin, the world’s
+      leading human growth hormone, is used in children for the treatment of
+      short stature with growth hormone deficiency, prader-willi syndrome,
+      turner syndrome, small for gestational age syndrome, idiopathic short
+      stature (in the u.s. only) and chronic renal insufficiency (outside the
+      u.s. only), as well as in adults with growth hormone deficiency.
+      genotropin is supported by a broad platform of innovative
+      injection-delivery devices. genotropin worldwide revenues decreased 4% in
+      the first quarter of 2009 to $197 million, compared to the same period in
+      2008 primarily due to the unfavorable impact of foreign
+      exchange.
+
+
+
+
+
+
+
+
+
+·
+
+
+vfend, as the only
+      branded agent available in intravenous and oral forms, continues to build
+      on its position as the best selling systemic, antifungal agent worldwide.
+      vfend’s overall global sales continue to be driven by its acceptance as an
+      excellent broad spectrum agent for treating yeast and moulds. in the u.s.,
+      vfend’s growth continues to outpace the overall market driven by the oral
+      form which has gained solid positioning as a step-down agent that
+      facilitates discharge from the hospital.  vfend recorded
+      worldwide revenues of $179 million in the first quarter of 2009, an
+      increase of 5% compared to the same period in 2008. in the u.s., revenues
+      of $62 million in the first quarter of 2009 increased 18% compared to the
+      same period in 2008, reflecting solid growth.  internationally,
+      vfend revenues were $117 million in the first quarter of 2009, a 1%
+      decrease compared to the same period in 2008, due to the unfavorable
+      impact of foreign exchange.
+
+
+
+
+ 
+
+
+
+
+
+
+34
+
+
+
+
+
+
+
+
+
+animal
+health
+
+revenues
+of our animal health business follow:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+first
+      quarter
+
+ 
+
+
+
+(millions
+      of dollars)
+
+ 
+
+mar.
+      29,
+2009
+
+ 
+ 
+
+mar.
+      30,
+2008
+
+ 
+ 
+
+%
+      change
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+livestock
+      products
+
+ 
+$
+322
+ 
+ 
+$
+385
+ 
+ 
+ 
+(16
+)
+
+
+
+companion
+      animal products
+
+ 
+ 
+215
+ 
+ 
+ 
+234
+ 
+ 
+ 
+(8
+)
+
+
+
+total
+      animal health
+
+ 
+$
+537
+ 
+ 
+$
+619
+ 
+ 
+ 
+(13
+)
+
+
+
+
+
+
+
+
+
+
+
+
+our animal
+health business is one of the largest in the world.
+
+the
+decrease in animal health revenues in the first quarter of 2009, compared to the
+same period in 2008, was primarily due to the impact of foreign exchange, which
+decreased revenues by 8%.
+
+our
+revenue performance was also negatively impacted by the following:
+
+
+
+
+
+·
+
+
+the
+      global recession, which negatively affected global spending on veterinary
+      care; and
+
+
+
+
+
+
+
+
+
+·
+
+
+a
+      planned change in terms with u.s. distributors resulting in an
+      anticipated, one-time reduction in u.s. distributor
+      inventories.
+
+
+
+
+
+product
+developments
+
+we
+continue to invest in r&d to provide future sources of revenues through the
+development of new products, as well as through additional uses for existing
+in-line and alliance products, and we have taken important steps to prioritize
+our research and development portfolio to maximize value. after a review of all
+our therapeutic areas, in 2008, we announced our decision to exit certain
+disease areas - anemia, atherosclerosis/hyperlipidemia, bone health/frailty,
+gastrointestinal, heart failure, liver fibrosis, muscle, obesity, osteoarthritis
+(disease-modifying concepts only) and peripheral arterial disease - and give
+higher priority to the following disease areas: alzheimer’s disease, diabetes,
+inflammation/immunology, oncology, pain and psychoses (schizophrenia). we also
+will continue to work in many other disease areas, such as asthma, chronic
+obstructive pulmonary disorder, genitourinary, infectious diseases,
+ophthalmology, smoking cessation, thrombosis and transplant, among others. these
+decisions did not affect our portfolio of marketed products, the development of
+compounds then in phase 3 or any launches planned over the next three years.
+notwithstanding our efforts, there are no assurances as to when, or if, we will
+receive regulatory approval for additional indications for existing products or
+any of our other products in development.
+
+below are
+significant regulatory actions by, and filings pending with, the fda and
+regulatory authorities in the eu and japan.
+
+pending u.s. new drug
+applications (ndas) and supplemental filings:
+
+
+
+
+
+
+product
+
+
+indication
+
+
+date
+      submitted
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+selzentry
+      (maraviroc)
+
+
+hiv
+      in treatment-naïve patients
+
+
+december
+      2008
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+geodon
+
+
+maintenance
+      treatment of bipolar mania
+
+
+december
+      2008
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+geodon
+
+
+treatment
+      of bipolar disorders – pediatric filing
+
+
+october
+      2008
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+fablyn
+      (lasofoxifene)
+
+
+treatment
+      of osteoporosis
+
+
+december
+      2007
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+spiriva
+
+
+respimat
+      device for chronic obstructive pulmonary disease
+
+
+november
+      2007
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+zmax
+
+
+treatment
+      of bacterial infections—sustained release—acute otitis
+media
+      (aom) and sinusitis – pediatric filing
+
+
+november
+      2006
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+vfend
+
+
+treatment
+      of fungal infections – pediatric filing
+
+
+june
+      2005
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+thelin
+
+
+treatment
+      of pulmonary arterial hypertension (pah)
+
+
+may
+      2005
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+35
+
+
+
+
+
+
+
+
+
+in april
+2009, we and gsk announced that we entered into an agreement to create a new
+company focused solely on research, development and commercialization of hiv
+medicines. we will contribute selzentry/celsentri (maraviroc), among other
+assets, to that company. (see further discussion in the “our strategic
+initiatives - strategy and recent transactions: acquisitions, licensing and
+collaborations” section of this md&a.)
+
+we
+received “not-approvable” letters from the fda for fablyn (lasofoxifene) for the
+prevention of post-menopausal osteoporosis in september 2005 and for the
+treatment of vaginal atrophy in january 2006. we submitted a new nda for the
+treatment of osteoporosis in post-menopausal women in december 2007, including
+the three-year interim data from the postmenopausal evaluation and
+risk-reduction with lasofoxifene (pearl) study in support of the new nda. in
+september 2008, nine of the 13 members of an fda advisory committee concluded
+that there is a population of women with post-menopausal osteoporosis for which
+the benefit of treatment with fablyn is likely to outweigh the risks. we
+received a “complete response” letter from the fda in january 2009.
+subsequently, following a strategic review, we decided to explore strategic
+options for fablyn, including outlicensing or sale.
+
+in
+september 2008, we received a “complete response” letter from the fda for the
+spiriva respimat submission. the fda is seeking additional data and we are
+working with the fda to provide the additional information. a full response will
+be submitted to the fda upon the completion of ongoing studies.
+
+in
+september 2007, we received an “approvable” letter from the fda for zmax that
+sets forth requirements to obtain approval for the pediatric aom indication
+based on pharmacokinetic data. a supplemental filing for pediatric aom and
+sinusitis remains under review.
+
+in
+december 2005, we received an “approvable” letter from the fda for our vfend
+pediatric filing, which sets forth the additional requirements for approval. we
+have been systematically working through these requirements and addressing the
+fda’s concerns, including initiating an additional pharmacokinetics study in
+november 2008.
+
+in june
+2008, we completed the acquisition of encysive pharmaceuticals inc. (encysive),
+whose main product is thelin. in june 2007, encysive received a third
+“approvable” letter from the fda for thelin for the treatment of pah. we began
+an additional phase 3 clinical trial in patients with pah during the fourth
+quarter of 2008 to address the concerns of the fda regarding efficacy as
+reflected in that letter.
+
+regulatory approvals and
+filings in the eu and japan:
+
+
+
+
+
+
+
+
+product
+
+
+description
+      of event
+
+
+date
+approved
+
+
+date
+      submitted
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+fablyn
+      (lasofoxifene)
+
+
+approval
+      in the eu for the treatment of osteoporosis
+
+
+february
+      2009
+
+
+––
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+zithromac
+
+
+approval
+      in japan for bacterial infections
+
+
+january
+      2009
+
+
+––
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+celsentri
+      (maraviroc)
+
+
+application
+      submitted in the eu for hiv in treatment-naïve patients
+
+
+––
+
+
+january
+      2009
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+geodon
+
+
+application
+      submitted in the eu for pediatric bipolar disorders
+
+
+––
+
+
+october
+      2008
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+lyrica
+
+
+application
+      submitted in japan for the treatment of pain associated with post-herpetic
+      neuralgia
+
+
+––
+
+
+may
+      2008
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+application
+      submitted in the eu for the treatment of fibromyalgia
+
+
+––
+
+
+march
+      2008
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+xalacom
+
+
+application
+      submitted in japan for the treatment of glaucoma
+
+
+––
+
+
+february
+      2008
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+caduet
+
+
+application
+      submitted in japan for hypertension
+
+
+––
+
+
+november
+      2007
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+celebrex
+
+
+application
+      submitted in japan for treatment of lower-back pain
+
+
+––
+
+
+february
+      2007
+
+
+
+
+
+
+
+
+in
+february 2009, fablyn received approval in europe for the treatment of
+osteoporosis. subsequently, following a strategic review, we decided to explore
+strategic options for fablyn, including outlicensing or sale.
+
+
+
+
+
+
+36
+
+
+
+
+
+
+
+
+
+in april
+2009, we and gsk announced that we entered into an agreement to create a new
+company focused solely on research, development and commercialization of hiv
+medicines. we will contribute selzentry/celsentri (maraviroc), among other
+assets, to that company. (see further discussion in the “our strategic
+initiatives - strategy and recent transactions: acquisitions, licensing and
+collaborations” section of this md&a.)
+
+on april
+23, 2009, the european medicines agency’s committee for medicinal products for
+human use (chmp) issued a negative opinion, recommending that the european
+commission not add an indication for the treatment of fibromyalgia to the
+marketing authorization for lyrica. the chmp was of the opinion that the
+benefits of lyrica in the treatment of fibromyalgia did not outweigh its risks.
+lyrica remains approved in europe for the indications of neuropathic pain,
+epilepsy and generalized anxiety disorder.
+
+ongoing or planned clinical
+trials for additional uses and dosage forms for our in-line products
+include:
+
+
+
+
+
+
+product
+
+
+indication
+
+
+
+ 
+      
+ 
+      
+
+
+
+celebrex
+
+
+acute
+      gouty arthritis
+
+
+
+ 
+      
+ 
+      
+
+
+
+eraxis/vfend
+      combination
+
+
+aspergillosis
+      fungal infections
+
+
+
+ 
+      
+ 
+      
+
+
+
+lyrica
+
+
+epilepsy
+      monotherapy; post-operative pain; gad; restless legs
+    syndrome
+
+
+
+ 
+      
+ 
+      
+
+
+
+macugen
+
+
+diabetic
+      macular edema
+
+
+
+ 
+      
+ 
+      
+
+
+
+revatio
+
+
+pediatric
+      pulmonary arterial hypertension
+
+
+
+ 
+      
+ 
+      
+
+
+
+sutent
+
+
+breast
+      cancer; colorectal cancer; non-small cell lung cancer; prostate cancer;
+      liver cancer
+
+
+
+ 
+      
+ 
+      
+
+
+
+zithromax/chloroquine
+
+
+malaria
+
+
+
+
+
+
+in april
+2009, we terminated one of four ongoing phase 3 trials of sutent for the
+treatment of advanced breast cancer for futility. the trial evaluated
+single-agent sutent versus single-agent capecitabine for the treatment of a
+broad range of patients with advanced breast cancer after failure of standard
+treatment. we are continuing to evaluate sutent as a single agent and in
+combination with standard-of-care chemotherapy in specific patient populations
+with advanced breast cancer through three additional phase 3 and two phase 2
+trials.
+
+new drug
+candidates in late-stage development include: cp-690550, a jak-3 kinase
+inhibitor for the treatment of rheumatoid arthritis; axitinib, a multi-targeted
+kinase inhibitor for the treatment of renal cell carcinoma; dimebon, a novel
+mitochondrial protectant and enhancer being developed in partnership with
+medivation, inc. for the treatment of alzheimer’s disease; cp-751871, an
+anti-insulin-like growth factor receptor 1 (igf1r) human monoclonal antibody for
+the treatment of non-small cell lung cancer; dalbavancin for treatment of skin
+and skin structure infections; tanezumab, an anti-nerve growth factor monoclonal
+antibody for the treatment of pain; and apixaban, for acute coronary syndrome,
+the prevention and treatment of venous thromboembolism and prevention of stroke
+in patients with atrial fibrillation, which is being developed in collaboration
+with bristol-myers squibb company (bms).
+
+in
+september 2008, we announced that we would globally withdraw all dalbavancin
+marketing applications for the treatment of complicated skin and skin structure
+gram-positive bacterial infections in adults, including the u.s. nda and the
+european marketing authorization application. a pediatric pharmacokinetic
+pediatric study with dalbavancin was initiated in the first quarter of 2009 and
+remains in progress.
+
+in
+february 2009, we terminated the development programs for pd-332334, an
+alpha2delta ligand compound for the treatment of gad, and esreboxetine, for the
+treatment of fibromyalgia, because it was considered unlikely that either
+compound would provide meaningful benefit to patients beyond the current
+standard of care.
+
+in january
+2009, we terminated the development program for axitinib, a multi-targeted
+kinase inhibitor, for the treatment of pancreatic cancer, after the review of
+interim data showed that the trial would not demonstrate superiority to the
+current standard of care.
+
+additional
+product-related programs are in various stages of discovery and development.
+also, see our discussion in the “our strategic initiatives – strategy and recent
+transactions: acquisitions, licensing and collaborations” section of this
+md&a.
+
+
+
+
+
+
+37
+
+
+
+
+
+
+
+
+
+costs and
+expenses
+
+cost of
+sales
+
+cost of
+sales decreased 29% in the first quarter of 2009, while revenues decreased 8% in
+the first quarter of 2009, compared to the same period in 2008. cost of sales as
+a percentage of revenues in the first quarter of 2009 decreased 3.8 percentage
+points compared to the same period in 2008, reflecting:
+
+
+
+
+
+·
+
+
+savings
+      related to our cost-reduction
+initiatives;
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      favorable impact of foreign exchange on expenses;
+  and
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      impact of lower implementation costs associated with our cost-reduction
+      initiatives of $76 million in the first quarter of 2009, compared to $138
+      million in the first quarter of
+2008.
+
+
+
+
+
+selling, informational and
+administrative expenses
+
+selling,
+informational and administrative (si&a) expenses decreased 18% in the first
+quarter of 2009, compared to the first quarter of 2008, which
+reflects:
+
+
+
+
+
+·
+
+
+savings
+      related to our cost-reduction
+initiatives;
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      favorable impact of foreign exchange on
+  expenses;
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      impact of lower implementation costs associated with our cost-reduction
+      initiatives of $46 million in the first quarter of 2009, compared to $75
+      million in the first quarter of 2008;
+and
+
+
+
+
+
+
+
+
+
+·
+
+
+certain
+      insurance recoveries of $165 million related to legal-defense
+      costs.
+
+
+
+
+
+research and development
+expenses
+
+research
+and development (r&d) expenses decreased 5% in the first quarter of 2009,
+compared to the same period in 2008, which reflects:
+
+
+
+
+
+·
+
+
+savings
+      related to our cost-reduction
+initiatives;
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      favorable impact of foreign exchange on expenses;
+  and
+
+
+
+
+
+
+
+
+
+·
+
+
+the
+      impact of lower implementation costs associated with our cost-reduction
+      initiatives of $41 million in the first quarter of 2009, compared to $146
+      million in the first quarter of
+2008;
+
+
+
+
+
+partially
+offset by:
+
+
+
+
+
+·
+
+
+a
+      $150 million milestone payment to bms recorded in the first quarter of
+      2009 in connection with the collaboration on
+  apixaban.
+
+
+
+
+
+acquisition-related
+in-process research and development charges
+
+as
+required through december 31, 2008, the estimated fair value of acquisition-related in-process
+research and development charges (ipr&d) was expensed at acquisition
+date. ipr&d of $398 million was recorded in the first quarter of 2008,
+primarily related to our acquisitions of covx and coley and two smaller
+acquisitions related to animal health. as a result of adopting financial
+accounting standards board statement of financial accounting standards no. 141r,
+business combinations,
+as amended, beginning january 1, 2009, ipr&d related to future acquisitions
+will be recorded on our consolidated balance sheet as indefinite-lived
+intangible assets. we made no acquisitions in the first quarter of
+2009.
+
+cost-reduction
+initiatives
+
+during
+2008, we completed the cost-reduction and transformation initiatives which were
+launched in early 2005, broadened in october 2006 and expanded in january 2007.
+these initiatives were designed to increase efficiency and streamline
+decision-making across the company and change the way we run our businesses to
+meet the challenges of a changing business environment, as well as take
+advantage of the diverse opportunities in the marketplace.
+
+we have
+generated net cost reductions through site rationalization in r&d and
+manufacturing, streamlining organizational structures, sales force and staff
+function reductions, and increased outsourcing and procurement savings. these
+and other actions have allowed us to reduce costs in support services and
+facilities.
+
+
+
+
+
+
+38
+
+
+
+
+
+
+
+
+
+on january
+26, 2009, we announced the implementation of a new cost-reduction initiative
+that we anticipate will achieve a reduction in adjusted total costs of
+approximately $3 billion, based on the actual foreign exchange rates in effect
+during 2008, by the end of 2011, compared with our 2008 adjusted total costs. we
+expect that this program will be completed by the end of 2010, with full savings
+to be realized by the end of 2011. we plan to reinvest approximately $1 billion
+of these savings in the business, resulting in an expected $2 billion net
+decrease compared to our 2008 adjusted total costs. (for an understanding of
+adjusted income, see the “adjusted income” section of this
+md&a.)
+
+the
+actions associated with our cost-reduction initiatives resulted in restructuring
+charges, such as asset impairments, exit costs and severance costs (including
+any related impacts to our benefit plans, including settlements and
+curtailments) and associated implementation costs, such as depreciation arising
+from the shortening of the useful lives of certain assets, primarily associated
+with supply network transformation efforts and expenses associated with system
+and process standardization and the expansion of shared services worldwide. (see
+notes to condensed consolidated financial statements - note 5. cost-reduction
+initiatives.) the strengthening
+of the dollar relative to the euro, uk pound, canadian dollar and other
+currencies, while unfavorable on revenues, has had a positive
+impact on our total expenses (cost of sales, selling,
+informational and administrative expenses, and research and development
+expenses), including the reported
+impact of these cost-reduction efforts.
+
+we
+incurred the following costs in connection with our cost-reduction
+initiatives:
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+first
+      quarter
+
+ 
+
+
+
+(millions
+      of dollars)
+
+ 
+
+mar.
+      29,
+2009
+
+ 
+ 
+
+mar.
+      30,
+2008
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+implementation
+      costs(a)
+
+ 
+$
+174
+ 
+ 
+$
+357
+ 
+
+
+
+restructuring
+      charges(b)
+
+ 
+ 
+157
+ 
+ 
+ 
+178
+ 
+
+
+
+total
+      costs related to our cost-reduction initiatives
+
+ 
+$
+331
+ 
+ 
+$
+535
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+
+for
+      the first quarter of 2009, included in cost of sales ($76
+      million), selling, informational and
+      administrative expenses ($46 million), research and development
+      expenses ($41 million) and other (income)/deductions -
+      net ($11 million). for the first quarter of 2008, included in cost of sales ($138
+      million), selling,
+      informational and administrative expenses ($75 million), research and development
+      expenses ($146 million) and other (income)/deductions –
+      net ($2 million income).
+
+
+
+
+(b)
+
+included
+      in restructuring charges
+      and acquisition-related
+costs.
+
+
+
+
+         
+
+acquisition-related
+costs
+
+we
+incurred the following acquisition-related costs, in connection with our pending
+acquisition of wyeth:
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+first
+      quarter
+
+ 
+
+
+
+(millions
+      of dollars)
+
+ 
+
+mar.
+      29,
+2009
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+
+
+
+transaction
+      costs(a)
+
+ 
+$
+369
+ 
+
+
+
+pre-integration
+      costs and other(b)
+
+ 
+ 
+28
+ 
+
+
+
+total
+      acquisition-related costs(c)
+
+ 
+$
+397
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+
+transaction
+      costs include banking, legal, accounting and other costs directly related
+      to our pending acquisition of wyeth. substantially all of the costs
+      incurred to date are fees related to our $22.5 billion bridge credit
+      agreement entered into with financial institutions on march 12, 2009 (see
+      notes to condensed consolidated financial statements - note 8c. financial
+      instruments: long-term debt) to partially fund our pending
+      acquisition of wyeth. upon our issuance of $13.5 billion of senior
+      unsecured notes on march 24, 2009, the commitment under the bridge credit
+      agreement was reduced by an amount equal to the net proceeds we received
+      from such issuance, to a current balance of $9.1 billion, and,
+      accordingly, we expensed the portion of the bridge credit agreement fees
+      associated with the $13.5 billion
+reduction.
+
+
+
+
+
+
+
+
+(b)
+
+
+pre-integration
+      costs represent external, incremental costs directly related to our
+      pending acquisition of wyeth and include costs associated with preparing
+      for systems and other integration
+activities.
+
+
+
+
+
+
+
+
+(c)
+
+
+included
+      in restructuring charges
+      and acquisition-related
+costs.
+
+
+
+
+ 
+
+
+
+
+
+
+39
+
+
+
+
+
+
+
+
+
+other (income)/deductions -
+net
+
+in the
+first quarter of 2009, we recorded lower net interest income of $116 million,
+compared to $203 million in the first quarter of 2008, due primarily to lower
+interest rates, partially offset by higher cash balances in first-quarter 2009.
+the lower net interest income included $23 million of net interest expense in
+the first quarter of 2009 associated with the $13.5 billion of senior unsecured
+notes that we issued in march 2009 related to the pending acquisition of wyeth.
+in addition, we recorded litigation charges of $95 million in the first quarter
+of 2009 compared to no such charges in the first quarter of 2008.
+
+provision for taxes on
+income
+
+our
+effective tax rate for continuing operations was 28.2% for the first quarter of
+2009, compared to 21.5% for the first quarter of 2008. the higher tax rate for
+the first quarter of 2009 is primarily due to the increased tax costs associated
+with certain business decisions executed to finance the pending acquisition of
+wyeth, partially offset by the change in geographic mix of expenses incurred to
+execute our cost-reduction initiatives, as well as the elimination of ipr&d
+charges, which generally are not deductible for tax purposes.
+
+adjusted
+income
+
+general description of
+adjusted income measure
+
+adjusted
+income is an alternative view of performance used by management, and we believe
+that investors’ understanding of our performance is enhanced by disclosing this
+performance measure. we report adjusted income in order to portray the results
+of our major operations––the discovery, development, manufacture, marketing and
+sale of prescription medicines for humans and animals–prior to considering
+certain income statement elements. we have defined adjusted income as net income
+attributable to pfizer inc. before the impact of purchase accounting for
+acquisitions, acquisition-related costs, discontinued operations and certain
+significant items. the adjusted income measure is not, and should not be viewed
+as, a substitute for u.s. gaap net income.
+
+the
+adjusted income measure is an important internal measurement for pfizer. we
+measure the performance of the overall company on this basis, in conjunction
+with other performance metrics. the following are examples of how the adjusted
+income measure is utilized.
+
+
+
+
+
+·
+
+
+senior
+      management receives a monthly analysis of our operating results that is
+      prepared on an adjusted income
+basis;
+
+
+
+
+
+
+
+
+
+·
+
+
+our
+      annual budgets are prepared on an adjusted income basis;
+    and
+
+
+
+
+
+
+
+
+
+·
+
+
+senior
+      management’s annual compensation is derived, in part, using this adjusted
+      income measure. adjusted income is one of the performance metrics utilized
+      in the determination of bonuses under the pfizer inc. executive annual
+      incentive plan that is designed to limit the bonuses payable to the
+      executive leadership team (elt) for purposes of internal revenue code
+      section 162(m). subject to the section 162(m) limitation, the bonuses are
+      funded from a pool based on the achievement of three financial metrics,
+      including adjusted diluted earnings per share, which is derived from
+      adjusted income. these metrics derived from adjusted income account for
+      (i) 17% of the target bonus for elt members and (ii) 33% of the bonus pool
+      made available to elt members and other members of senior
+      management.
+
+
+
+
+
+despite
+the importance of this measure to management in goal setting and performance
+measurement, we stress that adjusted income is a non-gaap financial measure that
+has no standardized meaning prescribed by u.s. gaap and, therefore, has limits
+in its usefulness to investors. because of its non-standardized definition,
+adjusted income (unlike u.s. gaap net income) may not be comparable to the
+calculation of similar measures of other companies. adjusted income is presented
+solely to permit investors to more fully understand how management assesses our
+performance.
+
+we also
+recognize that, as an internal measure of performance, the adjusted income
+measure has limitations and we do not restrict our performance-management
+process solely to this metric. a limitation of the adjusted income measure is
+that it provides a view of our operations without including all events during a
+period, such as the effects of an acquisition or amortization of purchased
+intangibles, and does not provide a comparable view of our performance to other
+companies in the pharmaceutical industry. we also use other specifically
+tailored tools designed to ensure the highest levels of our performance. for
+example, our r&d organization has productivity targets, upon which its
+effectiveness is measured. in addition, performance share awards grants made in
+2006, 2007, 2008 and future years will be paid based on a non-discretionary
+formula that measures our performance using relative total shareholder
+return.
+
+
+
+
+
+
+40
+
+
+
+
+
+
+
+
+
+purchase accounting
+adjustments
+
+adjusted
+income is calculated prior to considering certain significant
+purchase-accounting impacts, such as those related to business combinations and
+net asset acquisitions (see notes to condensed consolidated financial statements
+– note 3. acquisitions). these impacts can include charges
+for purchased in-process r&d (prior to january 1, 2009), the incremental
+charge to cost of sales from the sale of acquired inventory that was written up
+to fair value and the incremental charges related to the amortization of
+finite-lived intangible assets for the increase to fair value. therefore, the
+adjusted income measure includes the revenues earned upon the sale of the
+acquired products without considering the aforementioned significant
+charges.
+
+certain of
+the purchase-accounting adjustments associated with a business combination, such
+as the amortization of intangibles acquired in connection with our acquisition
+of pharmacia in 2003, can occur for up to 40 years (these assets have a
+weighted-average useful life of approximately nine years), but this presentation
+provides an alternative view of our performance that is used by management to
+internally assess business performance. we believe the elimination of
+amortization attributable to acquired intangible assets provides management and
+investors an alternative view of our business results by trying to provide a
+degree of parity to internally developed intangible assets for which research
+and development costs have been previously expensed.
+
+however, a
+completely accurate comparison of internally developed intangible assets and
+acquired intangible assets cannot be achieved through adjusted income. this
+component of adjusted income is derived solely from the impacts of the items
+listed in the first paragraph of this section. we have not factored in the
+impacts of any other differences in experience that might have occurred if we
+had discovered and developed those intangible assets on our own, and this
+approach does not intend to be representative of the results that would have
+occurred in those circumstances. for example, our research and development costs
+in total, and in the periods presented, may have been different; our speed to
+commercialization and resulting sales, if any, may have been different; or our
+costs to manufacture may have been different. in addition, our marketing efforts
+may have been received differently by our customers. as such, in total, there
+can be no assurance that our adjusted income amounts would have been the same as
+presented had we discovered and developed the acquired intangible
+assets.
+
+acquisition-related
+costs
+
+adjusted
+income is calculated prior to considering integration and restructuring costs
+associated with business combinations because these costs are unique to each
+transaction and represent costs that were incurred to restructure and integrate
+two businesses as a result of the acquisition decision. for additional clarity,
+only transaction costs and restructuring and integration activities that are
+associated with a purchase business combination or a net-asset acquisition are
+included in acquisition-related costs. we have made no adjustments for the
+resulting synergies.
+
+we believe
+that viewing income prior to considering these charges provides investors with a
+useful additional perspective because the significant costs incurred in a
+business combination result primarily from the need to eliminate duplicate
+assets, activities or employees – a natural result of acquiring a fully
+integrated set of activities. for this reason, we believe that the costs
+incurred to convert disparate systems, to close duplicative facilities or to
+eliminate duplicate positions (for example, in the context of a business
+combination) can be viewed differently from those costs incurred in other, more
+normal business contexts.
+
+the
+integration and restructuring costs associated with a business combination may
+occur over several years, with the more significant impacts ending within three
+years of the transaction. because of the need for certain external approvals for
+some actions, the span of time needed to achieve certain restructuring and
+integration activities can be lengthy. for example, due to the highly regulated
+nature of the pharmaceutical business, the closure of excess facilities can take
+several years, as all manufacturing changes are subject to extensive validation
+and testing and must be approved by the fda and/or other global regulatory
+authorities.
+
+discontinued
+operations
+
+adjusted
+income is calculated prior to considering the results of operations included in
+discontinued operations as well as any related gains or losses on the sale of
+such operations. we believe that this presentation is meaningful to investors
+because, while we review our businesses and product lines periodically for
+strategic fit with our operations, we do not build or run our businesses with an
+intent to sell them.
+
+
+
+
+
+
+41
+
+
+
+
+
+
+
+
+
+certain significant
+items
+
+adjusted
+income is calculated prior to considering certain significant items. certain
+significant items represent substantive, unusual items that are evaluated on an
+individual basis. such evaluation considers both the quantitative and the
+qualitative aspect of their unusual nature. unusual, in this context, may
+represent items that are not part of our ongoing business; items that, either as
+a result of their nature or size, we would not expect to occur as part of our
+normal business on a regular basis; items that would be non-recurring; or items
+that relate to products we no longer sell. while not all-inclusive, examples of
+items that could be included as certain significant items would be a major
+non-acquisition-related restructuring charge and associated implementation costs
+for a program which is specific in nature with a defined term, such as those
+related to our cost-reduction initiatives; charges related to certain sales or
+disposals of products or facilities that do not qualify as discontinued
+operations as defined by u.s. gaap; amounts associated with transition service
+agreements in support of discontinued operations after sale; certain intangible
+asset impairments; adjustments related to the resolution of certain tax
+positions; the impact of adopting certain significant, event-driven tax
+legislation, such as adjustments associated with charges attributable to the
+repatriation of foreign earnings in accordance with the american jobs creation
+act of 2004; net interest expense associated with acquisition-related borrowings
+in advance of the consummation date of the pending acquisition of wyeth; or
+possible charges related to legal matters, such as certain of those discussed in
+legal proceedings in
+our form 10-k and in part ii: other information; item 1.
+legal proceedings,
+included in our form 10-q filings. normal, ongoing defense costs of the company
+or settlements and accruals on legal matters made in the normal course of our
+business would not be considered certain significant items.
+
+reconciliation
+
+a
+reconciliation between net
+income attributable to pfizer inc., as reported under u.s. gaap, and
+adjusted income follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+first
+      quarter
+
+ 
+
+
+
+(millions
+      of dollars)
+
+ 
+
+mar.
+      29,
+2009
+
+ 
+ 
+
+mar.
+      30,
+2008
+
+ 
+ 
+
+%
+      incr./
+(decr.)
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+reported
+      net income attributable to pfizer inc.
+
+ 
+$
+2,729
+ 
+ 
+$
+2,784
+ 
+ 
+ 
+(2
+)
+
+
+
+purchase
+      accounting adjustments - net of tax
+
+ 
+ 
+354
+ 
+ 
+ 
+934
+ 
+ 
+ 
+(62
+)
+
+
+
+acquisition-related
+      costs - net of tax
+
+ 
+ 
+252
+ 
+ 
+ 
+1
+ 
+ 
+ 
+251
+ 
+
+
+
+discontinued
+      operations - net of tax
+
+ 
+ 
+(1
+)
+ 
+ 
+4
+ 
+ 
+ 
+*
+ 
+
+
+
+certain
+      significant items - net of tax
+
+ 
+ 
+333
+ 
+ 
+ 
+376
+ 
+ 
+ 
+(11
+)
+
+
+
+adjusted
+      income
+
+ 
+$
+3,667
+ 
+ 
+$
+4,099
+ 
+ 
+ 
+(11
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* calculation
+not meaningful.
+
+  
+certain amounts and percentages may reflect rounding
+adjustments.
+
+
+
+
+
+
+
+42
+
+
+
+
+
+
+
+
+ 
+
+adjusted
+income as shown above excludes the following items:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+first
+      quarter
+
+ 
+
+
+
+(millions
+      of dollars)
+
+ 
+
+mar.
+      29,
+2009
+
+ 
+ 
+
+mar.
+      30,
+2008
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+purchase
+      accounting adjustments:
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+intangible amortization and
+      other(a)
+
+ 
+$
+546
+ 
+ 
+$
+758
+ 
+
+
+
+in-process research and
+      development charges(b)
+
+ 
+ 
+–
+ 
+ 
+ 
+398
+ 
+
+
+
+total purchase accounting
+      adjustments, pre-tax
+
+ 
+ 
+546
+ 
+ 
+ 
+1,156
+ 
+
+
+
+income taxes
+
+ 
+ 
+(192
+)
+ 
+ 
+(222
+)
+
+
+
+total purchase accounting
+      adjustments - net of tax
+
+ 
+ 
+354
+ 
+ 
+ 
+934
+ 
+
+
+
+acquisition-related
+      costs:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+transaction costs(c)
+
+ 
+ 
+369
+ 
+ 
+ 
+–
+ 
+
+
+
+pre-integration costs and
+      other(c)
+
+ 
+ 
+28
+ 
+ 
+ 
+1
+ 
+
+
+
+total acquisition-related costs,
+      pre-tax
+
+ 
+ 
+397
+ 
+ 
+ 
+1
+ 
+
+
+
+income taxes
+
+ 
+ 
+(145
+)
+ 
+ 
+–
+ 
+
+
+
+total acquisition-related costs -
+      net of tax
+
+ 
+ 
+252
+ 
+ 
+ 
+1
+ 
+
+
+
+discontinued
+      operations:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+total discontinued operations -
+      net of tax
+
+ 
+ 
+(1
+)
+ 
+ 
+4
+ 
+
+
+
+certain
+      significant items:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+restructuring charges –
+      cost-reduction initiatives(c)
+
+ 
+ 
+157
+ 
+ 
+ 
+177
+ 
+
+
+
+implementation costs –
+      cost-reduction initiatives(d)
+
+ 
+ 
+174
+ 
+ 
+ 
+357
+ 
+
+
+
+certain legal matters(e)
+
+ 
+ 
+132
+ 
+ 
+ 
+–
+ 
+
+
+
+other
+
+ 
+ 
+10
+ 
+ 
+ 
+7
+ 
+
+
+
+total certain significant items,
+      pre-tax
+
+ 
+ 
+473
+ 
+ 
+ 
+541
+ 
+
+
+
+income taxes
+
+ 
+ 
+(140
+)
+ 
+ 
+(165
+)
+
+
+
+total certain significant items -
+      net of tax
+
+ 
+ 
+333
+ 
+ 
+ 
+376
+ 
+
+
+
+total
+      purchase accounting adjustments, acquisition-related
+costs, discontinued operations and
+      certain significant
+items - net of tax
+
+ 
+$
+938
+ 
+ 
+$
+1,315
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+
+included
+      primarily in amortization of intangible
+      assets.
+
+
+
+
+
+
+
+
+(b)
+
+
+as
+      required through december 31, 2008, included in acquisition-related in-process
+      research and development charges, primarily related to our
+      acquisitions of covx, coley and two smaller acquisitions related to animal
+      health in the first quarter of 2008. as a result of adopting financial
+      accounting standards board statement of financial accounting standards no.
+      141r, business
+      combinations, as amended, beginning january 1, 2009, ipr&d
+      related to future acquisitions will be recorded on our consolidated
+      balance sheet as indefinite-lived intangible assets. we made no
+      acquisitions in the first quarter of
+2009.
+
+
+
+
+
+
+
+
+(c)
+
+
+included
+      in restructuring charges
+      and acquisition-related
+costs.
+
+
+
+
+
+
+
+
+(d)
+
+
+for
+      the first quarter of 2009, included in cost of sales ($76
+      million), selling,
+      informational and administrative expenses ($46 million), research and development
+      expenses ($41 million) and other (income)/deductions -
+      net ($11 million). for the first quarter of 2008, included in cost of sales ($138
+      million), selling,
+      informational and administrative expenses ($75 million), research and development
+      expenses ($146 million) and other (income)/deductions -
+      net ($2 million income).
+
+
+
+
+
+
+
+
+(e)
+
+
+included
+      in other
+      (income)/deductions - net.
+
+
+
+
+ 
+
+
+
+
+
+
+43
+
+
+
+
+
+
+
+
+
+ 
+
+financial
+condition, liquidity and capital resources
+ 
+
+
+net
+financial assetsour net
+financial asset position follows:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+(millions
+      of dollars)
+
+ 
+
+mar.
+      29,
+2009
+
+ 
+ 
+
+dec.
+      31,
+2008
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+financial
+      assets:
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+cash and cash
+      equivalents
+
+ 
+$
+1,247
+ 
+ 
+$
+2,122
+ 
+
+
+
+short-term
+    investments
+
+ 
+ 
+32,805
+ 
+ 
+ 
+21,609
+ 
+
+
+
+short-term loans
+
+ 
+ 
+793
+ 
+ 
+ 
+824
+ 
+
+
+
+long-term investments and
+      loans
+
+ 
+ 
+13,536
+ 
+ 
+ 
+11,478
+ 
+
+
+
+total
+      financial assets
+
+ 
+ 
+48,381
+ 
+ 
+ 
+36,033
+ 
+
+
+
+debt:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+short-term borrowings, including
+      current portion of long-term debt
+
+ 
+ 
+7,613
+ 
+ 
+ 
+9,320
+ 
+
+
+
+long-term debt
+
+ 
+ 
+21,064
+ 
+ 
+ 
+7,963
+ 
+
+
+
+total
+      debt
+
+ 
+ 
+28,677
+ 
+ 
+ 
+17,283
+ 
+
+
+
+net
+      financial assets
+
+ 
+$
+19,704
+ 
+ 
+$
+18,750
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+we rely
+largely on operating cash flow, short-term investments, short-term commercial
+paper borrowings and long-term debt to provide for the working capital needs of
+our operations, including our r&d activities. we believe that we have the
+ability to obtain both short-term and long-term debt to meet our financing needs
+for the foreseeable future.  the significant changes in the components
+of net financial assets are described below.
+
+on january
+26, 2009, we announced that we entered into a definitive merger agreement under
+which we will acquire wyeth in a cash-and-stock transaction valued on that date
+at $50.19 per share, or a total of $68 billion. we plan to finance this
+acquisition with a combination of cash, debt financing and common stock. on
+march 12, 2009, we entered into the bridge credit agreement with certain lenders
+under which the lenders agreed to provide loans of up to an aggregate principal
+amount of $22.5 billion. the proceeds of such loans are required to be used to
+fund a portion of the merger consideration and certain fees and expenses
+incurred in connection with the merger. the financing commitment is subject to
+certain covenants, which include, but are not limited to, a requirement that
+there be no material adverse change with respect to pfizer or wyeth and pfizer
+maintaining credit ratings of at least a2/a long-term stable/stable and a1/p1
+short-term. (see notes to condensed consolidated financial statements - note 8g. financial
+instruments: credit
+covenants.)
+
+on march
+24, 2009, pfizer issued $13.5 billion of senior unsecured notes in anticipation
+of the acquisition of wyeth. the note proceeds were generally invested in
+short-term available-for-sale investments such as money market funds, u.s.
+treasury notes and, to a lesser extent, corporate debt. upon our issuance of the
+notes, the bridge credit agreement commitment was reduced by an amount equal to
+the net proceeds received from such issuance, to a current balance of $9.1
+billion.
+
+investments
+
+our
+short-term and long-term investments consist primarily of high-quality,
+investment-grade available-for-sale debt securities. wherever possible, cash
+management is centralized and intercompany financing is used to provide working
+capital to our operations. where local restrictions prevent intercompany
+financing, working capital needs are met through operating cash flows and/or
+external borrowings. our portfolio of financial assets increased in the first
+quarter of 2009 as a result of the proceeds of the notes issued in anticipation
+of the acquisition of wyeth.
+
+credit
+ratings
+
+two major
+corporate debt-rating organizations, moody’s investors service (moody’s) &
+standard and poor’s (s&p), assign ratings to our short-term and long-term
+debt. the following chart reflects the current ratings assigned by these rating
+agencies to our commercial paper and senior unsecured non-credit enhanced
+long-term debt issued by us:
+
+
+
+
+
+ 
+      
+ 
+      
+
+long-term-debt
+
+
+date
+      of
+last
+      action
+
+
+
+
+name
+      of rating agency
+
+
+commercial
+      paper
+
+
+rating
+
+
+outlook
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+moody’s
+
+
+p-1
+
+
+aa2
+
+
+negative
+
+
+march
+      2009
+
+
+
+
+s&p
+
+
+a1+
+
+
+aaa
+
+
+negative
+
+
+december
+      2006
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+44
+
+
+
+
+
+
+
+
+
+on january
+26, 2009, after our announcement that we had entered into a definitive merger
+agreement under which we will acquire wyeth, moody’s put us on review for
+possible downgrade and s&p put us on credit watch with negative outlook
+implications. on march 11, 2009, moody’s downgraded our long-term-debt credit
+rating to aa2, its third-highest investment grade rating. the downgrade reflects
+moody’s assessment that pfizer’s stand-alone credit quality had deteriorated
+based on the approaching lipitor patent expiration. we do not expect the wyeth
+acquisition to impact our credit ratings for commercial paper, but we do expect
+a possible reduction in our long-term debt ratings, from aa2/negative to
+a1/stable long term (moody’s) and from aaa/negative to aa/stable long term
+(s&p).
+
+debt
+capacity
+
+we have
+available lines of credit and revolving-credit agreements with a group of banks
+and other financial intermediaries. we maintain cash and cash equivalent
+balances and short-term investments in excess of our commercial paper and other
+short-term borrowings. as of march 29, 2009, we had access to $8.2 billion of
+lines of credit, of which $6.0 billion expire within one year. of these lines of
+credit, $8.1 billion are unused, of which our lenders have committed to loan us
+$7.1 billion at our request. $7.0 billion of the unused lines of credit, of
+which $5.0 billion expire in 2010 and $2.0 billion expire in 2013, may be used
+to support our commercial paper borrowings.
+
+in march
+2007, we filed a securities registration statement with the securities and
+exchange commission. this registration statement was filed under the automatic
+“shelf registration” process available to “well-known seasoned issuers” and is
+effective for three years. we can issue securities of various types under that
+registration statement at any time, subject to approval by our board of
+directors in certain circumstances. on march 24, 2009, in connection with
+financing our pending acquisition of wyeth, we issued $13.5 billion of senior
+unsecured notes under this registration statement. (see notes to condensed
+consolidated financial statements - note 8c. financial instruments:
+long-term debt.)
+
+on march
+12, 2009, we entered into the bridge credit agreement with certain lenders under
+which the lenders agreed to provide up to $22.5 billion in connection with our
+pending acquisition of wyeth. upon our issuance of $13.5 billion of senior
+unsecured notes on march 24, 2009, the bridge credit agreement commitment was
+reduced by an amount equal to the net proceeds received from such issuance, to a
+current balance of $9.1 billion. (see notes to condensed consolidated financial
+statements - note 8b.
+financial instruments: short-term borrowings.) the bridge credit
+agreement subjects us to certain covenants, including a prohibition on incurring
+certain types of debt, until the commitment expires or is terminated and all
+loans under the agreement, if any, have been paid. (see notes to condensed
+consolidated financial statements - note 8g. financial instruments:
+credit covenants.)
+
+financial risk
+management
+
+due to the
+pending acquisition of wyeth and in light of current market conditions, we
+currently borrow primarily on a long-term, fixed-rate basis. we may change this
+practice as market conditions change.
+
+changes in global financial
+markets
+
+towards
+the end of the third quarter of 2008, dramatic changes in the global financial
+markets weakened global economic conditions. these changes have not had, nor do
+we anticipate they will have, a significant impact on our liquidity. due to our
+significant operating cash flow, financial assets, access to the capital markets
+and available lines of credit and revolving credit agreements, we continue to
+believe that we have the ability to meet our financing needs for the foreseeable
+future. as markets change, we continue to monitor our liquidity
+position.
+
+goodwill and other
+intangible assets
+
+as of
+march 29, 2009, goodwill
+totaled $21.5 billion (17% of our total assets) and identifiable intangible assets, less
+accumulated amortization, totaled $16.9 billion (14% of our total
+assets). as of march 29, 2009, finite-lived intangible assets, net, include
+$13.0 billion related to developed technology rights and $520 million related to
+brands. indefinite-lived intangible assets include $2.9 billion related to
+brands.
+
+at least
+annually, we review all of our intangible assets, including goodwill, for
+impairment. for goodwill, volatility in securities markets and changes in
+pfizer’s market capitalization can impact these calculations. we had no
+significant impairments in the first quarter of 2009 or 2008. none of our
+goodwill is impaired as of march 29, 2009.
+
+
+
+
+
+
+45
+
+
+
+
+
+
+
+
+
+selected measures of
+liquidity and capital resources
+
+the
+following table sets forth certain relevant measures of our liquidity and
+capital resources:
+
+
+
+
+
+
+
+
+
+
+
+
+
+(millions
+      of dollars, except ratios and per common share data)
+
+ 
+
+mar.
+      29,
+2009
+
+ 
+ 
+
+dec.
+      31,
+2008
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+cash
+      and cash equivalents and short-term investments and loans
+
+ 
+$
+34,845
+ 
+ 
+$
+24,555
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+working
+      capital(a)
+
+ 
+$
+30,913
+ 
+ 
+$
+16,067
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ratio
+      of current assets to current liabilities
+
+ 
+
+ 2.32:1
+
+ 
+ 
+
+ 1.59:1
+
+ 
+
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+shareholders’
+      equity per common share(b)
+
+ 
+$
+8.96
+ 
+ 
+$
+8.56
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+
+working
+      capital includes assets held for sale of $299 million as of march 29,
+      2009, and $148 million as of december 31,
+2008.
+
+
+
+
+
+
+
+
+(b)
+
+
+represents
+      total shareholders’ equity divided by the actual number of common shares
+      outstanding (which excludes treasury shares and shares held by our
+      employee benefit trust).
+
+
+
+
+
+the
+increases in cash and cash equivalents and short-term investments and loans,
+working capital and the ratio of current assets to current liabilities, as of
+march 29, 2009, compared to december 31, 2008, were primarily due to the
+investment of the proceeds from our issuance of $13.5 billion of long-term debt
+in anticipation of our acquisition of wyeth and the timing of accruals, cash
+receipts and payments in the ordinary course of business.
+
+net cash provided by
+operating activities
+
+during the
+first quarter of 2009, net cash provided by operating activities was $3.1
+billion, compared to $3.3 billion in the same period of 2008. the slightly lower
+net cash provided by operating activities was primarily attributable
+to:
+
+
+
+
+
+·
+
+
+the
+      timing of receipts and payments in the ordinary course of
+      business.
+
+
+
+
+
+net cash used in investing
+activities
+
+during the
+first quarter of 2009, net cash used in investing activities was $13.6 billion,
+compared to $5.5 billion in the same period in 2008. the increase in net cash
+used in investing activities was primarily attributable to:
+
+
+
+
+
+·
+
+
+net
+      purchases of investments of $13.6 billion in the first quarter of 2009
+      primarily reflecting the investment of proceeds from our issuance of $13.5
+      billion of senior unsecured notes compared to $4.3 billion in the same
+      period in 2008.
+
+
+
+
+
+net cash provided by
+financing activities
+
+during the
+first quarter of 2009, net cash provided by financing activities was $9.6
+billion, compared to $848 million in the same period in 2008. the increase in
+net cash provided by financing activities was primarily attributable
+to:
+
+
+
+
+
+·
+
+
+net
+      borrowings of $11.8 billion in the first quarter of 2009 primarily
+      reflecting the proceeds from our issuance of $13.5 billion of senior
+      unsecured notes compared to $3.0 billion in the same period in
+      2008.
+
+
+
+
+
+in june
+2005, we announced a $5 billion share-purchase program. in june 2006, the board
+of directors increased the share purchase authorization from $5 billion to $18
+billion. in january 2008, we announced a new $5 billion share-purchase program,
+to be funded by operating cash flows, that may be utilized from time to time. on
+january 26, 2009, we announced that we entered into a definitive merger
+agreement under which we will acquire wyeth in a cash-and-stock transaction. the
+merger agreement limits our stock purchases to a maximum of $500 million prior
+to the completion of the transaction without wyeth’s consent. the bridge credit
+agreement limits our stock purchases and redemptions to a maximum of $250
+million until the commitment expires or is terminated, and all loans under the
+agreement, if any, have been paid.
+
+
+
+
+
+
+46
+
+
+
+
+
+
+
+
+
+off-balance sheet
+arrangements
+
+in the
+ordinary course of business and in connection with the sale of assets and
+businesses, we often indemnify our counterparties against certain liabilities
+that may arise in connection with a transaction or that are related to
+activities prior to a transaction. these indemnifications typically pertain to
+environmental, tax, employee and/or product-related matters, and patent
+infringement claims. if the indemnified party were to make a successful claim
+pursuant to the terms of the indemnification, we would be required to reimburse
+the loss. these indemnifications are generally subject to threshold amounts,
+specified claim periods and other restrictions and limitations. historically, we
+have not paid significant amounts under these provisions and, as of march 29,
+2009, recorded amounts for the estimated fair value of these indemnifications
+are not significant.
+
+certain of
+our co-promotion or license agreements give our licensors or partners the rights
+to negotiate for, or in some cases to obtain under certain financial conditions,
+co-promotion or other rights in specified countries with respect to certain of
+our products.
+
+dividends on common
+stock
+
+in
+december 2008, our board of directors declared a first-quarter 2009 dividend of
+$0.32 per share. in january 2009, in connection with the pending merger between
+pfizer and wyeth, the board of directors determined that, effective with the
+dividend to be paid in the second quarter of 2009 and in accordance with the
+terms of the merger agreement, it would reduce our quarterly dividend per share
+of common stock to $0.16. in april 2009, the board of directors declared a
+second-quarter dividend of $0.16 per share. the merger agreement prohibits us
+from declaring a quarterly dividend on our common stock in excess of $0.16 per
+share without wyeth’s consent prior to the completion of the transaction. the
+bridge credit agreement prohibits us from declaring and paying a quarterly
+dividend on our common stock in excess of $0.32 per share until the commitment
+expires or is terminated and all loans under the agreement, if any, have been
+paid.
+
+new accounting
+standards
+
+recently adopted accounting
+standards
+
+as of
+january 1, 2009, we adopted financial accounting standards board (fasb)
+statement of financial accounting standards (sfas) no. 141r, business combinations, as
+amended. sfas 141r, as amended, retains the purchase method of accounting for
+acquisitions, but requires a number of changes, including changes in the way
+assets and liabilities are recognized in purchase accounting. it also changes
+the recognition of assets acquired and liabilities assumed arising from
+contingencies, requires the capitalization of in-process research and
+development costs at fair value and requires the expensing of
+acquisition-related costs as incurred. the adoption of sfas 141r, as amended,
+did not impact our consolidated financial statements upon adoption, but does
+impact the accounting for future acquisitions, including our pending acquisition
+of wyeth.
+
+as of
+january 1, 2009, we adopted fasb financial staff position (fsp) sfas no. 142-3,
+determination of the useful
+life of intangible assets. fsp sfas 142-3 amends the factors considered
+in developing renewal or extension assumptions used to determine the useful life
+of a recognized intangible asset. among other things, in the absence of
+historical experience, an entity will be required to consider assumptions used
+by market participants. the adoption of fsp sfas 142-3 did not impact our
+consolidated financial statements upon adoption, but could impact the accounting
+for future acquisitions.
+
+as of
+january 1, 2009, we adopted the provisions of fasb sfas no. 157, fair value measurements, as
+amended, that we did not adopt as of january 1, 2008. sfas 157, as amended,
+defines fair value, expands related disclosure requirements and specifies a
+hierarchy of valuation techniques based on the nature of the inputs used to
+develop the fair value measures. the adoption of the remaining provisions of
+sfas 157, as amended, did not have a significant impact on our consolidated
+financial statements upon adoption, but will impact the accounting for future
+acquisitions, including our pending acquisition of wyeth, and other events and
+transactions measured at fair value.
+
+as of
+january 1, 2009, we adopted fasb sfas no. 160, noncontrolling interests in
+consolidated financial statements, an amendment of accounting research
+bulletin no. 51, consolidated
+financial statements. sfas 160 provides guidance for the accounting,
+reporting and disclosure of noncontrolling interests, previously referred to as
+minority interests. a noncontrolling interest represents the portion of equity
+(net assets) in a subsidiary not attributable, directly or indirectly, to a
+parent. the adoption of sfas 160 resulted in a number of changes to the
+presentation of our consolidated financial statements, but the amounts
+associated with noncontrolling interests are not significant. sfas 160 could
+impact our accounting for future acquisitions where we do not acquire 100% of
+the entity and our accounting for the deconsolidations of
+subsidiaries.
+
+
+
+
+
+
+47
+
+
+
+
+
+
+
+
+
+as of
+january 1, 2009, we adopted emerging issues task force (eitf) issue no. 07-1,
+accounting for collaborative
+arrangements. eitf 07-1 provides guidance on: determining whether an
+arrangement constitutes a collaborative arrangement within the scope of the
+issue; how costs incurred and revenue generated on sales to third parties should
+be reported in the income statement; how an entity should characterize payments
+on the income statement; and what participants should disclose in the notes to
+the financial statements about a collaborative arrangement. the adoption of eitf
+07-1 did not have a significant impact on our consolidated financial statements,
+and additional disclosures have been provided. (see notes to condensed
+consolidated financial statements – note 4. collaborative
+arrangements.)
+
+as of
+january 1, 2009, we adopted eitf issue no. 08-3, accounting by lessees for
+maintenance deposits. eitf 08-3 provides guidance that maintenance
+deposits paid by a lessee and subsequently refunded only if a lessee fulfills a
+maintenance obligation will be accounted for as a deposit asset. the adoption of
+eitf 08-3 did not have a significant impact on our consolidated financial
+statements.
+
+as of
+january 1, 2009, we adopted eitf issue no. 08-6, equity method investment accounting
+considerations. eitf 08-6 clarifies how to account for certain
+transactions involving equity method investments in areas such as how to
+determine the initial carrying value of the investment; how to allocate the
+difference between the investor’s carrying value and the investor’s share of the
+underlying equity of the investment; how to perform an impairment assessment of
+underlying intangibles held by the investee; how to account for the investee’s
+issuance of additional shares; and how to account for an investment on the cost
+method when it had been previously accounted for under the equity method. the
+adoption of eitf 08-6 did not have a significant impact on our consolidated
+financial statements, but could impact the accounting for future equity method
+investments.
+
+as of
+january 1, 2009, we adopted eitf issue no. 08-7, accounting for defensive intangible
+assets. eitf 08-7 clarifies the accounting for certain separately
+identifiable assets, which an acquirer does not intend to actively use but
+intends to hold to prevent its competitors from obtaining access to them. eitf
+08-7 requires an acquirer to account for a defensive intangible asset as a
+separate unit of accounting, which should be amortized to expense over the
+period the asset diminishes in value. the adoption of eitf 08-7 did not have a
+significant impact on our consolidated financial statements, but could impact
+the accounting for future acquisitions.
+
+recently issued accounting
+standards, not adopted as of march 29, 2009
+
+in april
+2009, the fasb issued fsp no. 115-2, recognition and presentation of
+other than temporary impairments. fsp 115-2 amends how one determines
+that an impairment of an available-for-sale or held-to-maturity debt security is
+other than temporary. also, the standard amends how one determines the amount of
+the impairment that would be recorded as a reduction in net income or an
+increase in other comprehensive expense. the provisions of fsp 115-2 will be
+adopted when required in the second quarter of 2009. we do not expect the
+adoption of the provisions of fsp 115-2 to have a significant impact on our
+consolidated financial statements.
+
+in april
+2009, the fasb issued fsp no. 157-4 determining fair value when the
+volume and level of activity for the asset or liability have significantly
+decreased and identifying transactions that are not orderly. fsp 157-4
+provides additional guidance for estimating fair value. the provisions of fsp
+157-4 will be adopted prospectively when required in the second quarter of 2009.
+we do not expect the adoption of the provisions of fsp 157-4 to have a
+significant impact on our consolidated financial statements, but may impact the
+accounting for future acquisitions, including our pending acquisition of wyeth,
+and other events and transactions measured at fair value.
+
+outlook
+
+while our
+revenues and income will continue to be tempered in the near term due to patent
+expirations and other factors, we will continue to make the investments
+necessary to sustain long-term growth. we remain confident that pfizer has the
+organizational strength and resilience, as well as the strategies, financial
+depth and flexibility, to succeed in the long term. however, no assurance can be
+given that the factors described above under “our operating environment” or
+below under “forward-looking information and factors that may affect future
+results” or other significant factors will not have a material adverse effect on
+our business and financial results.
+
+our 2009
+guidance reflects the projected impact of the strengthening of the u.s. dollar,
+increased pension expenses and lower interest income. it also reflects an
+increase in the effective tax rate associated with certain business decisions
+executed to finance the pending wyeth acquisition.
+
+
+
+
+
+
+48
+
+
+
+
+
+
+
+
+
+at current
+exchange rates, we forecast 2009 revenues of $44.0 billion to $46.0 billion, and
+adjusted diluted earnings per common share (eps) of $1.85 to $1.95. we reduced
+our guidance for 2009 reported diluted eps attributable to pfizer inc. common
+shareholders to a range of $1.20 to $1.35 from $1.34 to $1.49 to reflect certain
+costs incurred and expected to be incurred in connection with the pending
+acquisition of wyeth.
+
+on january
+26, 2009, we announced the implementation of a new cost-reduction initiative
+that we anticipate will achieve a reduction in adjusted total costs of
+approximately $3 billion, based on the actual foreign exchange rates in effect
+during 2008, by the end of 2011, compared with our 2008 adjusted total costs. we
+expect that this program will be completed by the end of 2010, with full savings
+to be realized by the end of 2011. we plan to reinvest approximately $1 billion
+of these savings in the business, resulting in an expected $2 billion net
+decrease compared to our 2008 adjusted total costs. (for an understanding of
+adjusted income, see the “adjusted income” section of this
+md&a.)
+
+as
+referenced in this section, “current exchange rates” is defined as rates
+approximating foreign currency spot rates in april 2009.
+
+given
+these and other factors, a reconciliation, at current exchange rates and
+reflecting management’s current assessment, of 2009 adjusted income and adjusted
+diluted eps guidance to 2009 reported net income attributable to pfizer inc. and
+reported diluted eps attributable to pfizer inc. common shareholders guidance,
+follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+      
+ 
+
+full-year
+      2009 guidance
+
+ 
+
+
+
+($ billions, except per share
+      amounts)
+
+ 
+
+net
+      income(a)
+
+ 
+ 
+
+diluted
+      eps(a)
+
+ 
+
+
+
+adjusted
+      income/diluted eps(b)
+      guidance
+
+ 
+
+~$12.5-$13.2
+
+ 
+ 
+
+~$1.85-$1.95
+
+ 
+
+
+
+purchase
+      accounting impacts of business-development transactions completed as of
+      12/31/08
+
+ 
+
+ 
+(1.5)
+
+ 
+ 
+ 
+
+(0.23)
+
+ 
+
+
+
+costs
+      related to cost-reduction initiatives
+
+ 
+
+ 
+(1.3-1.6)
+
+ 
+ 
+ 
+
+(0.20-0.23)
+
+ 
+
+
+
+wyeth
+      acquisition-related costs
+
+ 
+
+ 
+(1.1-1.2)
+
+ 
+ 
+ 
+
+(0.16-0.18)
+
+ 
+
+
+
+certain
+      legal matters
+
+ 
+
+ 
+(.1)
+
+    
+ 
+ 
+
+(0.01)
+
+    
+
+
+
+reported
+      net income attributable to pfizer inc./diluted eps attributable to pfizer
+      inc. common shareholders guidance
+
+ 
+
+~$8.1-$9.2
+
+ 
+ 
+
+~$1.20-$1.35
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+
+does
+      not assume the completion of any business-development transactions not
+      completed as of march 29, 2009, and excludes the potential effects of
+      litigation-related matters not substantially resolved as of march 29,
+      2009, as we do not forecast those matters. however, full-year 2009
+      financial guidance for reported net income attributable to pfizer inc. and
+      reported diluted eps attributable to pfizer inc. common shareholders do
+      reflect certain costs incurred, and expected to be incurred, in connection
+      with the pending wyeth acquisition, including, but not limited to,
+      transaction costs, pre-integration costs and financing
+    costs.
+
+
+
+
+
+
+
+
+(b)
+
+
+for
+      an understanding of adjusted income, see the “adjusted income” section of
+      this md&a.
+
+
+
+
+
+our 2009
+forecasted financial performance guidance is subject to a number of factors and
+uncertainties, as described in the “forward-looking information and factors that
+may affect future results” section of this md&a.
+
+forward looking information
+and factors that may affect future results
+
+the
+securities and exchange commission (sec) encourages companies to disclose
+forward-looking information so that investors can better understand a company’s
+future prospects and make informed investment decisions. this report and other
+written or oral statements that we make from time to time contain such
+forward-looking statements that set forth anticipated results based on
+management’s plans and assumptions. such forward-looking statements involve
+substantial risks and uncertainties. we have tried, wherever possible, to
+identify such statements by using words such as “will,” “anticipate,”
+“estimate,” “expect,” “project,” “intend,” “plan,” “believe,” “target,”
+“forecast,” and other words and terms of similar meaning in connection with any
+discussion of future operating or financial performance or business plans and
+prospects. in
+particular,
+these include statements relating to future actions, business plans and
+prospects, prospective products or product approvals, future performance or
+results of current and anticipated products, sales efforts, expenses, interest
+rates, foreign exchange rates, the outcome of contingencies, such as legal
+proceedings, and financial results. among the factors that could cause actual
+results to differ materially are the following:
+
+
+
+
+
+·
+
+
+success
+      of research and development
+activities;
+
+
+
+
+
+
+
+
+
+·
+
+
+decisions
+      by regulatory authorities regarding whether and when to approve our drug
+      applications, as well as their decisions regarding labeling and other
+      matters that could affect the availability or commercial potential of our
+      products;
+
+
+
+
+
+
+
+
+
+·
+
+
+speed
+      with which regulatory authorizations, pricing approvals and product
+      launches may be achieved;
+
+
+
+
+
+
+
+
+
+·
+
+
+success
+      of external business-development
+activities;
+
+
+
+
+ 
+
+
+
+
+
+
+49
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+·
+
+
+competitive
+      developments, including those with respect to competitor drugs and drug
+      candidates that treat diseases and conditions similar to those treated by
+      our in-line drugs and drug
+candidates;
+
+
+
+
+
+
+
+
+
+·
+
+
+ability
+      to successfully market both new and existing products domestically and
+      internationally;
+
+
+
+
+
+
+
+
+
+·
+
+
+difficulties
+      or delays in manufacturing;
+
+
+
+
+
+
+
+
+
+·
+
+
+trade
+      buying patterns;
+
+
+
+
+
+
+
+
+
+·
+
+
+ability
+      to meet generic and branded competition after the loss of patent
+      protection for our products and competitor
+  products;
+
+
+
+
+
+
+
+
+
+·
+
+
+impact
+      of existing and future legislation and regulatory provisions on product
+      exclusivity;
+
+
+
+
+
+
+
+
+
+·
+
+
+trends
+      toward managed care and healthcare cost
+  containment;
+
+
+
+
+
+
+
+
+
+·
+
+
+u.s.
+      legislation or regulatory action affecting, among other things,
+      pharmaceutical product pricing, reimbursement or access, including under
+      medicaid, medicare and other publicly funded or subsidized health
+      programs; the importation of prescription drugs from outside the u.s. at
+      prices that are regulated by governments of various foreign countries;
+      direct-to-consumer advertising and interactions with healthcare
+      professionals; and the use of comparative effectiveness methodologies that
+      could be implemented in a manner that focuses primarily on the cost
+      differences and minimizes the therapeutic differences among pharmaceutical
+      products and restricts access to innovative
+  medicines;
+
+
+
+
+
+
+
+
+
+·
+
+
+impact
+      of the medicare prescription drug, improvement, and modernization act of
+      2003;
+
+
+
+
+
+
+
+
+
+·
+
+
+legislation
+      or regulatory action in markets outside the u.s. affecting pharmaceutical
+      product pricing, reimbursement or
+access;
+
+
+
+
+
+
+
+
+
+·
+
+
+contingencies
+      related to actual or alleged environmental
+  contamination;
+
+
+
+
+
+
+
+
+
+·
+
+
+claims
+      and concerns that may arise regarding the safety or efficacy of in-line
+      products and product candidates;
+
+
+
+
+
+
+
+
+
+·
+
+
+significant
+      breakdown, infiltration or interruption of our information technology
+      systems and infrastructure;
+
+
+
+
+
+
+
+
+
+·
+
+
+legal
+      defense costs, insurance expenses, settlement costs and the risk of an
+      adverse decision or settlement related to product liability, patent
+      protection, governmental investigations, ongoing efforts to explore
+      various means for resolving asbestos litigation, and other legal
+      proceedings;
+
+
+
+
+
+
+
+
+
+·
+
+
+ability
+      to protect our patents and other intellectual property both domestically
+      and internationally;
+
+
+
+
+
+
+
+
+
+·
+
+
+interest
+      rate and foreign currency exchange rate
+  fluctuations;
+
+
+
+
+
+
+
+
+
+·
+
+
+governmental
+      laws and regulations affecting domestic and foreign operations, including
+      tax obligations;
+
+
+
+
+
+
+
+
+
+·
+
+
+changes
+      in u.s. generally accepted accounting
+  principles;
+
+
+
+
+
+
+
+
+
+·
+
+
+uncertainties
+      related to general economic, political, business, industry, regulatory and
+      market conditions including, without limitation, uncertainties related to
+      the impact on us, our lenders, our customers, our suppliers and
+      counterparties to our foreign-exchange and interest-rate agreements of the
+      global recession and recent and possible future changes in global
+      financial markets;
+
+
+
+
+
+
+
+
+
+·
+
+
+any
+      changes in business, political and economic conditions due to actual or
+      threatened terrorist activity in the u.s. and other parts of the world,
+      and related u.s. military action
+overseas;
+
+
+
+
+
+
+
+
+
+·
+
+
+growth
+      in costs and expenses;
+
+
+
+
+
+
+
+
+
+·
+
+
+changes
+      in our product, segment and geographic
+mix;
+
+
+
+
+
+
+
+
+
+·
+
+
+our
+      ability and wyeth’s ability to satisfy the conditions to closing our
+      merger agreement; and
+
+
+
+
+
+
+
+
+
+·
+
+
+impact
+      of acquisitions, divestitures, restructurings, product withdrawals and
+      other unusual items, including our ability to realize the projected
+      benefits of our pending acquisition of wyeth and of our cost-reduction
+      initiatives.
+
+
+
+
+
+we cannot
+guarantee that any forward-looking statement will be realized, although we
+believe we have been prudent in our plans and assumptions. achievement of
+anticipated results is subject to substantial risks, uncertainties and
+inaccurate assumptions. should known or unknown risks or uncertainties
+materialize, or should underlying assumptions prove inaccurate, actual results
+could vary materially from past results and those anticipated, estimated or
+projected. investors should bear this in mind as they consider forward-looking
+statements.
+
+
+
+
+
+
+50
+
+
+
+
+
+
+
+
+
+we
+undertake no obligation to publicly update forward-looking statements, whether
+as a result of new information, future events or otherwise. you are advised,
+however, to consult any further disclosures we make on related subjects in our
+form 10-q, 8-k and 10-k reports to the securities and exchange
+commission.
+ 
+our form
+10-k filing for the 2008 fiscal year listed various important factors that could
+cause actual results to differ materially from projected and historic results.
+we note these factors for investors as permitted by the private securities
+litigation reform act of 1995. readers can find them in part i, item 1a, of that
+filing under the heading “risk factors.” we incorporate that section of that
+form 10-k in this filing and investors should refer to it. you should understand
+that it is not possible to predict or identify all such factors. consequently,
+you should not consider any such list to be a complete set of all potential
+risks or uncertainties.
+
+this
+report includes discussion of certain clinical studies relating to various
+in-line products and/or product candidates. these studies typically are part of
+a larger body of clinical data relating to such products or product candidates,
+and the discussion herein should be considered in the context of the larger body
+of data.
+
+legal proceedings and
+contingencies
+
+we and
+certain of our subsidiaries are involved in various patent, product liability,
+consumer, commercial, securities, environmental and tax litigations and claims;
+government investigations; and other legal proceedings that arise from time to
+time in the ordinary course of our business. we do not believe any of them will
+have a material adverse effect on our financial position.
+
+we record
+accruals for income tax contingencies to the extent that we conclude that a tax
+position is not sustainable under a “more likely than not” standard, and we
+record our estimate of the potential tax benefits in one tax jurisdiction that
+could result from the payment of income taxes in another tax jurisdiction when
+we conclude that the potential recovery is more likely than not. we record
+accruals for all other contingencies to the extent that we conclude their
+occurrence is probable and the related damages are estimable, and we record
+anticipated recoveries under existing insurance contracts when assured of
+recovery. if a range of liability is probable and estimable and some amount
+within the range appears to be a better estimate than any other amount within
+the range, we accrue that amount. if a range of liability is probable and
+estimable and no amount within the range appears to be a better estimate than
+any other amount within the range, we accrue the minimum of such probable range.
+many claims involve highly complex issues relating to causation, label warnings,
+scientific evidence, actual damages and other matters. often these issues are
+subject to substantial uncertainties and, therefore, the probability of loss and
+an estimation of damages are difficult to ascertain. consequently, we cannot
+reasonably estimate the maximum potential exposure or the range of possible loss
+in excess of amounts accrued for these contingencies. these assessments can
+involve a series of complex judgments about future events and can rely heavily
+on estimates and assumptions. our assessments are based on estimates and
+assumptions that have been deemed reasonable by management. litigation is
+inherently unpredictable, and excessive verdicts do occur. although we believe
+we have substantial defenses in these matters, we could in the future incur
+judgments or enter into settlements of claims that could have a material adverse
+effect on our results of operations in any particular period.
+
+patent
+claims include challenges to the coverage and/or validity of our patents on
+various products or processes. although we believe we have substantial defenses
+to these challenges with respect to all our material patents, there can be no
+assurance as to the outcome of these matters, and a loss in any of these cases
+could result in a loss of patent protection for the drug at issue, which could
+lead to a significant loss of sales of that drug and could materially affect
+future results of operations.
+
