@@ -12,4 +12,4 @@
 * map.png: 熱點圖
 
 ### Flowchart
-![Flowchart](https://github.com/1997YJ/Fintech_Text-Mining_Machine-Learning/raw/master/HW2/Flowchart.img)
+[Flowchart](https://github.com/1997YJ/Fintech_Text-Mining_Machine-Learning/raw/master/HW2/Flowchart.pdf)
