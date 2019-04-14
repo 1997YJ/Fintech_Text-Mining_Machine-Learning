@@ -4,3 +4,6 @@
 ### Homework 1
 * ETF web crawler
 * CBOE put/call ratio web crawler
+### Homework 2
+* Co-occurrence matrix
+* Heat map
